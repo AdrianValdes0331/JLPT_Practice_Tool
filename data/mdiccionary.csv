@@ -1,0 +1,504 @@
+section,level,category,word,reading,meaning
+mdiccionary,N3,Colores,青い,あおい,Azul/es
+mdiccionary,N3,Colores,赤い,あかい,Rojo/a/os /as
+mdiccionary,N3,Colores,黄色い,きいろい,Amarillo/a/os/as
+mdiccionary,N3,Colores,黒い,くろい,Negro/a/os /as
+mdiccionary,N3,Colores,白い,しろい,Blanco/a/os /as
+mdiccionary,N3,Colores,茶色い,ちゃいろい,Marrón /es
+mdiccionary,N3,Colores,オレンジ色の,おれんじいろの,De color naranja
+mdiccionary,N3,Colores,グレーの,ぐれーの,De color gris
+mdiccionary,N3,Colores,灰色の,はいいろの,De color gris
+mdiccionary,N3,Colores,ピンク色の,ぴんくいろの,De color rosa
+mdiccionary,N3,Colores,ブルーの,ぶるーの,De color azul
+mdiccionary,N3,Colores,ベージュ色の,べーじゅいろの,De color beige
+mdiccionary,N3,Colores,緑色の,みどりいろの,De color verde
+mdiccionary,N3,Frutas,パイナップル,ぱいなっぷる,Piña
+mdiccionary,N3,Frutas,スイカ,すいか,Sandia
+mdiccionary,N3,Frutas,メロン,めろん,Melon
+mdiccionary,N3,Frutas,ナシ,なし,Pera
+mdiccionary,N3,Frutas,ブドウ,ぶどう,Uva
+mdiccionary,N3,Frutas,キーウィフルーツ,きーうぃふるーつ,Kiwi
+mdiccionary,N3,Frutas,りんご,りんご,Manzana
+mdiccionary,N3,Frutas,オレンジ,おれんじ,Naranja
+mdiccionary,N3,Frutas,さくらんぼ,さくらんぼ,Cereza
+mdiccionary,N3,Frutas,マンゴー,まんごー,Mango
+mdiccionary,N3,Frutas,バナナ,ばなな,Platano
+mdiccionary,N3,Frutas,ミカン,みかん,Mandarina
+mdiccionary,N3,Verduras,ニンジン,にんじん,Zanahoria
+mdiccionary,N3,Verduras,ジャガイモ,じゃがいも,Papa
+mdiccionary,N3,Verduras,トマト,とまと,Tomate
+mdiccionary,N3,Verduras,タマネギ,たまねぎ,Cebolla
+mdiccionary,N3,Verduras,ニンニク,にんにく,Ajo
+mdiccionary,N3,Verduras,ブロッコリ,ぶろっこり,Brocoli
+mdiccionary,N3,Verduras,アボカド,あぼかど,Aguacate
+mdiccionary,N3,Verduras,レタス,れたす,Lechuga
+mdiccionary,N3,Verduras,ほうれんそう,ほうれんそう,Espinaca
+mdiccionary,N3,Verduras,カリフラワー,かりふらわー,Coliflor
+mdiccionary,N3,Verduras,コリアンダー,こりあんだー,Cilantro
+mdiccionary,N3,Animales,ゾウ,ぞう,Elefante
+mdiccionary,N3,Animales,キリン,きりん,Girafa
+mdiccionary,N3,Animales,サイ,さい,Rinocerante
+mdiccionary,N3,Animales,ニワトリ,にわとり,Gallina
+mdiccionary,N3,Animales,おんどり,おんどり,Gallo
+mdiccionary,N3,Animales,カモ,かも,Pato
+mdiccionary,N3,Animales,雌牛,めうし,Vaca
+mdiccionary,N3,Animales,牡牛,おうし,Toro
+mdiccionary,N3,Animales,ブタ,ぶた,Cerdo
+mdiccionary,N3,Animales,羊,ひつじ,Oveja
+mdiccionary,N3,Animales,ウサギ,うさぎ,Conejo
+mdiccionary,N3,Animales,アライグマ,あらいぐま,Mapache
+mdiccionary,N3,Animales,クマ,くま,Oso
+mdiccionary,N3,Animales,オオカミ,おおかみ,Lobo
+mdiccionary,N3,Animales,ワシ,わし,Aguila
+mdiccionary,N3,Animales,キツネ,きつね,Zorro
+mdiccionary,N3,Animales,カエル,かえる,Rana
+mdiccionary,N3,Animales,カメ,かめ,Tortuga
+mdiccionary,N3,Animales,トカゲ,とかげ,Lagartija
+mdiccionary,N3,Animales,ワニ,わに,Cocodrilo
+mdiccionary,N3,Animales,アリ,あり,Hormiga
+mdiccionary,N3,Animales,ハチ,はち,Abeja
+mdiccionary,N3,Animales,サメ,さめ,Tiburon
+mdiccionary,N3,Animales,鳥,とり,Pajaro
+mdiccionary,N3,Animales,シマウマ,しまうま,Zebra
+mdiccionary,N3,Animales,カバ,かば,Hippopotamo
+mdiccionary,N3,Animales,ネズミ,ねずみ,Raton
+mdiccionary,N3,Animales,ゴキブリ,ごきぶり,Cucaracha
+mdiccionary,N3,Animales,シカ,しか,Ciervo
+mdiccionary,N3,Animales,ライオン,らいおん,León
+mdiccionary,N3,Animales,イルカ,いるか,Delfin
+mdiccionary,N3,Animales,蛇,へび,Serpiente
+mdiccionary,N3,Animales,犬,いぬ,Perro
+mdiccionary,N3,Animales,猫,ねこ,Gato
+mdiccionary,N3,Animales,タコ,たこ,Pulpo
+mdiccionary,N3,Animales,クモ,くも,Araña
+mdiccionary,N3,Animales,パンダ,ぱんだ,Panda
+mdiccionary,N3,Animales,インコ,いんこ,Perico
+mdiccionary,N3,Animales,クジラ,くじら,Ballena
+mdiccionary,N3,Animales,サル,さる,Mono
+mdiccionary,N3,Animales,ゴリラ,ごりら,Gorila
+mdiccionary,N3,Animales,馬,うま,Caballo
+mdiccionary,N3,Animales,ダチョウ,だちょう,Avestrus
+mdiccionary,N3,Animales,カンガルー,かんがるー,Canguro
+mdiccionary,N3,Animales,ラクダ,らくだ,Camello
+mdiccionary,N3,Verbos,動詞,どうし,Verbos
+mdiccionary,N3,Verbos,会う,あう,Encontrarse a/con
+mdiccionary,N3,Verbos,遊ぶ,あそぶ,Jugar/divertirse
+mdiccionary,N3,Verbos,洗う,あらう,Lavar
+mdiccionary,N3,Verbos,歩く,あるく,Andar
+mdiccionary,N3,Verbos,ある,ある,Haber/estar/tener(cosas)
+mdiccionary,N3,Verbos,言う,いう,Decir
+mdiccionary,N3,Verbos,行く,いく,Ir
+mdiccionary,N3,Verbos,歌う,うたう,Cantar
+mdiccionary,N3,Verbos,売る,うる,Vender
+mdiccionary,N3,Verbos,送る,おくる,Enviar
+mdiccionary,N3,Verbos,泳ぐ,およぐ,Nadar
+mdiccionary,N3,Verbos,買う,かう,Comprar
+mdiccionary,N3,Verbos,帰る,かえる,Regresar
+mdiccionary,N3,Verbos,書く,かく,Escribir
+mdiccionary,N3,Verbos,聞く,きく,Escuchar/oir/preguntar
+mdiccionary,N3,Verbos,切る,きる,Cortar
+mdiccionary,N3,Verbos,消す,けす,Apagar /borrar
+mdiccionary,N3,Verbos,吸う,すう,Fumar
+mdiccionary,N3,Verbos,出す,だす,Sacar
+mdiccionary,N3,Verbos,使う,つかう,Utilizar
+mdiccionary,N3,Verbos,着く,つく,Llegar
+mdiccionary,N3,Verbos,作る,つくる,Hacer/producir
+mdiccionary,N3,Verbos,通る,とおる,Pasar
+mdiccionary,N3,Verbos,取る,とる,Coger
+mdiccionary,N3,Verbos,撮る,とる,Fotografiar
+mdiccionary,N3,Verbos,飲む,のむ,Beber
+mdiccionary,N3,Verbos,乗る,のる,Subirse a [Medio de transporte]
+mdiccionary,N3,Verbos,入る,はいる,Entrar
+mdiccionary,N3,Verbos,始まる,はじまる,Empezar
+mdiccionary,N3,Verbos,働く,はたらく,Trabajar
+mdiccionary,N3,Verbos,話す,はなす,Hablar
+mdiccionary,N3,Verbos,待つ,まつ,Esperar
+mdiccionary,N3,Verbos,休む,やすむ,Descansar
+mdiccionary,N3,Verbos,読む,よむ,Leer
+mdiccionary,N3,Verbos,分かる,わかる,Comprender/saber
+mdiccionary,N3,Verbos,笑う,わらう,Reir
+mdiccionary,N3,Verbos,開ける,あける,Abrir
+mdiccionary,N3,Verbos,浴びる,あびる,Ducharse
+mdiccionary,N3,Verbos,居る,いる,Haber/estar /tener (Personas o animales)
+mdiccionary,N3,Verbos,入れる,いれる,Meter
+mdiccionary,N3,Verbos,起きる,おきる,Levantarse
+mdiccionary,N3,Verbos,教える,おしえる,Enseñar
+mdiccionary,N3,Verbos,降りる,おりる,Bajar /apearse
+mdiccionary,N3,Verbos,かける,かける,Telefonear
+mdiccionary,N3,Verbos,答える,こたえる,Responder
+mdiccionary,N3,Verbos,閉める,しめる,Cerrar
+mdiccionary,N3,Verbos,食べる,たべる,Comer
+mdiccionary,N3,Verbos,つける,つける,Encender
+mdiccionary,N3,Verbos,出る,でる,Salir
+mdiccionary,N3,Verbos,寝る,ねる,Dormir /acostarse
+mdiccionary,N3,Verbos,始める,はじめる,Empezar
+mdiccionary,N3,Verbos,見る,みる,Mirar/ver
+mdiccionary,N3,Verbos,忘れる,わすれる,Olvidar
+mdiccionary,N3,Verbos,する,する,Hacer
+mdiccionary,N3,Verbos,来る,くる,Venir
+mdiccionary,N3,Verbos,買物をする,かいものをする,Hacer la compra
+mdiccionary,N3,Verbos,結婚する,けっこんする,Casarse
+mdiccionary,N3,Verbos,散歩する,さんぽする,Pasear
+mdiccionary,N3,Verbos,仕事をする,しごとをする,Trabajar
+mdiccionary,N3,Verbos,食事をする,しょくじをする,Comer
+mdiccionary,N3,Verbos,心配する,しんぱいする,Preocuparse
+mdiccionary,N3,Verbos,スポーツをする,すぽーつをする,Hacer deporte
+mdiccionary,N3,Verbos,洗濯をする,せんたくをする,Hacer la colada
+mdiccionary,N3,Verbos,掃除をする,そうじをする,Hacer la limpieza
+mdiccionary,N3,Verbos,電話をする,でんわをする,Telefonear
+mdiccionary,N3,Verbos,勉強する,べんきょうする,Estudiar
+mdiccionary,N3,Verbos,料理をする,りょうりをする,Hacer la comida
+mdiccionary,N3,Verbos,旅行をする,りょこうをする,Viajar
+mdiccionary,N3,Verbos,お風呂に入る,おふろにはいる,Bañarse
+mdiccionary,N3,Verbos,買い物に行く,かいものにいく,Ir de compras
+mdiccionary,N3,Verbos,見物する,けんぶつする,Visitar/ver
+mdiccionary,N3,Verbos,テニスをする,てにすをする,Jugar al tenis
+mdiccionary,N3,Verbos,ハイキングに行く,はいきんぐにいく,Ir de excursión
+mdiccionary,N3,Verbos,編む,あむ,"Tejer, hacer punto"
+mdiccionary,N3,Verbos,生ける,いける,Hacer un arreglo floral
+mdiccionary,N3,Verbos,怒る,おこる,Enfadarse
+mdiccionary,N3,Verbos,踊る,おどる,Bailar
+mdiccionary,N3,Verbos,飼う,かう,Tener/Criar animales
+mdiccionary,N3,Verbos,描く,かく,Pintar/Dibujar
+mdiccionary,N3,Verbos,就職する,しゅうしょくする,Entrar en una empresa
+mdiccionary,N3,Verbos,疲れる,つかれる,Cansarse
+mdiccionary,N3,Verbos,つる,つる,Pescar
+mdiccionary,N3,Verbos,ひく,ひく,Tocar el piano
+mdiccionary,N3,Verbos,引っ越す,ひっこす,Mudarse
+mdiccionary,N3,Verbos,割る,わる,Romper/Quebrar
+mdiccionary,N3,Verbos,決める,きめる,Decidir
+mdiccionary,N3,Verbos,ならぶ,ならぶ,"Ponerse /estar en fila, alineado"
+mdiccionary,N3,Verbos,目立つ,めだつ,Llamar la atención
+mdiccionary,N3,Verbos,温める,あたためる,Calentar
+mdiccionary,N3,Verbos,写す,うつす,Copiar
+mdiccionary,N3,Verbos,遅れる,おくれる,Llegar tarde
+mdiccionary,N3,Verbos,着替える,きがえる,Cambiarse de ropa
+mdiccionary,N3,Verbos,騒ぐ,さわぐ,"Alborotar, hacer bullicio"
+mdiccionary,N3,Verbos,捨てる,すてる,"Tirar (Al suelo, a la basura, etc.)"
+mdiccionary,N3,Verbos,注意する,ちゅういする,Prestar atención
+mdiccionary,N3,Verbos,投げる,なげる,Lanzar con la mano
+mdiccionary,N3,Verbos,乗り換える,のりかえる,Hacer transbordo
+mdiccionary,N3,Verbos,アイロンをかける,あいろんをかける,Planchar
+mdiccionary,N3,Verbos,絵を描く,えをかく,Dibujar
+mdiccionary,N3,Verbos,おしゃべりをする,おしゃべりをする,Charlar
+mdiccionary,N3,Verbos,口笛を吹く,くちぶえをふく,Silbar
+mdiccionary,N3,Verbos,準備をする,じゅんびをする,Preparar
+mdiccionary,N3,Verbos,電話で話す,でんわではなす,Hablar por teléfono
+mdiccionary,N3,Verbos,歯を磨く,はをみがく,Lavarse los dientes
+mdiccionary,N3,Verbos,花に水をやる,はなにみずをやる,Regar las plantas
+mdiccionary,N3,Verbos,話をする,はなしをする,Hablar
+mdiccionary,N3,Verbos,晩御飯を作る,ばんごはんをつくる,Hacer la cena
+mdiccionary,N3,Verbos,ひげをそる,ひげをそる,Afeitarse
+mdiccionary,N3,Verbos,雨が降る,あめがふる,Llover
+mdiccionary,N3,Verbos,いる,いる,Necesitar
+mdiccionary,N3,Verbos,運転する,うんてんする,Conducir
+mdiccionary,N3,Verbos,招待する,しょうたいする,Invitar
+mdiccionary,N3,Verbos,できる,できる,"Poder, saber + inf."
+mdiccionary,N3,Verbos,泣く,なく,Llorar
+mdiccionary,N3,Verbos,ひげをそる,ひげをそる,Afeitarse
+mdiccionary,N3,Verbos,プレゼントをする,ぷれぜんとをする,Regalar
+mdiccionary,N3,Verbos,雪が降る,ゆきがふる,Nevar
+mdiccionary,N3,Verbos,息をする,いきをする,Respirar
+mdiccionary,N3,Verbos,靴を磨く,くつをみがく,Cepillar los zapatos
+mdiccionary,N3,Verbos,辞書をひく,じしょをひく,Consultar el diccionario
+mdiccionary,N3,Verbos,試験を受ける,しけんをうける,Examinarse
+mdiccionary,N3,Verbos,試す,ためす,Probar~/probarse~
+mdiccionary,N3,Verbos,駐車する,ちゅうしゃする,Aparcar
+mdiccionary,N3,Verbos,出かける,でかける,Salir
+mdiccionary,N3,Verbos,ドアにかぎをかける,どあにかぎをかける,Cerrar la puerta con llave
+mdiccionary,N3,Verbos,なおる,なおる,"Mejorar, arreglarse"
+mdiccionary,N3,Verbos,服を干す,ふくをほす,Poner la ropa a secar
+mdiccionary,N3,Verbos,ほこりをはらう,ほこりをはらう,Quitar el polvo
+mdiccionary,N3,Verbos,連絡する,れんらくする,Ponerse en contacto con~
+mdiccionary,N3,Verbos,いじめる,いじめる,Maltratar
+mdiccionary,N3,Verbos,うそをつく,うそをつく,Mentir
+mdiccionary,N3,Verbos,遅れる,おくれる,Llegar con retraso
+mdiccionary,N3,Verbos,折る,おる,"Romper, doblar"
+mdiccionary,N3,Verbos,カンニングする,かんにんぐする,Copiar en un examen
+mdiccionary,N3,Verbos,消える,きえる,"Apagarse, borrarse"
+mdiccionary,N3,Verbos,つく,つく,Encenderse
+mdiccionary,N3,Verbos,勤める,つとめる,Trabajar en
+mdiccionary,N3,Verbos,とる,とる,Coger/robar
+mdiccionary,N3,Verbos,なおす,なおす,"Arreglar, corregir/sanar"
+mdiccionary,N3,Verbos,ぬすむ,ぬすむ,Robar
+mdiccionary,N3,Verbos,押す,おす,"Apretar, pulsar, empujar"
+mdiccionary,N3,Verbos,落ちる,おちる,Desteñirse
+mdiccionary,N3,Verbos,込む,こむ,"Llenarse, estar lleno"
+mdiccionary,N3,Verbos,咲く,さく,Florecer (flores)
+mdiccionary,N3,Verbos,就職する,しゅうしょくする,Entrar a trabajar en...
+mdiccionary,N3,Verbos,たす,たす,Sumar
+mdiccionary,N3,Verbos,縮む,ちじむ,Encoger
+mdiccionary,N3,Verbos,登る,のぼる,Subir
+mdiccionary,N3,Verbos,太る,ふとる,Engordar
+mdiccionary,N3,Verbos,まがる,まがる,Girar
+mdiccionary,N3,Verbos,見つかる,みつかる,Encontrar (se)
+mdiccionary,N3,Verbos,痩せる,やせる,Adelgazar
+mdiccionary,N3,Verbos,酔っ払う,よっぱらう,Emborracharse
+mdiccionary,N3,Verbos,渡る,わたる,Cruzar
+mdiccionary,N3,Verbos,汗をかく,あせをかく,Sudar
+mdiccionary,N3,Verbos,編む,あむ,Hacer punto
+mdiccionary,N3,Verbos,あんないする,あんないする,"Guiar, conducir a"
+mdiccionary,N3,Verbos,馬に乗る,うまにのる,Montar a caballo
+mdiccionary,N3,Verbos,外食する,がいしょくする,Comer fuera
+mdiccionary,N3,Verbos,かくれんぼをする,かくれんぼをする,Jugar al escondite
+mdiccionary,N3,Verbos,風邪をひく,かぜをひく,Resfriarse
+mdiccionary,N3,Verbos,考える,かんがえる,Pensar
+mdiccionary,N3,Verbos,凍る,こおる,Congelarse
+mdiccionary,N3,Verbos,自転車に乗る,じてんしゃにのる,Montar en bicicleta
+mdiccionary,N3,Verbos,紹介する,しょうかいする,Presentar
+mdiccionary,N3,Verbos,ジョギングをする,じょぎんぐをする,Hacer jogging
+mdiccionary,N3,Verbos,スケートをする,すけーとをする,Patinar
+mdiccionary,N3,Verbos,説明する,せつめいする,Explicar
+mdiccionary,N3,Verbos,想像する,そうぞうする,Imaginar
+mdiccionary,N3,Verbos,卒業する,そつぎょうする,"Graduarse, licenciarse"
+mdiccionary,N3,Verbos,ためる,ためる,Ahorrar
+mdiccionary,N3,Verbos,チェスをする,ちぇすをする,Jugar al ajedrez
+mdiccionary,N3,Verbos,なわとびをする,なわとびをする,Saltar a la comba
+mdiccionary,N3,Verbos,日光浴をする,にっこうよくをする,Tomar el sol
+mdiccionary,N3,Verbos,庭の手入れをする,にわのていれをする,Cuidar el jardín
+mdiccionary,N3,Verbos,残る,のこる,Quedarse
+mdiccionary,N3,Verbos,バイオリンをひく,ばいおりんをひく,Tocar el violin
+mdiccionary,N3,Verbos,沸騰する,ふっとうする,Hervir
+mdiccionary,N3,Verbos,ぶらんこに乗る,ぶらんこにのる,Columpiarse
+mdiccionary,N3,Verbos,予約する,よやくする,Verbo
+mdiccionary,N3,Verbos,別れる,わかれる,Separarse
+mdiccionary,N3,Verbos,遊びに行く,あそびにいく,Ir a visitar
+mdiccionary,N3,Verbos,謝る,あやまる,Disculparse
+mdiccionary,N3,Verbos,急ぐ,いそぐ,Apresurarse
+mdiccionary,N3,Verbos,選ぶ,えらぶ,Elegir
+mdiccionary,N3,Verbos,驚く,おどろく,Sorprenderse
+mdiccionary,N3,Verbos,さがす,さがす,Buscar
+mdiccionary,N3,Verbos,信じる,しんじる,Creer
+mdiccionary,N3,Verbos,建てる,たてる,Construir
+mdiccionary,N3,Verbos,流れる,ながれる,Fluir
+mdiccionary,N3,Verbos,なくなる,なくなる,"Acabarse, desaparecer"
+mdiccionary,N3,Verbos,慣れる,なれる,Acostumbrarse
+mdiccionary,N3,Verbos,役に立つ,やくにたつ,"Servir, ser útil"
+mdiccionary,N3,Verbos,練習する,れんしゅうする,Practicar
+mdiccionary,N3,Verbos,まよう,まよう,Dudar
+mdiccionary,N3,Verbos,拡大する,かくだいする,Ampliar
+mdiccionary,N3,Verbos,気をつける,きをつける,Tener cuidado
+mdiccionary,N3,Verbos,比べる,くらべる,Comparar
+mdiccionary,N3,Verbos,転ぶ,ころぶ,"Caerse, rodar"
+mdiccionary,N3,Verbos,スケートをする,すけーとをする,Patinar
+mdiccionary,N3,Verbos,滑る,すべる,Resbalar
+mdiccionary,N3,Verbos,頼む,たのむ,Pedir
+mdiccionary,N3,Verbos,解く,とく,Resolver un problema
+mdiccionary,N3,Verbos,飛ぶ,とぶ,Volar
+mdiccionary,N3,Verbos,泊まる,とまる,Alojarse
+mdiccionary,N3,Verbos,治る,なおる,Curarse
+mdiccionary,N3,Verbos,縫う,ぬう,Coser
+mdiccionary,N3,Verbos,間に合う,まにあう,Llegar a tiempo
+mdiccionary,N3,Verbos,迎えに行く,むかえにいく,Ir a recibir
+mdiccionary,N3,Verbos,書き直す,かきなおす,Reescribir
+mdiccionary,N3,Verbos,かたづける,かたづける,Ordenar
+mdiccionary,N3,Verbos,空にする,からにする,Vaciar
+mdiccionary,N3,Verbos,欠席する,けっせきする,Faltar a clase
+mdiccionary,N3,Verbos,更新する,こうしんする,Renovar
+mdiccionary,N3,Verbos,出席する,しゅっせきする,Asistir
+mdiccionary,N3,Verbos,出張する,しゅっちょうする,Ir de viaje de negocios
+mdiccionary,N3,Verbos,確かめる,たしかめる,Comprobar
+mdiccionary,N3,Verbos,発表する,はっぴょうする,"Anunciar, exponer"
+mdiccionary,N3,Verbos,晴れる,はれる,Despejarse (el cielo)
+mdiccionary,N3,Verbos,暗殺する,あんさつする,Asesinar
+mdiccionary,N3,Verbos,受ける,うける,Recibir
+mdiccionary,N3,Verbos,行われる,おこなわれる,"Celebrarse, tener lugar"
+mdiccionary,N3,Verbos,倒れる,たおれる,Derrumbarse
+mdiccionary,N3,Verbos,調印する,ちょういんする,Firmar
+mdiccionary,N3,Verbos,亡くなる,なくなる,Morir
+mdiccionary,N3,Verbos,破産する,はさんする,Quebrar (Una empresa)
+mdiccionary,N3,Verbos,発見する,はっけんする,Descubrir
+mdiccionary,N3,Verbos,発明する,はつめいする,Inventar
+mdiccionary,N3,Verbos,焼ける,やける,"Arder, quemarse"
+mdiccionary,N3,Verbos,朝寝坊する,あさねぼうする,Dormirse por la mañana
+mdiccionary,N3,Verbos,故障する,こしょうする,Averiarse
+mdiccionary,N3,Verbos,届く,とどく,Llegar
+mdiccionary,N3,Verbos,止める,やめる,Dejar
+mdiccionary,N3,Verbos,呼ぶ,よぶ,"Llamar, invitar"
+mdiccionary,N3,Verbos,こがす,こがす,Quemar la comida
+mdiccionary,N3,Verbos,変装する,へんそうする,Disfrazarse
+mdiccionary,N3,Verbos,約束する,やくそくする,Prometer
+mdiccionary,N3,Verbos,よく似合う,よくにあう,Sentar bien
+mdiccionary,N3,Verbos,得る,える,Obtener
+mdiccionary,N3,Verbos,重なる,かさなる,Sobreponerse
+mdiccionary,N3,Verbos,噛む,かむ,"Morder, masticar"
+mdiccionary,N3,Verbos,腐る,くさる,Podrirse
+mdiccionary,N3,Verbos,けんかする,けんかする,Pelearse
+mdiccionary,N3,Verbos,合計する,ごうけいする,"Sumar, totalizar"
+mdiccionary,N3,Verbos,冷める,さめる,Enfriarse
+mdiccionary,N3,Verbos,すすめる,すすめる,Recomendar
+mdiccionary,N3,Verbos,定着する,ていちゃくする,Fijarse
+mdiccionary,N3,Verbos,濡れる,ぬれる,Mojarse
+mdiccionary,N3,Verbos,挟まる,はさまる,"Meterse entre, insertarse"
+mdiccionary,N3,Verbos,増える,ふえる,Aumentar
+mdiccionary,N3,Verbos,ふるまう,ふるまう,Comportarse
+mdiccionary,N3,Verbos,まとめる,まとめる,"Juntar, reunir"
+mdiccionary,N3,Verbos,分ける,わける,Dividir
+mdiccionary,N3,Verbos,変える,かえる,Cambiar
+mdiccionary,N3,Verbos,誘う,さそう,Invitar
+mdiccionary,N3,Verbos,知らせる,しらせる,Avisar
+mdiccionary,N3,Verbos,伝える,つたえる,Transmitir
+mdiccionary,N3,Verbos,統一する,とういつする,Unificar
+mdiccionary,N3,Verbos,塗る,ぬる,"Pintar, untar"
+mdiccionary,N3,Verbos,広まる,ひろまる,Extenderse
+mdiccionary,N3,Verbos,広める,ひろめる,"Divulgar, extender"
+mdiccionary,N3,Verbos,保護する,ほごする,Proteger
+mdiccionary,N3,Verbos,干す,ほす,Secar
+mdiccionary,N3,Verbos,許す,ゆるす,Permitir
+mdiccionary,N3,Verbos,合う,あう,Sentar/ir bien
+mdiccionary,N3,Verbos,味見をする,あじみをする,Probar la comida
+mdiccionary,N3,Verbos,炒める,いためる,"Sofreir, saltear"
+mdiccionary,N3,Verbos,おろす,おろす,Rallar
+mdiccionary,N3,Verbos,かくはんする,かくはんする,"Batir (Huevos, crema)"
+mdiccionary,N3,Verbos,刻む,きざむ,"Trocear, picar"
+mdiccionary,N3,Verbos,つける,つける,Macerar
+mdiccionary,N3,Verbos,とく,とく,Diluir
+mdiccionary,N3,Verbos,熱する,ねっする,Calentar (La cazuela)
+mdiccionary,N3,Verbos,残す,のこす,"Dejar, guardar"
+mdiccionary,N3,Verbos,枯れる,かれる,Secarse
+mdiccionary,N3,Verbos,支える,ささえる,"Sostener, aguantar"
+mdiccionary,N3,Verbos,失敗する,しっぱいする,Fracasar
+mdiccionary,N3,Verbos,診察する,しんさつする,Examinar a uno (El médico)
+mdiccionary,N3,Verbos,成長する,せいちょうする,"Crecer, desarrollarse"
+mdiccionary,N3,Verbos,相談する,そうだんする,Consultar
+mdiccionary,N3,Verbos,手放す,てばなす,"Deshacerse, prescindir"
+mdiccionary,N3,Verbos,転勤する,てんきんする,Ser trasladado a un sitio
+mdiccionary,N3,Verbos,発展する,はってんする,"Desarrollarse, crecer"
+mdiccionary,N3,Verbos,離れる,はなれる,"Separarse, alejarse de"
+mdiccionary,N3,Verbos,甘やかす,あまやかす,Mimar
+mdiccionary,N3,Verbos,噛む,かむ,"Morder, mascar"
+mdiccionary,N3,Verbos,好まれる,このまれる,"Ser querido, apreciado"
+mdiccionary,N3,Verbos,こぼす,こぼす,Verter
+mdiccionary,N3,Verbos,尊敬する,そんけいする,Respetar
+mdiccionary,N3,Verbos,叩く,たたく,Golpear
+mdiccionary,N3,Verbos,とりあげる,とりあげる,Tratar
+mdiccionary,N3,Verbos,盗む,ぬすむ,Robar
+mdiccionary,N3,Verbos,挟む,はさむ,"Insertar, intercalar"
+mdiccionary,N3,Verbos,轢く,ひく,Atropellar
+mdiccionary,N3,Verbos,踏む,ふむ,Pisar
+mdiccionary,N3,Verbos,ほめる,ほめる,Alabar
+mdiccionary,N3,Verbos,感じる,かんじる,"Sentir, experimentar"
+mdiccionary,N3,Verbos,穿る,ほじる,"Picar, cavar"
+mdiccionary,N3,Verbos,返す,かえす,Regresar (Objeto)
+mdiccionary,N3,Verbos,なる,なる,Convertirse
+mdiccionary,N3,Verbos,止まる,とまる,"Detenerse, alto"
+mdiccionary,N3,Verbos,落とす,おとす,Dejar caer
+mdiccionary,N3,Verbos,終わる,おわる,"Terminar, finalizar"
+mdiccionary,N3,Verbos,続く,つづく,Continuar
+mdiccionary,N3,Verbos,習う,ならう,Aprender
+mdiccionary,N3,Verbos,借りる,かりる,Tomar prestado
+mdiccionary,N3,Verbos,動く,うごく,Mover
+mdiccionary,N3,Verbos,覚える,おぼえる,"Recordar, memorisar, aprender"
+mdiccionary,N3,Verbos,住む,すむ,"Vivir, habitar"
+mdiccionary,N3,Verbos,置く,おく,"Poner, dejar"
+mdiccionary,N3,Verbos,向かう,むかう,"Ir hacia, enfrentar"
+mdiccionary,N3,Verbos,出発する,しゅっぱつする,Departir
+mdiccionary,N3,Verbos,持つ,もつ,"Cargar, sostener"
+mdiccionary,N3,Verbos,小便する,しょうべんする,Orinar
+mdiccionary,N3,Verbos,叱る,しかる,Regañar
+mdiccionary,N3,Verbos,愛する,あいする,Amar
+mdiccionary,N3,Verbos,憎む,にくむ,"Odiar, detestar, aborecer"
+mdiccionary,N3,Verbos,批判する,ひはんする,Criticar
+mdiccionary,N3,Verbos,褒める,ほめる,"Complementar, alabar"
+mdiccionary,N3,Verbos,解決する,かいけつする,Resolver
+mdiccionary,N3,Verbos,頑張る,がんばる,Trabajar duro
+mdiccionary,N3,Verbos,脱ぐ,ぬぐ,Quitarse
+mdiccionary,N3,Verbos,助け合う,たすけあう,Ayudarse uno al otro
+mdiccionary,N3,Verbos,勝つ,かつ,Ganar
+mdiccionary,N3,Verbos,負ける,まける,"Perder, ser derrotado"
+mdiccionary,N3,Verbos,惜しむ,おしむ,Lamentar
+mdiccionary,N3,Verbos,相談する,そうだんする,Consultar
+mdiccionary,N3,Verbos,削除する,さくじょする,Borrar
+mdiccionary,N3,Verbos,従う,したがう,"Obedecer, seguir"
+mdiccionary,N3,Verbos,受信する,じゅしんする,Recivir comunicación o informatión
+mdiccionary,N3,Verbos,知る,しる,"Saber, conoce, saber la diferencia, prescenciar"
+mdiccionary,N3,Verbos,進撃する,しんげきする,Avanzar y atacar
+mdiccionary,N3,Verbos,与える,あたえる,Dar algo
+mdiccionary,N3,Verbos,挙げる,あげる,"Dar un ejemplo, poner todo el empeño, nominar"
+mdiccionary,N3,Verbos,感じる,かんじる,"Sentir, experimentar"
+mdiccionary,N3,Verbos,死ぬ,しぬ,Morir
+mdiccionary,N3,Verbos,管理する,かんりする,"Administral, controlar"
+mdiccionary,N3,Verbos,触れる,ふれる,Tocar
+mdiccionary,N3,Verbos,おならをする,おならをする,Hecharse un pedo
+mdiccionary,N3,Verbos,舐める,なめる,"Lamer, probar"
+mdiccionary,N3,Verbos,侮る,あなどる,Burlarse de
+mdiccionary,N3,Verbos,習う,ならう,Aprender
+mdiccionary,N3,Verbos,改良する,かいりょうする,Mejorar
+mdiccionary,N3,Verbos,屋上屋を架する,おくじょうおくをかする,Redundante
+mdiccionary,N3,Verbos,軌道に乗る,きどうにのる,"Iniciar algo, inaugurar"
+mdiccionary,N3,Verbos,起床する,きしょうする,Levantarse
+mdiccionary,N3,Verbos,点呼する,てんこする,"Pasar lista, pasar revista"
+mdiccionary,N3,Verbos,比肩する,ひけんする,"Igualar a, compararse con"
+mdiccionary,N3,Verbos,雌雄を決する,しゆうをけっする,Ajustar cuentas
+mdiccionary,N3,Verbos,出陣する,しゅつじんする,"Ir al frente, ir a la batalla"
+mdiccionary,N3,Verbos,墜落する,ついらくする,Estrellarse (Un avión)
+mdiccionary,N3,Verbos,忍び寄る,しのびよる,Acechar
+mdiccionary,N3,Verbos,依頼する,いらいする,"Pedir, depender, confiar"
+mdiccionary,N3,Verbos,突破する,とっぱする,Exeder
+mdiccionary,N3,Verbos,賛成する,さんせいする,Favorecer
+mdiccionary,N3,Verbos,執行する,しっこうする,"Implementar, poner en efecto"
+mdiccionary,N3,Verbos,開拓する,かいたくする,"Desarollar, explorar"
+mdiccionary,N3,Verbos,該当する,がいとうする,"Corresponder, ser aplicable"
+mdiccionary,N3,Verbos,妄想する,もうそうする,Estar en una fantasia
+mdiccionary,N3,Verbos,旋回する,せんかいする,"Girar, rotar"
+mdiccionary,N3,Verbos,匹敵する,ひってきする,Rivalizar
+mdiccionary,N3,Verbos,潜伏する,せんぷくする,"Encerarse, esconderse"
+mdiccionary,N3,Verbos,繁茂する,はんもする,Crecer grueso
+mdiccionary,N3,Verbos,立つ,たつ,Pararse
+mdiccionary,N3,Verbos,突っ立つ,つったつ,Estar derecho
+mdiccionary,N3,Verbos,耐える,たえる,"Soportar, resistir, tener la habilidad"
+mdiccionary,N3,Verbos,解除する,かいじょする,"Cancelar una orden, liberar"
+mdiccionary,N3,Verbos,検索する,けんさくする,Buscar
+mdiccionary,N3,Verbos,迷う,まよう,"Estar confundido, hesitar, estar perdido"
+mdiccionary,N3,Verbos,負う,おう,Asumir responsabilidad
+mdiccionary,N3,Verbos,仮定する,かていする,Suponer
+mdiccionary,N3,Verbos,至る,いたる,Resultar en
+mdiccionary,N3,Verbos,嗅ぐ,かぐ,Oler
+mdiccionary,N3,Verbos,布団を敷く,ふとんをしく,Hacer la cama
+mdiccionary,N3,Verbos,表示する,ひょうじする,"Expresar, indicar, mostrar"
+mdiccionary,N3,Verbos,引っ掻く,ひっかく,Rascar
+mdiccionary,N3,Verbos,剃る,そる,Afeitar
+mdiccionary,N3,Verbos,潰す,つぶす,"Aplastar, romper"
+mdiccionary,N3,Verbos,努力する,どりょくする,Hacer un esfuerzo
+mdiccionary,N3,Verbos,住む,すむ,"Vivir, habitar"
+mdiccionary,N3,Verbos,貼る,はる,"Pegar, post"
+mdiccionary,N3,Verbos,調査する,ちょうさする,"Investigar, examinar, inspecionar"
+mdiccionary,N3,Verbos,代わる,かわる,Substituir
+mdiccionary,N3,Verbos,用意する,よういする,Preparar
+mdiccionary,N3,Verbos,叶う,かなう,Cumplir un sueño
+mdiccionary,N3,Verbos,連れる,つれる,"Guiar, conducir"
+mdiccionary,N3,Verbos,減る,へる,Reducir
+mdiccionary,N3,Verbos,手伝う,てつだう,"Ayudar, asistir"
+mdiccionary,N3,Verbos,つもる,つもる,"Acumular, juntar, estimar"
+mdiccionary,N3,Verbos,追加する,ついかする,Añadir
+mdiccionary,N3,Verbos,戻る,もどる,Regresar
+mdiccionary,N3,Verbos,暮らす,くらす,"Vivir, llevar una vida"
+mdiccionary,N3,Verbos,走る,はしる,Correr
+mdiccionary,N3,Verbos,貼る,はる,"Pegar, postear"
+mdiccionary,N3,Verbos,絶える,たえる,Cesar
+mdiccionary,N3,Verbos,着陸する,ちゃくりくする,Aterrisar
+mdiccionary,N3,Verbos,実現する,じつげんする,"Implementar, poner en efecto"
+mdiccionary,N3,Verbos,加わる,くわわる,"Unirse a un grupo, esfuerzo, incrementar, añadir"
+mdiccionary,N3,Verbos,中止する,ちゅうしする,"Descontinuar, suspender, cancelar"
+mdiccionary,N3,Verbos,制限する,せいげんする,"Limitar, restringir"
+mdiccionary,N3,Verbos,困る,こまる,Tener un problema
+mdiccionary,N3,Verbos,調理する,ちょうりする,"Cocinar, preparar la comida"
+mdiccionary,N3,Verbos,合格する,ごうかくする,Pasar una prueba
+mdiccionary,N3,Verbos,かかる,かかる,"Requerir, tomar tiempo o dinero"
+mdiccionary,N3,Verbos,間違える,まちがえる,"Cometer un error, confundir algo por otra cosa"
+mdiccionary,N3,Verbos,離婚する,りこんする,Divorciarse
+mdiccionary,N3,Verbos,目覚める,めざめる,Despertar
+mdiccionary,N3,Verbos,見習う,みならう,Seguir el ejemplo de alguien
+mdiccionary,N3,Verbos,表示する,ひょうじする,"Expresar, indicar, mostrar"
+mdiccionary,N3,Verbos,再起動する,さいきどうする,Reiniciar
+mdiccionary,N3,Verbos,吠える,ほえる,"Ladrar, aullar"
+mdiccionary,N3,Verbos,尋ねる,たずねる,Preguntar
+mdiccionary,N3,Verbos,伺う,うかがう,"Preguntar sobre, escuchar"
+mdiccionary,N3,Verbos,撃つ,うつ,Disparar
+mdiccionary,N3,Verbos,誕生する,たんじょうする,Nacer
+mdiccionary,N3,Verbos,残す,のこす,"Dejar, pasar a la siguiente generación"
+mdiccionary,N3,Verbos,戦う,たたかう,"Pelear, luchar"
+mdiccionary,N3,Verbos,殺す,ころす,Matar
+mdiccionary,N3,Verbos,間違う,まちがう,Cometer un error
+mdiccionary,N3,Verbos,憧れる,あこがれる,Extrañar
+mdiccionary,N3,Verbos,打つ,うつ,"Pegar, golpear"

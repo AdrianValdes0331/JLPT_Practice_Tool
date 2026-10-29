@@ -1,0 +1,811 @@
+﻿section,level,category,word,reading,meaning
+vocabulary,N3,Communication & documents,件名,けんめい,subject line; title
+vocabulary,N3,Communication & documents,伝言,でんごん,verbal message
+vocabulary,N3,Communication & documents,受信,じゅしん,reception; receiving
+vocabulary,N3,Communication & documents,報告,ほうこく,report
+vocabulary,N3,Communication & documents,情報,じょうほう,information
+vocabulary,N3,Communication & documents,日記,にっき,diary; journal
+vocabulary,N3,Communication & documents,書留,かきとめ,registered mail; registered post; registration (of mail)
+vocabulary,N3,Communication & documents,書類,しょるい,document; official papers
+vocabulary,N3,Communication & documents,申告,しんこく,declaration; report
+vocabulary,N3,Communication & documents,申請,しんせい,application; request
+vocabulary,N3,Communication & documents,申込書,もうしこみしょ,application form
+vocabulary,N3,Communication & documents,発表,はっぴょう,announcement; presentation
+vocabulary,N3,Communication & documents,登録,とうろく,registration
+vocabulary,N3,Communication & documents,表現,ひょうげん,expression
+vocabulary,N3,Communication & documents,表示,ひょうじ,display; indication
+vocabulary,N3,Communication & documents,記事,きじ,article
+vocabulary,N3,Communication & documents,記入,きにゅう,entry; filling in
+vocabulary,N3,Communication & documents,記号,きごう,symbol; code; sign
+vocabulary,N3,Communication & documents,記念,きねん,commemoration; celebration; honoring the memory of something
+vocabulary,N3,Communication & documents,記録,きろく,record
+vocabulary,N3,Communication & documents,辞書,じしょ,dictionary; lexicon
+vocabulary,N3,Communication & documents,送信,そうしん,transmission; sending
+vocabulary,N3,Communication & documents,連絡,れんらく,contact; communication
+vocabulary,N3,Communication & documents,録画,ろくが,video recording
+vocabulary,N3,Communication & documents,録音,ろくおん,audio recording
+vocabulary,N3,Education,上級,じょうきゅう,advanced level
+vocabulary,N3,Education,中級,ちゅうきゅう,intermediate level
+vocabulary,N3,Education,予習,よしゅう,lesson preparation
+vocabulary,N3,Education,入学式,にゅうがくしき,school entrance ceremony
+vocabulary,N3,Education,初級,しょきゅう,beginner level
+vocabulary,N3,Education,参考書,さんこうしょ,reference book; study guide
+vocabulary,N3,Education,受験,じゅけん,taking an examination
+vocabulary,N3,Education,合格,ごうかく,passing an exam
+vocabulary,N3,Education,学部,がくぶ,university faculty; department
+vocabulary,N3,Education,宿題,しゅくだい,homework
+vocabulary,N3,Education,復習,ふくしゅう,review; revision
+vocabulary,N3,Education,授業,じゅぎょう,class; lesson
+vocabulary,N3,Education,教師,きょうし,teacher
+vocabulary,N3,Education,教授,きょうじゅ,professor; instruction
+vocabulary,N3,Education,教材,きょうざい,teaching material
+vocabulary,N3,Education,教科書,きょうかしょ,textbook
+vocabulary,N3,Education,教育,きょういく,education
+vocabulary,N3,Education,点数,てんすう,score; points
+vocabulary,N3,Education,留学,りゅうがく,study abroad
+vocabulary,N3,Education,練習,れんしゅう,practice
+vocabulary,N3,Government & society,公務員,こうむいん,civil servant
+vocabulary,N3,Government & society,国内,こくない,domestic; within the country
+vocabulary,N3,Government & society,国際,こくさい,international
+vocabulary,N3,Government & society,国際的,こくさいてき,international; global
+vocabulary,N3,Government & society,市役所,しやくしょ,city hall
+vocabulary,N3,Government & society,戦争,せんそう,war
+vocabulary,N3,Government & society,政府,せいふ,government
+vocabulary,N3,Government & society,政治,せいじ,politics
+vocabulary,N3,Government & society,政治家,せいじか,politician
+vocabulary,N3,Government & society,税務署,ぜいむしょ,tax office
+vocabulary,N3,Government & society,警察署,けいさつしょ,police station
+vocabulary,N3,Government & society,議員,ぎいん,legislator; assembly member
+vocabulary,N3,Government & society,選挙,せんきょ,election
+vocabulary,N3,Government & society,都道府県,とどうふけん,Japan's prefectural divisions
+vocabulary,N3,Grammar & expressions,その他,そのほか,other; the rest
+vocabulary,N3,Grammar & expressions,了解,りょうかい,understanding; understood
+vocabulary,N3,Grammar & expressions,予報,よほう,forecast
+vocabulary,N3,Grammar & expressions,予定,よてい,plan; schedule
+vocabulary,N3,Grammar & expressions,予想,よそう,expectation; prediction
+vocabulary,N3,Grammar & expressions,予約,よやく,reservation
+vocabulary,N3,Grammar & expressions,他の,ほかの,other; another
+vocabulary,N3,Grammar & expressions,例えば,たとえば,for example
+vocabulary,N3,Grammar & expressions,便利,べんり,convenient
+vocabulary,N3,Grammar & expressions,大変,たいへん,serious; difficult; very
+vocabulary,N3,Grammar & expressions,安全,あんぜん,safe; safety
+vocabulary,N3,Grammar & expressions,安定,あんてい,stability; stable
+vocabulary,N3,Grammar & expressions,完全,かんぜん,complete; perfect
+vocabulary,N3,Grammar & expressions,実は,じつは,actually; to tell the truth
+vocabulary,N3,Grammar & expressions,実際に,じっさいに,actually; in practice
+vocabulary,N3,Grammar & expressions,希望,きぼう,hope; wish
+vocabulary,N3,Grammar & expressions,当たり前,あたりまえ,natural; obvious; expected
+vocabulary,N3,Grammar & expressions,心配,しんぱい,worry; concern
+vocabulary,N3,Grammar & expressions,必ず,かならず,without fail; certainly
+vocabulary,N3,Grammar & expressions,必要,ひつよう,necessary; needed
+vocabulary,N3,Grammar & expressions,正確,せいかく,accurate; exact
+vocabulary,N3,Grammar & expressions,決して,けっして,never; by no means
+vocabulary,N3,Grammar & expressions,熱心,ねっしん,enthusiastic; earnest
+vocabulary,N3,Grammar & expressions,理由,りゆう,reason
+vocabulary,N3,Grammar & expressions,目的,もくてき,purpose; objective
+vocabulary,N3,Grammar & expressions,関心,かんしん,interest; concern
+vocabulary,N3,Health & medicine,内科,ないか,internal medicine
+vocabulary,N3,Health & medicine,出血,しゅっけつ,bleeding
+vocabulary,N3,Health & medicine,医師,いし,doctor; physician
+vocabulary,N3,Health & medicine,呼吸,こきゅう,breathing; respiration
+vocabulary,N3,Health & medicine,外科,げか,surgery department
+vocabulary,N3,Health & medicine,手術,しゅじゅつ,surgery; operation
+vocabulary,N3,Health & medicine,救急車,きゅうきゅうしゃ,ambulance
+vocabulary,N3,Health & medicine,整形外科,せいけいげか,orthopedics
+vocabulary,N3,Health & medicine,歯,は,tooth
+vocabulary,N3,Health & medicine,歯並び,はならび,row of teeth; set of teeth; dentition
+vocabulary,N3,Health & medicine,歯医者,はいしゃ,dentist
+vocabulary,N3,Health & medicine,歯科,しか,dentistry
+vocabulary,N3,Health & medicine,治す,なおす,to cure; to heal
+vocabulary,N3,Health & medicine,治る,なおる,to get better; to get well; to recover (from an illness)
+vocabulary,N3,Health & medicine,治療,ちりょう,medical treatment
+vocabulary,N3,Health & medicine,産婦人科,さんふじんか,obstetrics and gynecology
+vocabulary,N3,Health & medicine,痛い,いたい,painful; sore
+vocabulary,N3,Health & medicine,看護師,かんごし,nurse
+vocabulary,N3,Health & medicine,睡眠,すいみん,sleep
+vocabulary,N3,Health & medicine,耳鼻科,じびか,"ear, nose and throat department"
+vocabulary,N3,Health & medicine,腹痛,ふくつう,stomachache
+vocabulary,N3,Health & medicine,薬局,やっきょく,pharmacy
+vocabulary,N3,Health & medicine,虫歯,むしば,cavity; decayed tooth
+vocabulary,N3,Health & medicine,血,ち,blood
+vocabulary,N3,Health & medicine,頭痛,ずつう,headache
+vocabulary,N3,Health & medicine,骨折,こっせつ,bone fracture
+vocabulary,N3,Home & daily life,お酒,おさけ,alcohol; sake
+vocabulary,N3,Home & daily life,ごみ袋,ごみぶくろ,garbage bag
+vocabulary,N3,Home & daily life,冷凍庫,れいとうこ,freezer
+vocabulary,N3,Home & daily life,冷蔵庫,れいぞうこ,refrigerator
+vocabulary,N3,Home & daily life,卵,たまご,eggs; egg; spawn
+vocabulary,N3,Home & daily life,卵焼き,たまごやき,rolled egg; rolled omelette (omelet)
+vocabulary,N3,Home & daily life,小麦粉,こむぎこ,wheat flour
+vocabulary,N3,Home & daily life,忘れ物,わすれもの,lost or forgotten item
+vocabulary,N3,Home & daily life,戸,と,door (esp. Japanese-style)
+vocabulary,N3,Home & daily life,戸棚,とだな,cabinet; cupboard
+vocabulary,N3,Home & daily life,手荷物,てにもつ,hand luggage
+vocabulary,N3,Home & daily life,手袋,てぶくろ,gloves
+vocabulary,N3,Home & daily life,押し入れ,おしいれ,Japanese-style closet
+vocabulary,N3,Home & daily life,料理酒,りょうりしゅ,cooking sake
+vocabulary,N3,Home & daily life,日本酒,にほんしゅ,sake; Japanese rice wine
+vocabulary,N3,Home & daily life,果物,くだもの,fruit
+vocabulary,N3,Home & daily life,片付ける,かたづける,to tidy up
+vocabulary,N3,Home & daily life,牛乳,ぎゅうにゅう,milk
+vocabulary,N3,Home & daily life,砂糖,さとう,sugar
+vocabulary,N3,Home & daily life,窓,まど,window
+vocabulary,N3,Home & daily life,窓側,まどがわ,window side
+vocabulary,N3,Home & daily life,窓口,まどぐち,service counter; window
+vocabulary,N3,Home & daily life,紙袋,かみぶくろ,paper bag
+vocabulary,N3,Home & daily life,荷物,にもつ,baggage; package
+vocabulary,N3,Home & daily life,袋,ふくろ,bag; sack; pouch
+vocabulary,N3,Home & daily life,足袋,たび,tabi; Japanese socks (with split toe)
+vocabulary,N3,Home & daily life,部屋,へや,room; chamber
+vocabulary,N3,Home & daily life,酒屋,さかや,liquor store; wine shop; bottle shop
+vocabulary,N3,Home & daily life,雨戸,あまど,storm shutter
+vocabulary,N3,Home & daily life,食塩,しょくえん,table salt
+vocabulary,N3,Home & daily life,食欲,しょくよく,appetite (for food)
+vocabulary,N3,Money & commerce,両替,りょうがえ,money exchange
+vocabulary,N3,Money & commerce,代引き,だいびき,cash on delivery (abbreviation)
+vocabulary,N3,Money & commerce,代金引換,だいきんひきかえ,cash on delivery
+vocabulary,N3,Money & commerce,会費,かいひ,membership fee
+vocabulary,N3,Money & commerce,価格,かかく,price
+vocabulary,N3,Money & commerce,値上げ,ねあげ,price increase
+vocabulary,N3,Money & commerce,値下げ,ねさげ,price reduction
+vocabulary,N3,Money & commerce,値段,ねだん,price
+vocabulary,N3,Money & commerce,割引,わりびき,discount
+vocabulary,N3,Money & commerce,半額,はんがく,half price
+vocabulary,N3,Money & commerce,定価,ていか,list price
+vocabulary,N3,Money & commerce,旅費,りょひ,travel expenses
+vocabulary,N3,Money & commerce,消費税,しょうひぜい,consumption tax
+vocabulary,N3,Money & commerce,消費者,しょうひしゃ,consumer
+vocabulary,N3,Money & commerce,無料,むりょう,free of charge
+vocabulary,N3,Money & commerce,現金,げんきん,cash
+vocabulary,N3,Money & commerce,税込,ぜいこみ,tax included
+vocabulary,N3,Money & commerce,税金,ぜいきん,tax
+vocabulary,N3,Money & commerce,請求書,せいきゅうしょ,invoice; bill
+vocabulary,N3,Money & commerce,費用,ひよう,cost; expense
+vocabulary,N3,Money & commerce,賞金,しょうきん,prize money; monetary award; reward
+vocabulary,N3,Money & commerce,金庫,きんこ,safe; strongbox; cashbox
+vocabulary,N3,Money & commerce,金額,きんがく,amount of money
+vocabulary,N3,Money & commerce,預金,よきん,bank deposit
+vocabulary,N3,Nature & weather,びわ湖,びわこ,Lake Biwa
+vocabulary,N3,Nature & weather,地球,ちきゅう,Earth
+vocabulary,N3,Nature & weather,地震,じしん,earthquake
+vocabulary,N3,Nature & weather,島,しま,island
+vocabulary,N3,Nature & weather,常温,じょうおん,room temperature
+vocabulary,N3,Nature & weather,晴れ,はれ,clear weather; fine weather
+vocabulary,N3,Nature & weather,晴れる,はれる,to clear up; to clear away; to be sunny
+vocabulary,N3,Nature & weather,気温,きおん,air temperature
+vocabulary,N3,Nature & weather,津波,つなみ,tsunami
+vocabulary,N3,Nature & weather,港,みなと,harbor; port
+vocabulary,N3,Nature & weather,湖,みずうみ,lake
+vocabulary,N3,Nature & weather,紅葉,こうよう,autumn leaves
+vocabulary,N3,Nature & weather,雪,ゆき,snow
+vocabulary,N3,Nature & weather,雲,くも,cloud
+vocabulary,N3,Nature & weather,震度,しんど,seismic intensity
+vocabulary,N3,Other,お宅,おたく,your house; your home; your family
+vocabulary,N3,Other,お寺,おてら,temple
+vocabulary,N3,Other,お礼,おれい,thanks; gratitude
+vocabulary,N3,Other,お祝い,おいわい,congratulation; congratulations; celebration
+vocabulary,N3,Other,ごみ箱,ゴミばこ,garbage can; rubbish bin; trash can
+vocabulary,N3,Other,しょう油,しょうゆ,soy sauce; shoyu
+vocabulary,N3,Other,バス停,バスてい,bus stop
+vocabulary,N3,Other,三角形,さんかくけい,triangle
+vocabulary,N3,Other,下宿,げしゅく,boarding; lodging; board and lodging
+vocabulary,N3,Other,不在,ふざい,absence
+vocabulary,N3,Other,不安定,ふあんてい,instability; insecurity; crankiness
+vocabulary,N3,Other,不満,ふまん,dissatisfaction; discontent; displeasure
+vocabulary,N3,Other,並ぶ,ならぶ,to line up; to stand in a line
+vocabulary,N3,Other,並べる,ならべる,to line up; to set up; to arrange in a line
+vocabulary,N3,Other,乗馬,じょうば,horse riding; mounting a horse
+vocabulary,N3,Other,予防,よぼう,prevention; precaution; protection against
+vocabulary,N3,Other,事件,じけん,event; affair; incident
+vocabulary,N3,Other,事情,じじょう,circumstances; conditions; situation
+vocabulary,N3,Other,事故,じこ,accident; incident; trouble
+vocabulary,N3,Other,亡くなる,なくなる,to die
+vocabulary,N3,Other,交換,こうかん,exchange; interchange; switching
+vocabulary,N3,Other,交番,こうばん,police box; koban; small neighborhood police station
+vocabulary,N3,Other,交際,こうさい,company; friendship; association
+vocabulary,N3,Other,付く,つく,to be attached; to be connected with; to adhere
+vocabulary,N3,Other,付ける,つける,to attach; to join; to add
+vocabulary,N3,Other,代表,だいひょう,representative; representation; delegation
+vocabulary,N3,Other,会議,かいぎ,meeting; conference; session
+vocabulary,N3,Other,伝える,つたえる,to convey; to report; to transmit
+vocabulary,N3,Other,伺う,うかがう,to ask; to inquire; to hear
+vocabulary,N3,Other,例,れい,example; custom; precedent
+vocabulary,N3,Other,保存する,ほぞんする,to save; to preserve
+vocabulary,N3,Other,保留,ほりゅう,reservation; putting on hold; deferment
+vocabulary,N3,Other,信じる,しんじる,to believe; to believe in; to place trust in
+vocabulary,N3,Other,信用,しんよう,confidence; trust; faith
+vocabulary,N3,Other,俳優,はいゆう,actor; actress; player
+vocabulary,N3,Other,倍,ばい,twice; double
+vocabulary,N3,Other,備える,そなえる,to furnish with; to equip with; to provide
+vocabulary,N3,Other,優しい,やさしい,tender; kind; gentle
+vocabulary,N3,Other,優先席,ゆうせんせき,"priority seat; courtesy seat; seat provided in trains, buses, etc. for the use of the disabled, young children, the elderly, pregnant women, etc."
+vocabulary,N3,Other,優勝,ゆうしょう,overall victory; championship
+vocabulary,N3,Other,入荷,にゅうか,arrival of goods; goods received
+vocabulary,N3,Other,全席,ぜんせき,all tickets
+vocabulary,N3,Other,全部,ぜんぶ,all; entire; whole
+vocabulary,N3,Other,全面,ぜんめん,whole surface; entire
+vocabulary,N3,Other,公園,こうえん,(public) park
+vocabulary,N3,Other,内側,うちがわ,inside; interior; inner part
+vocabulary,N3,Other,内容,ないよう,contents; content; substance
+vocabulary,N3,Other,再ダイヤル,さいだいやる,redial
+vocabulary,N3,Other,再入国,さいにゅうこく,re-entry (into a country)
+vocabulary,N3,Other,再生,さいせい,resuscitation; regeneration; restoration to life
+vocabulary,N3,Other,冷える,ひえる,"to grow cold (from room temperature, e.g. in refrigerator); to get chilly; to cool down"
+vocabulary,N3,Other,冷たい,つめたい,cold (to the touch); chilly; icy
+vocabulary,N3,Other,冷ます,さます,to cool (e.g. from a high temperature to room temperature); to let cool
+vocabulary,N3,Other,冷める,さめる,to cool down; to get cold
+vocabulary,N3,Other,冷やす,ひやす,to cool (from room temperature); to chill; to refrigerate
+vocabulary,N3,Other,冷房,れいぼう,air conditioning; air cooling
+vocabulary,N3,Other,凍る,こおる,to freeze; to be frozen over; to congeal
+vocabulary,N3,Other,出荷,しゅっか,shipping; shipment; forwarding
+vocabulary,N3,Other,分解,ぶんかい,disassembly; dismantling; disaggregating
+vocabulary,N3,Other,分類,ぶんるい,classification; categorization; sorting
+vocabulary,N3,Other,利用,りよう,use; utilization; utilisation
+vocabulary,N3,Other,刺身,さしみ,"sashimi (raw sliced fish, shellfish or crustaceans)"
+vocabulary,N3,Other,割る,わる,to break; to divide; to split
+vocabulary,N3,Other,割れる,われる,to break; to be smashed
+vocabulary,N3,Other,割合,わりあい,rate; ratio; percentage
+vocabulary,N3,Other,加える,くわえる,to add; to add up; to sum up
+vocabulary,N3,Other,労働者,ろうどうしゃ,employee; worker
+vocabulary,N3,Other,勝つ,かつ,to win; to gain victory
+vocabulary,N3,Other,勝負,しょうぶ,victory or defeat
+vocabulary,N3,Other,募集,ぼしゅう,recruitment; invitation; selection
+vocabulary,N3,Other,化粧,けしょう,make-up; makeup; cosmetics
+vocabulary,N3,Other,協力,きょうりょく,cooperation; collaboration
+vocabulary,N3,Other,単位,たんい,unit; denomination
+vocabulary,N3,Other,単語,たんご,word; vocabulary; (usually) single-character word
+vocabulary,N3,Other,危ない,あぶない,dangerous; risky; hazardous
+vocabulary,N3,Other,危険,きけん,danger; peril; hazard
+vocabulary,N3,Other,厚い,あつい,thick; deep; heavy
+vocabulary,N3,Other,原因,げんいん,cause; origin; source
+vocabulary,N3,Other,原料,げんりょう,raw materials
+vocabulary,N3,Other,参る,まいる,to go; to come; to call
+vocabulary,N3,Other,参加,さんか,participation; joining; entry
+vocabulary,N3,Other,友達,ともだち,friend; companion
+vocabulary,N3,Other,反対,はんたい,opposition; resistance; antagonism
+vocabulary,N3,Other,取り替える,とりかえる,to exchange; to swap; to barter
+vocabulary,N3,Other,取る,とる,to take; to pick up; to grab
+vocabulary,N3,Other,受ける,うける,to receive; to get
+vocabulary,N3,Other,受け取る,うけとる,to receive; to get; to accept
+vocabulary,N3,Other,受付,うけつけ,reception (desk); information desk
+vocabulary,N3,Other,口紅,くちべに,lipstick
+vocabulary,N3,Other,召し上がる,めしあがる,to eat; to drink
+vocabulary,N3,Other,右側,みぎがわ,right side; right-hand side
+vocabulary,N3,Other,右折,うせつ,turning to the right; right turn
+vocabulary,N3,Other,各国,かっこく,each nation
+vocabulary,N3,Other,各自,かくじ,each (person); everyone; individual
+vocabulary,N3,Other,向かう,むかう,to face
+vocabulary,N3,Other,向き,むき,direction; orientation; aspect
+vocabulary,N3,Other,向こう,むこう,opposite side; other side; opposite direction
+vocabulary,N3,Other,君,きみ,you; buddy; pal
+vocabulary,N3,Other,否定,ひてい,denial; negation; repudiation
+vocabulary,N3,Other,否定的,ひていてき,negative; contradictory
+vocabulary,N3,Other,吸う,すう,to smoke; to breathe in; to inhale
+vocabulary,N3,Other,吹く,ふく,to blow (of the wind)
+vocabulary,N3,Other,呼ぶ,よぶ,to call out (to); to call; to invoke
+vocabulary,N3,Other,商品,しょうひん,commodity; article of commerce; goods
+vocabulary,N3,Other,四角い,しかくい,square; rectangular
+vocabulary,N3,Other,回復,かいふく,restoration; rehabilitation; recovery
+vocabulary,N3,Other,団体,だんたい,organization; organisation; association
+vocabulary,N3,Other,困る,こまる,to be troubled; to have difficulty; to be in a fix
+vocabulary,N3,Other,困難,こんなん,difficulty; hardship; trouble
+vocabulary,N3,Other,図形,ずけい,figure; shape; graphic
+vocabulary,N3,Other,塩,しお,salt; common salt; table salt
+vocabulary,N3,Other,増える,ふえる,to increase; to multiply
+vocabulary,N3,Other,増やす,ふやす,to increase; to add to; to augment
+vocabulary,N3,Other,増加,ぞうか,increase; rise; growth
+vocabulary,N3,Other,変える,かえる,to change; to alter; to transform
+vocabulary,N3,Other,変わる,かわる,to change; to be transformed; to be altered
+vocabulary,N3,Other,変化,へんか,change; variation; alteration
+vocabulary,N3,Other,大型,おおがた,large; large-sized; large-scale
+vocabulary,N3,Other,失敗,しっぱい,failure; mistake; blunder
+vocabulary,N3,Other,失望,しつぼう,disappointment; despair
+vocabulary,N3,Other,失礼,しつれい,discourtesy; impoliteness
+vocabulary,N3,Other,奥,おく,inner part; inside; interior
+vocabulary,N3,Other,奥さん,おくさん,wife; your wife; his wife
+vocabulary,N3,Other,婚約,こんやく,engagement; betrothal
+vocabulary,N3,Other,宅配,たくはい,home delivery
+vocabulary,N3,Other,守る,まもる,to protect; to guard; to defend
+vocabulary,N3,Other,守備,しゅび,defense; defence
+vocabulary,N3,Other,完了,かんりょう,completion; conclusion
+vocabulary,N3,Other,完成,かんせい,complete; completion
+vocabulary,N3,Other,定休日,ていきゅうび,regular holiday; fixed day off; regular closing day
+vocabulary,N3,Other,家内,かない,(my) wife
+vocabulary,N3,Other,寝る,ねる,to sleep (lying down)
+vocabulary,N3,Other,寝坊,ねぼう,sleeping in late; oversleeping
+vocabulary,N3,Other,専門,せんもん,speciality; specialty; subject of study
+vocabulary,N3,Other,専門家,せんもんか,specialist; expert; professional
+vocabulary,N3,Other,小型,こがた,small; small-sized; small-scale
+vocabulary,N3,Other,届く,とどく,to reach; to touch; to get to
+vocabulary,N3,Other,届ける,とどける,to deliver; to forward; to send
+vocabulary,N3,Other,左折,させつ,turning to the left; left turn
+vocabulary,N3,Other,差,さ,difference; variation
+vocabulary,N3,Other,差し出す,さしだす,to present; to submit; to tender
+vocabulary,N3,Other,席,せき,seat
+vocabulary,N3,Other,帯,おび,obi; kimono sash
+vocabulary,N3,Other,広告,こうこく,advertisement; advertising
+vocabulary,N3,Other,座る,すわる,to sit; to squat
+vocabulary,N3,Other,座席,ざせき,seat
+vocabulary,N3,Other,強調,きょうちょう,emphasis; highlight; stress
+vocabulary,N3,Other,当たる,あたる,to be hit; to strike
+vocabulary,N3,Other,形,かたち,form; shape; figure
+vocabulary,N3,Other,形式,けいしき,form (as opposed to substance); formality
+vocabulary,N3,Other,役に立つ,やくにたつ,to be helpful; to be useful
+vocabulary,N3,Other,役員,やくいん,director; executive
+vocabulary,N3,Other,忘年会,ぼうねんかい,"year-end party; ""forget-the-year"" party; bōnenkai"
+vocabulary,N3,Other,忙しい,いそがしい,busy; occupied; hectic
+vocabulary,N3,Other,快速,かいそく,rapid (train); high speed
+vocabulary,N3,Other,快適,かいてき,pleasant; agreeable; comfortable
+vocabulary,N3,Other,性別,せいべつ,gender; distinction of sex; sex
+vocabulary,N3,Other,性格,せいかく,character (of a person); personality; disposition
+vocabulary,N3,Other,息,いき,breath; breathing
+vocabulary,N3,Other,息切れ,いきぎれ,shortness of breath; panting; puffing
+vocabulary,N3,Other,息子,むすこ,son
+vocabulary,N3,Other,意欲,いよく,will; desire; ambition
+vocabulary,N3,Other,感じる,かんじる,to feel; to sense; to experience
+vocabulary,N3,Other,感動,かんどう,being deeply moved emotionally; excitement; passion
+vocabulary,N3,Other,感情,かんじょう,emotion; feeling; feelings
+vocabulary,N3,Other,感想,かんそう,impressions; thoughts; feelings
+vocabulary,N3,Other,成功,せいこう,success; hit
+vocabulary,N3,Other,成長,せいちょう,growth; development; growing up
+vocabulary,N3,Other,戦う,たたかう,to make war (on); to wage war (against); to go to war (with)
+vocabulary,N3,Other,戦後,せんご,postwar period; period after Second World War
+vocabulary,N3,Other,戻す,もどす,to put back; to return; to give back
+vocabulary,N3,Other,戻る,もどる,to turn back (e.g. half-way)
+vocabulary,N3,Other,手伝う,てつだう,to help; to assist; to aid
+vocabulary,N3,Other,払う,はらう,"to pay (e.g. money, bill)"
+vocabulary,N3,Other,投げる,なげる,to throw; to hurl; to fling
+vocabulary,N3,Other,投手,とうしゅ,pitcher
+vocabulary,N3,Other,折り紙,おりがみ,origami; art of paper folding
+vocabulary,N3,Other,折る,おる,to break; to fracture; to break off
+vocabulary,N3,Other,折れる,おれる,to break; to be broken; to snap
+vocabulary,N3,Other,押さえる,おさえる,to pin down; to hold down; to press down
+vocabulary,N3,Other,押しボタン式,おしボタンしき,pelican crossing; pedestrian light controlled crossing; push-button activated pedestrian crossing
+vocabulary,N3,Other,押す,おす,to push; to press
+vocabulary,N3,Other,指,ゆび,finger; toe; digit
+vocabulary,N3,Other,指定,してい,designation; specification; assignment
+vocabulary,N3,Other,指定席,していせき,reserved seat
+vocabulary,N3,Other,指示,しじ,indication; denotation; designation
+vocabulary,N3,Other,指輪,ゆびわ,(finger) ring
+vocabulary,N3,Other,振り込む,ふりこむ,to make a payment via bank deposit transfer
+vocabulary,N3,Other,捨てる,すてる,to throw away; to cast away; to dump
+vocabulary,N3,Other,接続,せつぞく,connection; attachment; union
+vocabulary,N3,Other,携帯,けいたい,carrying (on one's person or in the hand)
+vocabulary,N3,Other,支払う,しはらう,to pay
+vocabulary,N3,Other,改める,あらためる,to change; to alter; to revise
+vocabulary,N3,Other,改正,かいせい,revision; amendment; alteration
+vocabulary,N3,Other,故障,こしょう,breakdown; failure; fault
+vocabulary,N3,Other,救う,すくう,to rescue from; to help out of; to save
+vocabulary,N3,Other,救助,きゅうじょ,relief; aid; rescue
+vocabulary,N3,Other,整理,せいり,sorting; arrangement; organization
+vocabulary,N3,Other,文化,ぶんか,culture; civilization; civilisation
+vocabulary,N3,Other,文化祭,ぶんかさい,school festival; cultural festival; annual open day school event showcasing student talent
+vocabulary,N3,Other,文法,ぶんぽう,grammar
+vocabulary,N3,Other,断る,ことわる,to refuse; to reject; to dismiss
+vocabulary,N3,Other,断水,だんすい,suspension of water supply; water outage
+vocabulary,N3,Other,新型,しんがた,new type; new style; new model
+vocabulary,N3,Other,方向,ほうこう,direction; orientation; bearing
+vocabulary,N3,Other,方法,ほうほう,method; process; manner
+vocabulary,N3,Other,方面,ほうめん,direction; district; area
+vocabulary,N3,Other,日常,にちじょう,everyday; daily; ordinary
+vocabulary,N3,Other,易しい,やさしい,easy; plain; simple
+vocabulary,N3,Other,昔,むかし,olden days; former
+vocabulary,N3,Other,昼寝,ひるね,nap (afternoon); siesta
+vocabulary,N3,Other,時間帯,じかんたい,period of time; time slot; time zone
+vocabulary,N3,Other,普通,ふつう,normal; ordinary; regular
+vocabulary,N3,Other,暖かい,あたたかい,warm; mild; (pleasantly) hot
+vocabulary,N3,Other,暖房,だんぼう,(indoor) heating
+vocabulary,N3,Other,曲,きょく,composition; piece of music; song
+vocabulary,N3,Other,曲がる,まがる,to bend; to curve; to warp
+vocabulary,N3,Other,曲げる,まげる,to bend; to crook; to bow
+vocabulary,N3,Other,曲線,きょくせん,curve
+vocabulary,N3,Other,最も,もっとも,most; extremely
+vocabulary,N3,Other,最後,さいご,end; conclusion
+vocabulary,N3,Other,最近,さいきん,recently; lately; these days
+vocabulary,N3,Other,望む,のぞむ,to desire
+vocabulary,N3,Other,未来,みらい,the future (usually distant)
+vocabulary,N3,Other,本当,ほんとう,truth; reality; actuality
+vocabulary,N3,Other,材料,ざいりょう,ingredients; material
+vocabulary,N3,Other,束,たば,bundle; bunch; sheaf
+vocabulary,N3,Other,格安,かくやす,cheap; reasonable
+vocabulary,N3,Other,案,あん,idea; plan; proposal
+vocabulary,N3,Other,案内,あんない,guidance; leading (the way); showing around
+vocabulary,N3,Other,様子,ようす,state; state of affairs; situation
+vocabulary,N3,Other,横,よこ,horizontal (as opposed to vertical); lying down
+vocabulary,N3,Other,横断,おうだん,crossing; traversing
+vocabulary,N3,Other,橋,はし,bridge
+vocabulary,N3,Other,機会,きかい,chance; opportunity
+vocabulary,N3,Other,欠ける,かける,to be chipped; to be damaged; to be broken
+vocabulary,N3,Other,欠席,けっせき,absence; non-attendance
+vocabulary,N3,Other,欠点,けってん,fault; defect; flaw
+vocabulary,N3,Other,次,つぎ,next; following; subsequent
+vocabulary,N3,Other,次回,じかい,next time (occasion)
+vocabulary,N3,Other,欲しい,ほしい,wanted; wished for; in need of
+vocabulary,N3,Other,正常,せいじょう,normalcy; normality; normal
+vocabulary,N3,Other,正座,せいざ,sitting formally on one's knees; seiza
+vocabulary,N3,Other,歳,さい,-years-old
+vocabulary,N3,Other,死亡,しぼう,death; mortality
+vocabulary,N3,Other,残り,のこり,remnant; residue; remaining
+vocabulary,N3,Other,残る,のこる,to remain; to be left
+vocabulary,N3,Other,残念,ざんねん,deplorable; regrettable; disappointing
+vocabulary,N3,Other,比べる,くらべる,to compare; to make a comparison
+vocabulary,N3,Other,求める,もとめる,to want; to wish for
+vocabulary,N3,Other,汗,あせ,sweat; perspiration
+vocabulary,N3,Other,汗をかく,あせをかく,to perspire; to sweat
+vocabulary,N3,Other,汚い,きたない,dirty; filthy; foul
+vocabulary,N3,Other,汚れる,よごれる,to get dirty; to become soiled
+vocabulary,N3,Other,決まる,きまる,to be decided; to be settled; to be fixed
+vocabulary,N3,Other,決める,きめる,to decide; to choose; to determine
+vocabulary,N3,Other,決勝,けっしょう,decision of a contest; finals (in sports)
+vocabulary,N3,Other,決定,けってい,decision; determination
+vocabulary,N3,Other,油,あぶら,oil
+vocabulary,N3,Other,泊まる,とまる,to stay at (e.g. hotel)
+vocabulary,N3,Other,泊める,とめる,to give shelter to; to lodge; to put up
+vocabulary,N3,Other,波,なみ,wave
+vocabulary,N3,Other,泣く,なく,to cry; to weep; to sob
+vocabulary,N3,Other,活動,かつどう,"activity (of a person, organization, animal, volcano, etc.); action"
+vocabulary,N3,Other,流す,ながす,to drain; to pour; to spill
+vocabulary,N3,Other,流れる,ながれる,"to stream; to flow (liquid, time, etc.); to run (ink)"
+vocabulary,N3,Other,消える,きえる,to go out; to vanish; to disappear
+vocabulary,N3,Other,消しゴム,けしゴム,eraser; rubber
+vocabulary,N3,Other,消す,けす,to erase; to delete; to cross out
+vocabulary,N3,Other,消防,しょうぼう,fire fighting
+vocabulary,N3,Other,涙,なみだ,tear; tears; lachrymal secretion
+vocabulary,N3,Other,混ぜる,まぜる,to mix; to stir; to blend
+vocabulary,N3,Other,混雑,こんざつ,congestion; crush; crowding
+vocabulary,N3,Other,済む,すむ,to finish; to end; to be completed
+vocabulary,N3,Other,減らす,へらす,to abate; to decrease; to diminish
+vocabulary,N3,Other,減る,へる,to decrease (in size or number); to diminish; to abate
+vocabulary,N3,Other,減少,げんしょう,decrease; reduction; decline
+vocabulary,N3,Other,減量,げんりょう,loss in weight (esp. body weight); weight reduction
+vocabulary,N3,Other,渡す,わたす,to hand over; to pass; to ferry across
+vocabulary,N3,Other,渡る,わたる,to cross over; to go across
+vocabulary,N3,Other,温かい,あたたかい,warm; mild; (pleasantly) hot
+vocabulary,N3,Other,温度,おんど,temperature
+vocabulary,N3,Other,湯,ゆ,hot water
+vocabulary,N3,Other,満員,まんいん,full house; no vacancy; sold out
+vocabulary,N3,Other,準備,じゅんび,preparation; arrangements; getting ready
+vocabulary,N3,Other,濃い,こい,deep (colour); dark
+vocabulary,N3,Other,灯油,とうゆ,kerosene; paraffin; lamp oil
+vocabulary,N3,Other,灰皿,はいざら,ashtray
+vocabulary,N3,Other,無い,ない,nonexistent; not being (there)
+vocabulary,N3,Other,無休,むきゅう,without a holiday; nonstop
+vocabulary,N3,Other,無断,むだん,without permission; without notice
+vocabulary,N3,Other,無理,むり,unreasonable; unnatural; unjustifiable
+vocabulary,N3,Other,焼く,やく,to burn
+vocabulary,N3,Other,焼ける,やける,to burn; to be roasted; to be heated
+vocabulary,N3,Other,煙,けむり,smoke; fumes
+vocabulary,N3,Other,熱,ねつ,heat
+vocabulary,N3,Other,熱い,あつい,hot (thing)
+vocabulary,N3,Other,現れる,あらわれる,to appear; to come in sight; to become visible
+vocabulary,N3,Other,現在,げんざい,now; current; present
+vocabulary,N3,Other,理解,りかい,understanding; comprehension; appreciation
+vocabulary,N3,Other,生活,せいかつ,living; life (one's daily existence); livelihood
+vocabulary,N3,Other,用件,ようけん,business; thing to be done; something that should be performed
+vocabulary,N3,Other,申し上げる,もうしあげる,to say; to tell; to state
+vocabulary,N3,Other,申し込む,もうしこむ,to apply for; to make an application; to propose (marriage)
+vocabulary,N3,Other,申す,もうす,to say; to be called
+vocabulary,N3,Other,画面,がめん,"screen (of a TV, computer, etc.)"
+vocabulary,N3,Other,留守,るす,absence; being away from home
+vocabulary,N3,Other,留守番,るすばん,care-taking; house-sitting; house-watching
+vocabulary,N3,Other,番,ばん,number (in a series)
+vocabulary,N3,Other,番号,ばんごう,number; series of digits
+vocabulary,N3,Other,番組,ばんぐみ,program (e.g. TV); programme
+vocabulary,N3,Other,番線,ばんせん,track number
+vocabulary,N3,Other,疲れる,つかれる,to get tired; to tire; to get fatigued
+vocabulary,N3,Other,登山,とざん,mountain climbing
+vocabulary,N3,Other,皿,さら,plate; dish; platter
+vocabulary,N3,Other,目次,もくじ,table of contents; contents
+vocabulary,N3,Other,直す,なおす,to fix; to correct; to repair
+vocabulary,N3,Other,直る,なおる,to get mended; to be repaired; to be fixed
+vocabulary,N3,Other,直接,ちょくせつ,direct; immediate; personal
+vocabulary,N3,Other,直線,ちょくせん,straight line
+vocabulary,N3,Other,相手,あいて,companion; partner; company
+vocabulary,N3,Other,相談,そうだん,consultation; discussion; discussing
+vocabulary,N3,Other,省,しょう,ministry; department
+vocabulary,N3,Other,眠い,ねむい,sleepy; drowsy; somnolent
+vocabulary,N3,Other,眠る,ねむる,to sleep
+vocabulary,N3,Other,着替える,きがえる,to change one's clothes
+vocabulary,N3,Other,石,いし,stone
+vocabulary,N3,Other,石けん,せっけん,soap
+vocabulary,N3,Other,石油,せきゆ,oil; petroleum
+vocabulary,N3,Other,確か,たしか,sure; certain; positive
+vocabulary,N3,Other,確かめる,たしかめる,to ascertain; to check; to make sure
+vocabulary,N3,Other,確認,かくにん,confirmation; verification; validation
+vocabulary,N3,Other,示す,しめす,to (take out and) show; to demonstrate; to tell
+vocabulary,N3,Other,祝い,いわい,congratulation; congratulations; celebration
+vocabulary,N3,Other,祝日,しゅくじつ,national holiday; public holiday
+vocabulary,N3,Other,神様,かみさま,God; god
+vocabulary,N3,Other,神経質,しんけいしつ,nervous; highly strung; sensitive
+vocabulary,N3,Other,祭り,まつり,festival; feast
+vocabulary,N3,Other,禁止,きんし,prohibition; inhibition; ban
+vocabulary,N3,Other,禁煙,きんえん,abstaining from smoking; quitting smoking
+vocabulary,N3,Other,移す,うつす,to change; to swap; to substitute
+vocabulary,N3,Other,移る,うつる,to move (house); to transfer (department)
+vocabulary,N3,Other,移動,いどう,movement; transfer; migration
+vocabulary,N3,Other,種,しゅ,kind; variety
+vocabulary,N3,Other,種類,しゅるい,variety; kind; type
+vocabulary,N3,Other,笑い,わらい,laugh; laughter
+vocabulary,N3,Other,笑う,わらう,to laugh
+vocabulary,N3,Other,笑顔,えがお,smiling face; smile
+vocabulary,N3,Other,箱,はこ,box; case; chest
+vocabulary,N3,Other,簡単,かんたん,simple; easy; uncomplicated
+vocabulary,N3,Other,米,こめ,rice
+vocabulary,N3,Other,米国,べいこく,(United States of) America; USA; US
+vocabulary,N3,Other,粉,こな,flour; meal; powder
+vocabulary,N3,Other,約束,やくそく,promise; agreement; arrangement
+vocabulary,N3,Other,紅茶,こうちゃ,black tea
+vocabulary,N3,Other,細い,ほそい,thin; slender; fine
+vocabulary,N3,Other,細かい,こまかい,fine; detailed; small
+vocabulary,N3,Other,終了,しゅうりょう,end; close; termination
+vocabulary,N3,Other,組み立てる,くみたてる,to assemble; to set up; to construct
+vocabulary,N3,Other,組む,くむ,to cross (legs or arms); to link (arms)
+vocabulary,N3,Other,経済,けいざい,economy; economics
+vocabulary,N3,Other,経験,けいけん,experience
+vocabulary,N3,Other,結ぶ,むすぶ,to tie; to bind; to link
+vocabulary,N3,Other,結婚,けっこん,marriage
+vocabulary,N3,Other,結局,けっきょく,after all; in the end; ultimately
+vocabulary,N3,Other,結構,けっこう,splendid; nice; wonderful
+vocabulary,N3,Other,絵,え,picture; drawing; painting
+vocabulary,N3,Other,絵本,えほん,picture book
+vocabulary,N3,Other,絵画,かいが,painting; picture
+vocabulary,N3,Other,続く,つづく,to continue; to last; to go on
+vocabulary,N3,Other,続ける,つづける,to continue; to keep up; to keep on
+vocabulary,N3,Other,緑,みどり,green
+vocabulary,N3,Other,緑色,みどりいろ,green; emerald green; green color of new foliage
+vocabulary,N3,Other,緑茶,りょくちゃ,green tea; Japanese tea
+vocabulary,N3,Other,線,せん,line; stripe; stria
+vocabulary,N3,Other,線路,せんろ,railway track; railway line; railroad
+vocabulary,N3,Other,美しい,うつくしい,beautiful; pretty; lovely
+vocabulary,N3,Other,美容院,びよういん,beauty parlour; beauty parlor; beauty salon
+vocabulary,N3,Other,美術,びじゅつ,art; fine arts
+vocabulary,N3,Other,美術館,びじゅつかん,art gallery; art museum
+vocabulary,N3,Other,育つ,そだつ,to be raised (e.g. child); to be brought up; to grow (up)
+vocabulary,N3,Other,育てる,そだてる,to raise; to rear; to bring up
+vocabulary,N3,Other,自信,じしん,self-confidence; confidence (in oneself)
+vocabulary,N3,Other,自動販売機,じどうはんばいき,vending machine
+vocabulary,N3,Other,自宅,じたく,one's home; one's house
+vocabulary,N3,Other,自由,じゆう,freedom; liberty
+vocabulary,N3,Other,自由席,じゆうせき,unreserved seat; non-reserved seat
+vocabulary,N3,Other,自身,じしん,(one's) self; oneself
+vocabulary,N3,Other,船,ふね,ship; boat; watercraft
+vocabulary,N3,Other,船便,ふなびん,surface mail (ship); sea mail
+vocabulary,N3,Other,船長,せんちょう,ship's captain; skipper
+vocabulary,N3,Other,花束,はなたば,bunch of flowers; bouquet
+vocabulary,N3,Other,若い,わかい,young; youthful
+vocabulary,N3,Other,苦い,にがい,bitter
+vocabulary,N3,Other,苦しい,くるしい,painful; difficult; tough
+vocabulary,N3,Other,苦労,くろう,trouble; hardship; difficulty
+vocabulary,N3,Other,苦手,にがて,poor (at); weak (in); not very good (at)
+vocabulary,N3,Other,葉,は,leaf; blade (of grass); (pine) needle
+vocabulary,N3,Other,薄い,うすい,thin
+vocabulary,N3,Other,虫,むし,insect; bug; cricket
+vocabulary,N3,Other,衣服,いふく,clothes
+vocabulary,N3,Other,衣類,いるい,clothes; clothing; garments
+vocabulary,N3,Other,表,おもて,surface
+vocabulary,N3,Other,表す,あらわす,to represent; to signify; to stand for
+vocabulary,N3,Other,表情,ひょうじょう,facial expression; countenance
+vocabulary,N3,Other,表面,ひょうめん,surface; face
+vocabulary,N3,Other,裏,うら,opposite side; bottom; other side
+vocabulary,N3,Other,裏返す,うらがえす,to turn inside out; to turn the other way; to turn (something) over
+vocabulary,N3,Other,要る,いる,to be needed; to be wanted
+vocabulary,N3,Other,要求,ようきゅう,demand; firm request; requisition
+vocabulary,N3,Other,角,かく,angle
+vocabulary,N3,Other,角度,かくど,angle
+vocabulary,N3,Other,解答,かいとう,answer; solution
+vocabulary,N3,Other,解説,かいせつ,explanation; commentary; exposition
+vocabulary,N3,Other,言葉,ことば,language; dialect
+vocabulary,N3,Other,認める,みとめる,to recognize; to admit; to approve
+vocabulary,N3,Other,調べる,しらべる,to examine; to look up; to investigate
+vocabulary,N3,Other,調子,ちょうし,tune; tone; key
+vocabulary,N3,Other,調査,ちょうさ,investigation; examination; inquiry
+vocabulary,N3,Other,警官,けいかん,police officer; policeman; constable
+vocabulary,N3,Other,負ける,まける,to lose; to be defeated
+vocabulary,N3,Other,販売,はんばい,sales; selling; marketing
+vocabulary,N3,Other,貿易,ぼうえき,trade (foreign)
+vocabulary,N3,Other,賞品,しょうひん,prize; trophy
+vocabulary,N3,Other,身分,みぶん,(social) standing; status; position
+vocabulary,N3,Other,身長,しんちょう,height (of body); stature
+vocabulary,N3,Other,輸入,ゆにゅう,import; importation; introduction
+vocabulary,N3,Other,輸出,ゆしゅつ,export; exportation
+vocabulary,N3,Other,輸送,ゆそう,transport; transportation
+vocabulary,N3,Other,辞める,やめる,to resign; to retire; to quit
+vocabulary,N3,Other,込む,こむ,to be crowded; to be packed
+vocabulary,N3,Other,返す,かえす,to return (something); to restore; to put back
+vocabulary,N3,Other,返事,へんじ,reply; answer; response
+vocabulary,N3,Other,返却,へんきゃく,return of something; repayment
+vocabulary,N3,Other,通路,つうろ,passage; pathway; roadway
+vocabulary,N3,Other,通過,つうか,"passing through (a tunnel, station, town, etc.); passing by (e.g. of a typhoon); transit"
+vocabulary,N3,Other,速い,はやい,fast; quick; hasty
+vocabulary,N3,Other,速度,そくど,speed; velocity; pace
+vocabulary,N3,Other,速達,そくたつ,express; special delivery
+vocabulary,N3,Other,造る,つくる,to make; to produce; to manufacture
+vocabulary,N3,Other,連れて来る,つれてくる,to bring someone along
+vocabulary,N3,Other,連れて行く,つれていく,to take someone (to some place); to take someone along; to lead someone away
+vocabulary,N3,Other,連休,れんきゅう,consecutive holidays
+vocabulary,N3,Other,遅い,おそい,slow; time-consuming; sluggish
+vocabulary,N3,Other,遅れる,おくれる,to be late; to be delayed; to fall behind schedule
+vocabulary,N3,Other,遅刻,ちこく,lateness; tardiness; arriving late
+vocabulary,N3,Other,遊ぶ,あそぶ,"to play (games, sports); to enjoy oneself; to have a good time"
+vocabulary,N3,Other,遊園地,ゆうえんち,amusement park
+vocabulary,N3,Other,過ぎる,すぎる,to pass through; to pass by; to go beyond
+vocabulary,N3,Other,過去,かこ,the past; bygone days
+vocabulary,N3,Other,適当,てきとう,suitable; proper; appropriate
+vocabulary,N3,Other,選ぶ,えらぶ,to choose; to select
+vocabulary,N3,Other,選手,せんしゅ,player (sports); athlete; team member
+vocabulary,N3,Other,部分,ぶぶん,portion; section; part
+vocabulary,N3,Other,郵便,ゆうびん,mail service; postal service; mail
+vocabulary,N3,Other,配る,くばる,to distribute; to hand out; to deliver
+vocabulary,N3,Other,配送料,はいそうりょう,delivery fee; delivery charge
+vocabulary,N3,Other,配達,はいたつ,delivery
+vocabulary,N3,Other,重要,じゅうよう,important; momentous; essential
+vocabulary,N3,Other,野球,やきゅう,baseball
+vocabulary,N3,Other,鉄,てつ,iron; steel
+vocabulary,N3,Other,閉まる,しまる,to be shut; to close; to be closed
+vocabulary,N3,Other,閉める,しめる,to close; to shut
+vocabulary,N3,Other,開閉,かいへい,opening and shutting; opening and closing
+vocabulary,N3,Other,間違い,まちがい,mistake; error; blunder
+vocabulary,N3,Other,間違う,まちがう,to make a mistake; to be incorrect; to be mistaken
+vocabulary,N3,Other,間違える,まちがえる,to make a mistake (in); to commit an error (e.g. in calculation)
+vocabulary,N3,Other,関する,かんする,to concern; to be related
+vocabulary,N3,Other,関係,かんけい,relation; relationship; connection
+vocabulary,N3,Other,防ぐ,ふせぐ,to defend against; to protect against
+vocabulary,N3,Other,限る,かぎる,to restrict; to limit; to confine
+vocabulary,N3,Other,限定,げんてい,limit; restriction
+vocabulary,N3,Other,限度,げんど,limit; bounds
+vocabulary,N3,Other,階段,かいだん,stairs; stairway; staircase
+vocabulary,N3,Other,難しい,むずかしい,difficult; hard; troublesome
+vocabulary,N3,Other,難問,なんもん,perplexity; difficult question; difficult problem
+vocabulary,N3,Other,非常,ひじょう,emergency
+vocabulary,N3,Other,面接,めんせつ,interview (e.g. for a job)
+vocabulary,N3,Other,預ける,あずける,to leave (in someone's keeping); to put (in someone's care); to place (in someone's custody)
+vocabulary,N3,Other,願う,ねがう,to desire; to wish; to hope
+vocabulary,N3,Other,風船,ふうせん,"balloon (esp. small, toy variety)"
+vocabulary,N3,Other,飛ぶ,とぶ,to fly; to soar
+vocabulary,N3,Other,首相,しゅしょう,"prime minister; chancellor (Germany, Austria, etc.); premier"
+vocabulary,N3,Other,馬,うま,horse
+vocabulary,N3,Other,鳴く,なく,to make sound (of an animal); to call; to cry
+vocabulary,N3,Other,鳴る,なる,to sound; to ring; to resound
+vocabulary,N3,Other,黄色,きいろ,yellow; amber
+vocabulary,N3,Other,黄色い,きいろい,yellow
+vocabulary,N3,Other,鼻,はな,nose
+vocabulary,N3,People & family,お客様,おきゃくさま,guest; customer (polite)
+vocabulary,N3,People & family,一般,いっぱん,general; ordinary
+vocabulary,N3,People & family,一般に,いっぱんに,generally
+vocabulary,N3,People & family,両親,りょうしん,parents
+vocabulary,N3,People & family,主婦,しゅふ,homemaker; housewife
+vocabulary,N3,People & family,二十歳,はたち,twenty years old
+vocabulary,N3,People & family,人形,にんぎょう,doll
+vocabulary,N3,People & family,人類,じんるい,humankind
+vocabulary,N3,People & family,個人,こじん,individual
+vocabulary,N3,People & family,個人的,こじんてき,personal; private
+vocabulary,N3,People & family,受取人,うけとりにん,recipient
+vocabulary,N3,People & family,夫,おっと,husband
+vocabulary,N3,People & family,夫妻,ふさい,married couple
+vocabulary,N3,People & family,夫婦,ふうふ,married couple; husband and wife
+vocabulary,N3,People & family,女性,じょせい,woman; female
+vocabulary,N3,People & family,妻,つま,wife
+vocabulary,N3,People & family,婦人,ふじん,woman; lady
+vocabulary,N3,People & family,客,きゃく,guest; visitor
+vocabulary,N3,People & family,差出人,さしだしにん,sender
+vocabulary,N3,People & family,年齢,ねんれい,age
+vocabulary,N3,People & family,独身,どくしん,single; unmarried
+vocabulary,N3,People & family,男性,だんせい,man; male
+vocabulary,N3,People & family,美人,びじん,beautiful woman
+vocabulary,N3,People & family,観客,かんきゃく,spectator; audience
+vocabulary,N3,People & family,高齢,こうれい,advanced age
+vocabulary,N3,Science & technology,化学,かがく,chemistry
+vocabulary,N3,Science & technology,化学式,かがくしき,chemical formula
+vocabulary,N3,Science & technology,実験,じっけん,experiment
+vocabulary,N3,Science & technology,携帯電話,けいたいでんわ,mobile phone
+vocabulary,N3,Science & technology,数学,すうがく,mathematics
+vocabulary,N3,Science & technology,数式,すうしき,mathematical formula
+vocabulary,N3,Science & technology,機械,きかい,machine; machinery
+vocabulary,N3,Science & technology,科学,かがく,science
+vocabulary,N3,Science & technology,製品,せいひん,manufactured product
+vocabulary,N3,Science & technology,製造,せいぞう,manufacturing
+vocabulary,N3,Science & technology,電波,でんぱ,radio wave
+vocabulary,N3,Science & technology,電球,でんきゅう,light bulb
+vocabulary,N3,Time & quantity,今晩,こんばん,this evening
+vocabulary,N3,Time & quantity,以内,いない,within; not more than
+vocabulary,N3,Time & quantity,以降,いこう,from then on; after
+vocabulary,N3,Time & quantity,個数,こすう,number of items
+vocabulary,N3,Time & quantity,冊数,さっすう,number of books
+vocabulary,N3,Time & quantity,再来週,さらいしゅう,week after next
+vocabulary,N3,Time & quantity,年末,ねんまつ,end of the year
+vocabulary,N3,Time & quantity,数,すう,number; several
+vocabulary,N3,Time & quantity,数える,かぞえる,to count; to enumerate
+vocabulary,N3,Time & quantity,数字,すうじ,numeral; figure; digit
+vocabulary,N3,Time & quantity,数量,すうりょう,quantity
+vocabulary,N3,Time & quantity,昨夜,さくや,last night
+vocabulary,N3,Time & quantity,昨年,さくねん,last year
+vocabulary,N3,Time & quantity,昨日,きのう,yesterday
+vocabulary,N3,Time & quantity,晩,ばん,evening; night
+vocabulary,N3,Time & quantity,晩ご飯,ばんごはん,dinner; evening meal
+vocabulary,N3,Time & quantity,月末,げつまつ,end of the month
+vocabulary,N3,Time & quantity,期間,きかん,period; term
+vocabulary,N3,Time & quantity,期限,きげん,deadline; time limit
+vocabulary,N3,Time & quantity,未満,みまん,less than; under
+vocabulary,N3,Time & quantity,枚,まい,counter for flat objects (e.g. sheets of paper)
+vocabulary,N3,Time & quantity,枚数,まいすう,number of flat objects
+vocabulary,N3,Time & quantity,毎晩,まいばん,every evening
+vocabulary,N3,Time & quantity,短期,たんき,short term
+vocabulary,N3,Time & quantity,賞味期限,しょうみきげん,best-before date
+vocabulary,N3,Time & quantity,週末,しゅうまつ,weekend
+vocabulary,N3,Time & quantity,長期,ちょうき,long term
+vocabulary,N3,Transport & travel,乗り換え,のりかえ,"transfer (trains, buses)"
+vocabulary,N3,Transport & travel,乗車券,じょうしゃけん,passenger ticket
+vocabulary,N3,Transport & travel,交差点,こうさてん,intersection
+vocabulary,N3,Transport & travel,交通,こうつう,traffic; transportation
+vocabulary,N3,Transport & travel,信号,しんごう,traffic light; signal
+vocabulary,N3,Transport & travel,停車,ていしゃ,"stopping (of a train, car, etc.); stop"
+vocabulary,N3,Transport & travel,号車,ごうしゃ,suffix for train car numbers
+vocabulary,N3,Transport & travel,各駅,かくえき,every station
+vocabulary,N3,Transport & travel,回数券,かいすうけん,book of tickets
+vocabulary,N3,Transport & travel,地下鉄,ちかてつ,subway
+vocabulary,N3,Transport & travel,定期券,ていきけん,commuter pass
+vocabulary,N3,Transport & travel,宿泊,しゅくはく,lodging; overnight stay
+vocabulary,N3,Transport & travel,往復,おうふく,round trip
+vocabulary,N3,Transport & travel,改札口,かいさつぐち,ticket gate
+vocabulary,N3,Transport & travel,整理券,せいりけん,numbered ticket
+vocabulary,N3,Transport & travel,新婚旅行,しんこんりょこう,honeymoon
+vocabulary,N3,Transport & travel,横断歩道,おうだんほどう,pedestrian crossing
+vocabulary,N3,Transport & travel,歩道橋,ほどうきょう,pedestrian bridge
+vocabulary,N3,Transport & travel,満車,まんしゃ,being fully occupied (of a parking lot)
+vocabulary,N3,Transport & travel,空港,くうこう,airport
+vocabulary,N3,Transport & travel,観光,かんこう,sightseeing
+vocabulary,N3,Transport & travel,車庫,しゃこ,"garage; carport; depot (trains, buses, etc.)"
+vocabulary,N3,Transport & travel,通勤,つうきん,commuting to work
+vocabulary,N3,Transport & travel,道路,どうろ,road; highway
+vocabulary,N3,Transport & travel,鉄道,てつどう,railway
+vocabulary,N3,Transport & travel,降車口,こうしゃぐち,exit for passengers
+vocabulary,N3,Transport & travel,非常口,ひじょうぐち,emergency exit
+vocabulary,N3,Transport & travel,飛行場,ひこうじょう,airfield; airport
+vocabulary,N3,Transport & travel,飛行機,ひこうき,airplane
+vocabulary,N3,Transport & travel,駐車,ちゅうしゃ,parking (e.g. car)
+vocabulary,N3,Transport & travel,駐車券,ちゅうしゃけん,parking ticket
+vocabulary,N3,Transport & travel,駐車場,ちゅうしゃじょう,parking lot
+vocabulary,N3,Transport & travel,高速道路,こうそくどうろ,expressway
+vocabulary,N3,Work & business,事務,じむ,office work
+vocabulary,N3,Work & business,事務所,じむしょ,office
+vocabulary,N3,Work & business,商店,しょうてん,shop; store
+vocabulary,N3,Work & business,営業,えいぎょう,business; sales
+vocabulary,N3,Work & business,多忙,たぼう,very busy
+vocabulary,N3,Work & business,技術,ぎじゅつ,technology; skill
+vocabulary,N3,Work & business,技術者,ぎじゅつしゃ,engineer; technician
+vocabulary,N3,Work & business,支店,してん,branch store; branch office
+vocabulary,N3,Work & business,支社,ししゃ,branch office
+vocabulary,N3,Work & business,本店,ほんてん,main store
+vocabulary,N3,Work & business,本社,ほんしゃ,head office
+vocabulary,N3,Work & business,残業,ざんぎょう,overtime work
+vocabulary,N3,Work & business,求人,きゅうじん,job opening; recruitment
+vocabulary,N3,Work & business,社長,しゃちょう,company president
+vocabulary,N3,Other,神社,じんじゃ,Shinto shrine
+vocabulary,N3,Work & business,経営,けいえい,management; operation
+vocabulary,N3,Work & business,職員,しょくいん,staff member
+vocabulary,N3,Work & business,職場,しょくば,workplace
+vocabulary,N3,Work & business,職業,しょくぎょう,occupation
+vocabulary,N3,Work & business,課長,かちょう,section manager
+vocabulary,N3,Work & business,転職,てんしょく,changing jobs
+vocabulary,N3,Work & business,部長,ぶちょう,department manager
+vocabulary,N5,Daily life,水,みず,water
+vocabulary,N5,Daily life,食べる,たべる,to eat
+vocabulary,N5,Daily life,飲む,のむ,to drink
+vocabulary,N5,Education,学校,がっこう,school
+vocabulary,N5,Education,先生,せんせい,teacher; doctor; master
+vocabulary,N5|N4,People & family,友達,ともだち,friend; companion
+vocabulary,N4,Daily life,意見,いけん,opinion; view
+vocabulary,N4,Daily life,旅行,りょこう,travel; trip
+vocabulary,N4,Daily life,運動,うんどう,exercise; movement
+vocabulary,N4,Daily life,試合,しあい,match; game
+vocabulary,N4,People & family,親切,しんせつ,kind; gentle
+vocabulary,N2,Society & economy,傾向,けいこう,tendency; trend
+vocabulary,N2,Society & economy,需要,じゅよう,demand
+vocabulary,N2,Society & economy,競争,きょうそう,competition
+vocabulary,N2,Society & economy,拡大,かくだい,magnification; expansion
+vocabulary,N2,Society & economy,維持,いじ,maintenance; preservation
+vocabulary,N1,Abstract concepts,抽象,ちゅうしょう,abstraction
+vocabulary,N1,Abstract concepts,概念,がいねん,general idea; concept
+vocabulary,N1,Abstract concepts,把握,はあく,grasp; understanding
+vocabulary,N1,Abstract concepts,妥協,だきょう,compromise
+vocabulary,N1,Abstract concepts,錯覚,さっかく,illusion; misperception

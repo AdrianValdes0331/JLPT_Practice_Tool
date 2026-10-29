@@ -1,0 +1,29 @@
+{
+  "name": "jlpt-practice-tool",
+  "version": "1.0.0",
+  "description": "JLPT N3 vocabulary quiz desktop app",
+  "main": "main.js",
+  "scripts": {
+    "build-data": "node tools/build_data.js",
+    "start": "npm run build-data && electron .",
+    "dist": "npm run build-data && electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.1.8",
+    "kuroshiro": "^1.2.1",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0"
+  },
+  "build": {
+    "appId": "com.local.jlptpractice",
+    "productName": "JLPT Practice Tool",
+    "files": [
+      "main.js",
+      "renderer/**/*",
+      "Icons/icon.ico"
+    ],
+    "win": {
+      "icon": "Icons/icon.ico"
+    }
+  }
+}
