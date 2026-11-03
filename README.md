@@ -23,6 +23,16 @@ The window/taskbar icon comes from `Icons/icon.ico`, generated from `Icons/Desig
 
 If `npm install` fails with "unable to get local issuer certificate" (corporate proxy), run it with `$env:NODE_OPTIONS="--use-system-ca"` and, if Electron's binary did not download, `node node_modules/electron/install.js`.
 
+## Setting up on a new device
+
+Install Node.js (LTS), then in the project folder run `npm install` and `npm start`. Don't copy `node_modules/` from another machine: Electron downloads a platform-specific binary, and copied files get flagged by Windows. Repeating `npm install` rarely fixes an Electron error; check these in order:
+
+1. **Electron binary missing or partial**: delete `node_modules\electron\dist`, then run `node node_modules/electron/install.js` (with `$env:NODE_OPTIONS="--use-system-ca"` set first if behind a corporate proxy).
+2. **Electron installed but won't start**: if `NODE_OPTIONS` is set (e.g. `--use-system-ca`), Electron refuses to launch. Clear it in the same terminal with `$env:NODE_OPTIONS=""` and run `npm start` again. `JLPT Practice.vbs` already clears it.
+3. **Blocked by Windows** (SmartScreen, Defender, AppLocker, or the "downloaded from the internet" flag on copied files): run `Get-ChildItem -Recurse <project folder> | Unblock-File`, and check that Defender didn't quarantine `node_modules\electron\dist\electron.exe`. Locked-down machines may need an IT exception, since the binaries are unsigned.
+4. **`JLPT Practice.vbs` does nothing or errors**: Windows Script Host may be disabled by policy, or Node.js is missing (the script runs `node tools\build_data.js`). Use `npm start` instead.
+5. **Only need to practice, not edit**: run `npm run dist` on a working machine and copy the portable `.exe` from `dist\`. It needs no Node or npm; if SmartScreen warns, choose "More info" > "Run anyway".
+
 ## Adding content
 
 All content lives in `data/*.csv`. Every file is read; the filename doesn't matter. Edit in Excel or any text editor (UTF-8), then restart the app (or run `npm run build-data`).
