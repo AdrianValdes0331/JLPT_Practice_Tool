@@ -502,3 +502,439 @@ mdiccionary,N3,Verbos,殺す,ころす,Matar
 mdiccionary,N3,Verbos,間違う,まちがう,Cometer un error
 mdiccionary,N3,Verbos,憧れる,あこがれる,Extrañar
 mdiccionary,N3,Verbos,打つ,うつ,"Pegar, golpear"
+mdiccionary,N3,Adjetivos い,明るい,あかるい,"Claro, luminoso"
+mdiccionary,N3,Adjetivos い,あたたかい,あたたかい,"Templado, tibio"
+mdiccionary,N3,Adjetivos い,新しい,あたらしい,Nuevo
+mdiccionary,N3,Adjetivos い,熱い,あつい,Caliente
+mdiccionary,N3,Adjetivos い,暑い,あつい,"Caluroso, cálido/hacer o tener calor"
+mdiccionary,N3,Adjetivos い,厚い,あつい,Grueso
+mdiccionary,N3,Adjetivos い,いい,いい,"Bueno, bien"
+mdiccionary,N3,Adjetivos い,忙しい,いそがしい,"Estar ocupado, atareado"
+mdiccionary,N3,Adjetivos い,薄い,うすい,"Delgado, fino/(color)claro/poco espeso"
+mdiccionary,N3,Adjetivos い,おいしい,おいしい,"Sabroso, delicioso"
+mdiccionary,N3,Adjetivos い,うるさい,うるさい,"Ruidoso/(persona) pesado"
+mdiccionary,N3,Adjetivos い,大きい,おおきい,Grande
+mdiccionary,N3,Adjetivos い,重い,おもい,Pesado
+mdiccionary,N3,Adjetivos い,面白い,おもしろい,"Interesante, divertido, gracioso"
+mdiccionary,N3,Adjetivos い,軽い,かるい,Ligero
+mdiccionary,N3,Adjetivos い,汚い,きたない,Sucio
+mdiccionary,N3,Adjetivos い,暗い,くらい,"Oscuro, sombrío"
+mdiccionary,N3,Adjetivos い,さむい,さむい,Hacer o tener frío
+mdiccionary,N3,Adjetivos い,涼しい,すずしい,Fresco
+mdiccionary,N3,Adjetivos い,狭い,せまい,"Estrecho, pequeño"
+mdiccionary,N3,Adjetivos い,高い,たかい,Alto/caro
+mdiccionary,N3,Adjetivos い,小さい,ちいさい,Pequeño
+mdiccionary,N3,Adjetivos い,つまらない,つまらない,"Insignificante, trivial, aburrido, absurdo"
+mdiccionary,N3,Adjetivos い,冷たい,つめたい,Frío
+mdiccionary,N3,Adjetivos い,長い,ながい,Largo
+mdiccionary,N3,Adjetivos い,低い,ひくい,Bajo
+mdiccionary,N3,Adjetivos い,広い,ひろい,"Ancho, amplio, grande"
+mdiccionary,N3,Adjetivos い,太い,ふとい,"Grueso, gordo"
+mdiccionary,N3,Adjetivos い,古い,ふるい,"Viejo, antiguo, anticuado"
+mdiccionary,N3,Adjetivos い,細い,ほそい,"Fino, delgado"
+mdiccionary,N3,Adjetivos い,まずい,まずい,No sabroso/torpe
+mdiccionary,N3,Adjetivos い,短い,みじかい,"Corto, breve"
+mdiccionary,N3,Adjetivos い,難しい,むずかしい,"Difícil, complicado"
+mdiccionary,N3,Adjetivos い,易しい,やさしい,"Fácil, simple, sencillo"
+mdiccionary,N3,Adjetivos い,安い,やすい,Barato
+mdiccionary,N3,Adjetivos い,悪い,わるい,"Malo, mal"
+mdiccionary,N3,Adjetivos い,痛い,いたい,Doler
+mdiccionary,N3,Adjetivos い,多い,おおい,Ser abundante
+mdiccionary,N3,Adjetivos い,怖い,こわい,Tener miedo
+mdiccionary,N3,Adjetivos い,少ない,すくない,Ser escaso
+mdiccionary,N3,Adjetivos い,素晴らしい,すばらしい,Maravilloso
+mdiccionary,N3,Adjetivos い,〜たい,〜たい,Querer + infinitivo
+mdiccionary,N3,Adjetivos い,欲しい,ほしい,Querer + sustantivo
+mdiccionary,N3,Adjetivos い,日当たりがよい,ひあたりがよい,Soleado
+mdiccionary,N3,Adjetivos い,優しい,やさしい,Cariñoso
+mdiccionary,N3,Adjetivos い,男らしい,おとこらしい,"Masculino, viril"
+mdiccionary,N3,Adjetivos い,女らしい,おんならしい,Femenino
+mdiccionary,N3,Adjetivos い,可笑しい,おかしい,"Extraño, divertido, ilogico"
+mdiccionary,N3,Adjetivos い,嬉しい,うれしい,Feliz
+mdiccionary,N3,Adjetivos い,悲しい,かなしい,Triste
+mdiccionary,N3,Adjetivos い,美しい,うつくしい,"Hermoso, bello"
+mdiccionary,N3,Adjetivos い,宜しい,よろしい,"Bien, ok"
+mdiccionary,N3,Adjetivos い,寂しい,さびしい,"Solitario, desolado"
+mdiccionary,N3,Adjetivos い,厳しい,きびしい,"Riguroso, estricto"
+mdiccionary,N3,Adjetivos い,弱い,よわい,"Debil, vulnerable"
+mdiccionary,N3,Adjetivos い,上手い,うまい,De buena habilidad
+mdiccionary,N3,Adjetivos い,詳しい,くわしい,"Detallado, familiarizado, familiar"
+mdiccionary,N3,Adjetivos い,辛い,からい,"Picante, salado, duro"
+mdiccionary,N3,Adjetivos な,簡単,かんたん,"Simple, sencillo, fácil"
+mdiccionary,N3,Adjetivos な,きれい,きれい,"Bonito, limpio"
+mdiccionary,N3,Adjetivos な,元気,げんき,"Animado, vigoroso, sano"
+mdiccionary,N3,Adjetivos な,静か,しずか,"Tranquilo, sosegado, silencioso, pacifico"
+mdiccionary,N3,Adjetivos な,親切,しんせつ,"Afable, amable, atento"
+mdiccionary,N3,Adjetivos な,大変,たいへん,"Grave, difícil, molesto"
+mdiccionary,N3,Adjetivos な,にぎやか,にぎやか,"Jovial, alegre, animado, bullicioso"
+mdiccionary,N3,Adjetivos な,ばか,ばか,"Tonto, estúpido, lerdo"
+mdiccionary,N3,Adjetivos な,ハンサム,はんさむ,Guapo
+mdiccionary,N3,Adjetivos な,暇,ひま,Ocioso
+mdiccionary,N3,Adjetivos な,複雑,ふくざつ,"Complejo, complicado"
+mdiccionary,N3,Adjetivos な,有名,ゆうめい,"Famoso, conocido"
+mdiccionary,N3,Adjetivos な,りっぱ,りっぱ,"Maravilloso, estupendo"
+mdiccionary,N3,Adjetivos な,嫌い,きらい,Detestar
+mdiccionary,N3,Adjetivos な,好き,すき,Gustar
+mdiccionary,N3,Adjetivos な,絶対必要,ぜったいひつよう,Imprescindible
+mdiccionary,N3,Adjetivos な,大好き,だいすき,Encantar
+mdiccionary,N3,Adjetivos な,大切,たいせつ,Importante
+mdiccionary,N3,Adjetivos な,必要,ひつよう,Necesario
+mdiccionary,N3,Adjetivos な,不便,ふべん,"Inconveniente, incómodo"
+mdiccionary,N3,Adjetivos な,便利,べんり,Util
+mdiccionary,N3,Adjetivos な,安全,あんぜん,Seguro
+mdiccionary,N3,Adjetivos な,快適,かいてき,Comfortable
+mdiccionary,N3,Adjetivos な,無口,むくち,"Callado, taciturno"
+mdiccionary,N3,Adjetivos な,傲慢,ごうまん,"Orgulloso, altivo"
+mdiccionary,N3,Adjetivos な,不親切,ふしんせつ,Poco amable
+mdiccionary,N3,Adjetivos な,活発,かっぱつ,"Activo, dinámico"
+mdiccionary,N3,Adjetivos な,自由,じゆう,"Libre; Libre, flexible"
+mdiccionary,N3,Adjetivos な,抽象的,ちゅうしょうてき,Abstracto
+mdiccionary,N3,Adjetivos な,不満,ふまん,Desatisfecho
+mdiccionary,N3,Adjetivos な,最終的,さいしゅうてき,Ultimo
+mdiccionary,N3,Adjetivos な,駄目,だめ,"Inutil, prohibido"
+mdiccionary,N3,Adjetivos な,幸運,こううん,Dichoso
+mdiccionary,N3,Adjetivos な,黙々,もくもく,Silencioso
+mdiccionary,N3,Adjetivos な,普通,ふつう,"Común, ordinario; Normalmente"
+mdiccionary,N3,Adjetivos な,不安,ふあん,Inseguro
+mdiccionary,N3,Adjetivos な,清潔,せいけつ,Limpio higienico
+mdiccionary,N3,Adjetivos な,低級,ていきゅう,"Baja categoría, bajo nivel"
+mdiccionary,N3,Adjetivos な,適切,てきせつ,"Apropiado, adecuado"
+mdiccionary,N3,Adjetivos な,壮大,そうだい,Inocente
+mdiccionary,N3,Adjetivos な,頑固,がんこ,Molesto
+mdiccionary,N3,Adjetivos な,安心,あんしん,Seguro
+mdiccionary,N3,Adjetivos な,皆無,かいむ,"No, absolutamente no"
+mdiccionary,N3,Adjetivos な,濃厚,のうこう,"Denso, grueso, apasionado, probablemente"
+mdiccionary,N3,Adjetivos な,遺憾,いかん,Lamento
+mdiccionary,N3,Adjetivos な,大胆,だいたん,"Audaz, valiente"
+mdiccionary,N3,Adjetivos な,不可避,ふかひ,Inevitable
+mdiccionary,N3,Adjetivos な,残酷,ざんこく,Cruel
+mdiccionary,N3,Adjetivos な,丁寧,ていねい,"Amable, cortes"
+mdiccionary,N3,Adjetivos な,律儀,りちぎ,"Honesto, leal"
+mdiccionary,N3,Adjetivos な,不明,ふめい,Desconocido
+mdiccionary,N3,Adjetivos な,悲惨,ひさん,"Miserable, tragico"
+mdiccionary,N3,Adjetivos な,架空,かくう,Ficticio
+mdiccionary,N3,Adjetivos な,幸福,こうふく,Feliz
+mdiccionary,N3,Adjetivos な,積極,せっきょく,"Progresivo, activo, positivo"
+mdiccionary,N3,Adjetivos な,絶対,ぜったい,"Absoluto, ilimitado"
+mdiccionary,N3,Adjetivos な,確実,かくじつ,"Seguro, confiable"
+mdiccionary,N3,Adjetivos な,素敵,すてき,Maravilloso
+mdiccionary,N3,Adjetivos な,妥当,だとう,"Apropiado, correcto, valido"
+mdiccionary,N3,Adjetivos な,無駄,むだ,Inutil
+mdiccionary,N3,Adjetivos な,快活,かいかつ,"Alegre, animado"
+mdiccionary,N3,Adjetivos な,異常,いじょう,Abnormal
+mdiccionary,N3,Adjetivos な,秀逸,しゅういつ,Excelente
+mdiccionary,N3,Adjetivos な,老朽,ろうきゅう,Senil
+mdiccionary,N3,Adjetivos な,大分,だいぶ,"Mucho, varios"
+mdiccionary,N3,Adjetivos な,非常,ひじょう,"Extraordinario, inusual"
+mdiccionary,N3,Adjetivos な,完全,かんぜん,"Perfecto, completo"
+mdiccionary,N3,Adjetivos な,乱暴,らんぼう,Violento
+mdiccionary,N3,Adjetivos な,特別,とくべつ,"Especial, particular"
+mdiccionary,N3,Adjetivos な,奇妙,きみょう,"Extraño, peculiar"
+mdiccionary,N3,Adjetivos な,劣等,れっとう,Inferior
+mdiccionary,N3,Adjetivos な,清澄,せいちょう,"Claro, sereno"
+mdiccionary,N3,Adjetivos な,短気,たんき,"De poca paciencia"
+mdiccionary,N3,Adjetivos な,新鮮,しんせん,Fresco
+mdiccionary,N3,Adjetivos な,迷惑,めいわく,Molesto
+mdiccionary,N3,Adjetivos な,迅速,じんそく,Rapido
+mdiccionary,N3,Adjetivos な,貧乏,びんぼう,Pobre
+mdiccionary,N3,Adjetivos な,多忙,たぼう,Ocupado
+mdiccionary,N3,Adjetivos な,正直,しょうじき,Honesto
+mdiccionary,N3,Adjetivos な,陽気,ようき,Alegre
+mdiccionary,N3,Adjetivos な,陰気,いんき,Melancolico
+mdiccionary,N3,Adjetivos な,平凡,へいぼん,"Mediocre, ordinario"
+mdiccionary,N3,Adjetivos な,極端,きょくたん,"Extremo, abismal"
+mdiccionary,N3,Adjetivos な,質素,しっそ,Ordinario
+mdiccionary,N3,Adjetivos な,透明,とうめい,"Transparente, invisible"
+mdiccionary,N3,Adjetivos な,平等,びょうどう,Igual
+mdiccionary,N3,Adjetivos な,抜群,ばつぐん,"Extraordinario, exceptional"
+mdiccionary,N3,Adjetivos な,野蛮,やばん,Incivilisado
+mdiccionary,N3,Adjetivos な,幽玄,ゆうげん,Misterioso
+mdiccionary,N3,Adjetivos な,煩雑,はんざつ,"Complejo, molesto"
+mdiccionary,N3,Adjetivos な,迷惑,めいわく,Molesto
+mdiccionary,N3,Adjetivos な,ぐうたら,ぐうたら,Flojo
+mdiccionary,N3,Adjetivos な,怠惰,たいだ,Haragan
+mdiccionary,N3,Adjetivos な,名誉,めいよ,"Honorable, famoso"
+mdiccionary,N3,Adjetivos な,下手,へた,Mala habilidad
+mdiccionary,N3,Adjetivos な,貴重,きちょう,De gran valor
+mdiccionary,N3,Adjetivos な,派手,はで,Obstentoso
+mdiccionary,N3,Adjetivos な,具体的,ぐたいてき,Concreto
+mdiccionary,N3,Adjetivos な,幸せ,しあわせ,"Feliz, afortunado"
+mdiccionary,N3,Adjetivos な,不法,ふほう,Ilegal
+mdiccionary,N3,Adjetivos な,潜在的,せんざいてき,"Potencial, posible, invisible"
+mdiccionary,N3,Adjetivos な,空腹,くうふく,Hambriento
+mdiccionary,N3,Adverbios,副詞,ふくし,Adverbios
+mdiccionary,N3,Adverbios,あまり,あまり,No muy [Adj. o verbo negativo]
+mdiccionary,N3,Adverbios,少々,しょうしょう,Un poco
+mdiccionary,N3,Adverbios,少し,すこし,Un poco
+mdiccionary,N3,Adverbios,ぜんぜん,ぜんぜん,No... en absoluto/nunca [Adj. o verbo negativo]
+mdiccionary,N3,Adverbios,だいぶ,だいぶ,Muy
+mdiccionary,N3,Adverbios,ちょっと,ちょっと,Un poco
+mdiccionary,N3,Adverbios,とても,とても,Muy
+mdiccionary,N3,Adverbios,もう少し,もうすこし,Un poco más
+mdiccionary,N3,Adverbios,急いで,いそいで,Deprisa
+mdiccionary,N3,Adverbios,いつも,いつも,Siempre
+mdiccionary,N3,Adverbios,遅く,おそく,Tarde
+mdiccionary,N3,Adverbios,是非,ぜひ,Sin falta
+mdiccionary,N3,Adverbios,たくさん,たくさん,Mucho
+mdiccionary,N3,Adverbios,多分,たぶん,Quizás
+mdiccionary,N3,Adverbios,どうやって,どうやって,Cómo
+mdiccionary,N3,Adverbios,時々,ときどき,A veces
+mdiccionary,N3,Adverbios,早く,はやく,Pronto
+mdiccionary,N3,Adverbios,速く,はやく,Rápido
+mdiccionary,N3,Adverbios,ほとんど,ほとんど,Casi/casi nunca
+mdiccionary,N3,Adverbios,やっと,やっと,Por fin
+mdiccionary,N3,Adverbios,ゆっくり,ゆっくり,Despacio
+mdiccionary,N3,Adverbios,よく,よく,A menudo/bien
+mdiccionary,N3,Adverbios,世界的に,せかいてきに,Mundialmente
+mdiccionary,N3,Adverbios,特に,とくに,Especialmente
+mdiccionary,N3,Adverbios,普通,ふつう,"Común, ordinario; Normalmente"
+mdiccionary,N3,Adverbios,楽しそうに,たのしそうに,Animadamente
+mdiccionary,N3,Adverbios,だんだん,だんだん,Progresivamente
+mdiccionary,N3,Adverbios,変,へん,"Extraño, raro"
+mdiccionary,N3,Adverbios,あっという間に,あっというまに,En un instante
+mdiccionary,N3,Adverbios,まもなく,まもなく,Pronto
+mdiccionary,N3,Adverbios,むりやり,むりやり,A la fuerza
+mdiccionary,N3,Adverbios,すっかり,すっかり,Completamente
+mdiccionary,N3,Adverbios,全部,ぜんぶ,Entero
+mdiccionary,N3,Adverbios,どうぞ,どうぞ,Adelante
+mdiccionary,N3,Adverbios,きっと,きっと,Probablemente
+mdiccionary,N3,Adverbios,互いに,たがいに,Mutuamente
+mdiccionary,N3,Adverbios,なるべく,なるべく,Si es posible
+mdiccionary,N3,Adverbios,どうか,どうか,"En que forma, que tal (sugerencia)"
+mdiccionary,N3,Adverbios,等々,とうとう,Finalmente
+mdiccionary,N3,Adverbios,まるで,まるで,"Como si, parecido"
+mdiccionary,N3,Adverbios,結局,けっきょく,"Eventualmente, despues de todo"
+mdiccionary,N3,Adverbios,大抵,たいてい,Probablemente
+mdiccionary,N3,Adverbios,しばらく,しばらく,Por un momento
+mdiccionary,N3,Adverbios,其れ共,それとも,"O, o envez"
+mdiccionary,N3,Adverbios de Localizacion,位置,いち,Localización
+mdiccionary,N3,Adverbios de Localizacion,〜の間,のあいだ,Entre ~
+mdiccionary,N3,Adverbios de Localizacion,〜の上,のうえ,Encima de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の後ろ,のうしろ,Detrás de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の奥,のおく,En el fondo de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の下,のした,Debajo de ~
+mdiccionary,N3,Adverbios de Localizacion,〜のそば,のそば,Cerca de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の隣,のとなり,Al lado de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の中,のなか,Dentro de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の左,のひだり,A la izquierda de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の左側,のひだりがわ,Al lado izquierdo de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の前,のまえ,Delante de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の真中,のまんなか,En el centro de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の右,のみぎ,A la derecha de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の右側,のみぎがわ,Al lado derecho de ~
+mdiccionary,N3,Adverbios de Localizacion,〜の横,のよこ,Al lado de ~
+mdiccionary,N3,Familia,家族,かぞく,Familia
+mdiccionary,N3,Familia,祖母,そぼ,Abuela [Propia Familia]
+mdiccionary,N3,Familia,おばあさん,おばあさん,Abuela [Familia Ajena]
+mdiccionary,N3,Familia,祖父,そふ,Abuelo [Propia Familia]
+mdiccionary,N3,Familia,おじいさん,おじいさん,Abuelo [Familia Ajena]
+mdiccionary,N3,Familia,両親,りょうしん,Padres [Propia Familia]
+mdiccionary,N3,Familia,ご両親,ごりょうしん,Padres [Familia Ajena]
+mdiccionary,N3,Familia,父,ちち,Padre [Propia Familia]
+mdiccionary,N3,Familia,お父さん,おとうさん,Padre [Familia Ajena]
+mdiccionary,N3,Familia,母,はは,Madre [Propia Familia]
+mdiccionary,N3,Familia,お母さん,おかあさん,Madre [Familia Ajena]
+mdiccionary,N3,Familia,兄弟,きょうだい,Hermanos [Propia Familia]
+mdiccionary,N3,Familia,ご兄弟,ごきょうだい,Hermanos [Familia Ajena]
+mdiccionary,N3,Familia,兄,あに,Hermano mayor [Propia Familia]
+mdiccionary,N3,Familia,お兄さん,おにいさん,Hermano mayor [Familia Ajena]
+mdiccionary,N3,Familia,姉,あね,Hermana mayor [Propia Familia]
+mdiccionary,N3,Familia,お姉さん,おねえさん,Hermana mayor [Familia Ajena]
+mdiccionary,N3,Familia,弟,おとうと,Hermano menor [Propia Familia]
+mdiccionary,N3,Familia,弟さん,おとうとさん,Hermano menor [Familia Ajena]
+mdiccionary,N3,Familia,妹,いもうと,Hermana menor [Propia Familia]
+mdiccionary,N3,Familia,妹さん,いもうとさん,Hermana menor [Familia Ajena]
+mdiccionary,N3,Familia,主人,しゅじん,Marido [Propia Familia]
+mdiccionary,N3,Familia,ご主人,ごしゅじん,Marido [Familia Ajena]
+mdiccionary,N3,Familia,家内,かない,Esposa [Propia Familia]
+mdiccionary,N3,Familia,奥さん,おくさん,Esposa [Familia Ajena]
+mdiccionary,N3,Familia,子供,こども,Hijos [Propia Familia]
+mdiccionary,N3,Familia,お子さん,おこさん,Hijos [Familia Ajena]
+mdiccionary,N3,Familia,息子,むすこ,Hijo varón [Propia Familia]
+mdiccionary,N3,Familia,息子さん,むすこさん,Hijo varón [Familia Ajena]
+mdiccionary,N3,Familia,娘,むすめ,Hija [Propia Familia]
+mdiccionary,N3,Familia,娘さん,むすめさん,Hija [Familia Ajena]
+mdiccionary,N3,Deportes,スポーツ,すぽーつ,Deportes
+mdiccionary,N3,Deportes,アメリカンフットボール,あめりかんふっとぼーる,Fútbol americano
+mdiccionary,N3,Deportes,エアロビクス,えあろびくす,Aerobic
+mdiccionary,N3,Deportes,クリケット,くりけっと,Criquet
+mdiccionary,N3,Deportes,ゴルフ,ごるふ,Golf
+mdiccionary,N3,Deportes,サイクリング,さいくりんぐ,Ciclismo
+mdiccionary,N3,Deportes,サッカー,さっかー,Fútbol
+mdiccionary,N3,Deportes,ジョギング,じょぎんぐ,Jogging
+mdiccionary,N3,Deportes,水泳,すいえい,Natación
+mdiccionary,N3,Deportes,スキー,すきー,Esquí
+mdiccionary,N3,Deportes,スケート,すけーと,Patinaje
+mdiccionary,N3,Deportes,体操,たいそう,Gimnasia
+mdiccionary,N3,Deportes,テニス,てにす,Tenis
+mdiccionary,N3,Deportes,バレーボール,ばれーぼーる,Voleibol
+mdiccionary,N3,Deportes,バスケットボール,ばすけっとぼーる,Baloncesto
+mdiccionary,N3,Deportes,ピンポン,ぴんぽん,Ping-pong
+mdiccionary,N3,Deportes,野球,やきゅう,Beisbol
+mdiccionary,N3,Deportes,ラグビー,らぐびー,Rugby
+mdiccionary,N3,Deportes,スポーツ選手,すぽーつせんしゅ,Deportista
+mdiccionary,N3,Deportes,チーム,ちーむ,Equipo
+mdiccionary,N3,Tiempo,時間,じかん,"Tiempo; Horas"
+mdiccionary,N3,Tiempo,朝,あさ,La/por la mañana
+mdiccionary,N3,Tiempo,あさって,あさって,Pasado mañana
+mdiccionary,N3,Tiempo,おととい,おととい,Anteayer
+mdiccionary,N3,Tiempo,今朝,けさ,Esta mañana
+mdiccionary,N3,Tiempo,午後,ごご,La/por la tarde
+mdiccionary,N3,Tiempo,今晩,こんばん,Esta noche
+mdiccionary,N3,Tiempo,昼,ひる,El/a mediodia
+mdiccionary,N3,Tiempo,毎朝,まいあさ,Cada mañana
+mdiccionary,N3,Tiempo,毎月,まいげつ,Cada mes
+mdiccionary,N3,Tiempo,毎週,まいしゅう,Cada semana
+mdiccionary,N3,Tiempo,毎日,まいにち,Cada dia
+mdiccionary,N3,Tiempo,毎年,まいねん,Cada año
+mdiccionary,N3,Tiempo,毎晩,まいばん,Cada noche
+mdiccionary,N3,Tiempo,夕方,ゆうがた,Al atardecer
+mdiccionary,N3,Tiempo,夕べ,ゆうべ,Anoche
+mdiccionary,N3,Tiempo,夜,よる,La/por la noche
+mdiccionary,N3,Tiempo,去年,きょねん,Año pasado
+mdiccionary,N3,Tiempo,今年,ことし,Este año
+mdiccionary,N3,Tiempo,来年,らいねん,Proxim año
+mdiccionary,N3,Tiempo,先週,せんしゅう,Semana pasada
+mdiccionary,N3,Tiempo,今週,こんしゅう,Esta semana
+mdiccionary,N3,Tiempo,来週,らいしゅう,Proxima semana
+mdiccionary,N3,Tiempo,昨日,きのう,Ayer
+mdiccionary,N3,Tiempo,今日,きょう,Hoy
+mdiccionary,N3,Tiempo,明日,あした,Mañana
+mdiccionary,N3,Tiempo,午前,ごぜん,"A.M, por la mañana"
+mdiccionary,N3,Genero de Libros,読書,どくしょ,Lectura
+mdiccionary,N3,Genero de Libros,SF小説,えすえふしょうせつ,Novelas de ciencia ficción
+mdiccionary,N3,Genero de Libros,詩,し,Poesía
+mdiccionary,N3,Genero de Libros,芝居,しばい,Teatro
+mdiccionary,N3,Genero de Libros,小説,しょうせつ,Novela
+mdiccionary,N3,Genero de Libros,随筆,ずいひつ,Ensayo
+mdiccionary,N3,Genero de Libros,推理小説,すいりしょうせつ,Novelas policiacas
+mdiccionary,N3,Genero de Libros,冒険小説,ぼうけんしょうせつ,Novelas de aventuras
+mdiccionary,N3,Genero de Libros,漫画,まんが,Cómic
+mdiccionary,N3,Genero de Libros,作家,さっか,Escritor
+mdiccionary,N3,Genero de Libros,小説家,しょうせつか,Novelista
+mdiccionary,N3,Genero de Libros,著者,ちょしゃ,Autor
+mdiccionary,N3,Genero de Cine,アクション映画,あくしょんえいが,Películas de acción
+mdiccionary,N3,Genero de Cine,アニメ映画,あにめえいが,Dibujos animados
+mdiccionary,N3,Genero de Cine,コメディー,こめでぃー,Comedia
+mdiccionary,N3,Genero de Cine,スリラー,すりらー,Peliculas de suspense
+mdiccionary,N3,Genero de Cine,ホラー,ほらー,Peliculas de terror
+mdiccionary,N3,Genero de Cine,ミュージカル,みゅーじかる,Peliculas musicales
+mdiccionary,N3,Genero de Cine,メロドラマ,めろどらま,Melodramas
+mdiccionary,N3,Genero de Cine,ウェスタン,うぇすたーん,Western
+mdiccionary,N3,Genero de Cine,映画スター,えいがすたー,Estrella de cine
+mdiccionary,N3,Genero de Cine,監督,かんとく,Director de cine
+mdiccionary,N3,Genero de Cine,女優,じょゆう,Actriz
+mdiccionary,N3,Genero de Cine,俳優,はいゆう,Actor
+mdiccionary,N3,Genero de Musica,音楽,おんがく,Musica
+mdiccionary,N3,Genero de Musica,オペラ,おぺら,Opera
+mdiccionary,N3,Genero de Musica,カントリー,かんとりー,Country
+mdiccionary,N3,Genero de Musica,クラシック,くらしっく,Musica clasica
+mdiccionary,N3,Genero de Musica,サルサ,さるさ,Salsa
+mdiccionary,N3,Genero de Musica,ジャズ,じゃず,Jazz
+mdiccionary,N3,Genero de Musica,タンゴ,たんご,Tango
+mdiccionary,N3,Genero de Musica,バラード,ばらーど,Balada
+mdiccionary,N3,Genero de Musica,フラメンコ,ふらめんこ,Flamenco
+mdiccionary,N3,Genero de Musica,ポップミュージック,ぽっぷみゅーじっく,Musica pop
+mdiccionary,N3,Genero de Musica,ボレロ,ぼれろ,Bolero
+mdiccionary,N3,Genero de Musica,ロジック,ろじっく,Rock
+mdiccionary,N3,Genero de Musica,音楽家,おんがくか,Musico
+mdiccionary,N3,Genero de Musica,バンド,ばんど,Conjunto musical
+mdiccionary,N3,Profesiones,アーティスト,あーてぃすと,Artista
+mdiccionary,N3,Profesiones,アナウンサー,あなうんさー,Locutor
+mdiccionary,N3,Profesiones,医者,いしゃ,Médico
+mdiccionary,N3,Profesiones,エンジニア,えんじにあ,Ingeniero
+mdiccionary,N3,Profesiones,会社員,かいしゃいん,Empleado de una empresa
+mdiccionary,N3,Profesiones,学生,がくせい,Estudiante
+mdiccionary,N3,Profesiones,歌手,かしゅ,Cantante
+mdiccionary,N3,Profesiones,カメラマン,かめらまん,Fotógrafo
+mdiccionary,N3,Profesiones,観光ガイド,かんこうがいど,Guía turístico
+mdiccionary,N3,Profesiones,看護婦,かんごふ,Enfermera
+mdiccionary,N3,Profesiones,銀行員,ぎんこういん,Empleado bancario
+mdiccionary,N3,Profesiones,警察官,けいさつかん,Policía
+mdiccionary,N3,Profesiones,建築家,けんちくか,Arquitecto
+mdiccionary,N3,Profesiones,公務員,こうむいん,Funcionario
+mdiccionary,N3,Profesiones,作家,さっか,Escritor
+mdiccionary,N3,Profesiones,ジャーナリスト,じゃーなりすと,Periodista
+mdiccionary,N3,Profesiones,女優,じょゆう,Actriz
+mdiccionary,N3,Profesiones,スポーツ選手,すぽーつせんしゅ,Deportista
+mdiccionary,N3,Profesiones,主婦,しゅふ,Ama de casa
+mdiccionary,N3,Profesiones,先生,せんせい,Profesor
+mdiccionary,N3,Profesiones,大工,だいく,Albañil
+mdiccionary,N3,Profesiones,デザイナー,でざいなー,Diseñador
+mdiccionary,N3,Profesiones,店員,てんいん,Dependiente
+mdiccionary,N3,Profesiones,農民,のうみん,Agricultor
+mdiccionary,N3,Profesiones,俳優,はいゆう,Actor
+mdiccionary,N3,Profesiones,パイロット,ぱいろっと,Piloto
+mdiccionary,N3,Profesiones,秘書,ひしょ,Secretaria
+mdiccionary,N3,Profesiones,美容師,びようし,Peluquera
+mdiccionary,N3,Profesiones,弁護士,べんごし,Abogado
+mdiccionary,N3,Profesiones,漁師,りょうし,Pescador
+mdiccionary,N3,Profesiones,ウェーター,うぇーたー,Camarero
+mdiccionary,N3,Profesiones,ウェートレス,うぇーとれす,Camarera
+mdiccionary,N3,Sufijos Contables,いくつ,いくつ,Cuanto
+mdiccionary,N3,Sufijos Contables,倍,ばい,Veces
+mdiccionary,N3,Sufijos Contables,台,だい,Maquinas
+mdiccionary,N3,Sufijos Contables,度,ど,Grados
+mdiccionary,N3,Sufijos Contables,ドル,どる,Dolares
+mdiccionary,N3,Sufijos Contables,円,えん,Yenes
+mdiccionary,N3,Sufijos Contables,分,ふん,Minutos
+mdiccionary,N3,Sufijos Contables,グラム,ぐらむ,Gramos
+mdiccionary,N3,Sufijos Contables,杯,はい,"Vasos, copas"
+mdiccionary,N3,Sufijos Contables,匹,ひき,Animales pequeños
+mdiccionary,N3,Sufijos Contables,本,ほん,"Objetos largos y cilíndricos, películas y programas, goles y rounds"
+mdiccionary,N3,Sufijos Contables,時間,じかん,"Tiempo; Horas"
+mdiccionary,N3,Sufijos Contables,日,か,Dias
+mdiccionary,N3,Sufijos Contables,ヶ月,かげつ,Meses
+mdiccionary,N3,Sufijos Contables,回,かい,"Turno, veces; Veces, innings, juegos, rounds"
+mdiccionary,N3,Sufijos Contables,軒,けん,"Edificios, casas"
+mdiccionary,N3,Sufijos Contables,個,こ,"Cosa, objeto, articulo"
+mdiccionary,N3,Sufijos Contables,年,ねん,Años
+mdiccionary,N3,Sufijos Contables,冊,さつ,Libros
+mdiccionary,N3,Sufijos Contables,週間,しゅうかん,Semanas
+mdiccionary,N3,Sufijos Contables,束,たば,Paquetes
+mdiccionary,N3,Sufijos Contables,羽,わ,"Pajaros y conejos"
+mdiccionary,N3,Sufijos Contables,人,にん,Personas
+mdiccionary,N3,Sufijos Contables,階,かい,Pisos
+mdiccionary,N3,Sufijos Contables,枚,まい,"Objetos planos y ropa"
+mdiccionary,N3,Sufijos Contables,キロ,きろ,Kilos
+mdiccionary,N3,Sufijos Contables,メートル,めーとる,Metros
+mdiccionary,N3,Sufijos Contables,リットル,りっとる,Litros
+mdiccionary,N3,Sufijos Contables,ユーロ,ゆーろ,Euros
+mdiccionary,N3,Dias festivos de Japon,日本の祝日,にほんのしゅくじつ,Festividades japonesas
+mdiccionary,N3,Dias festivos de Japon,元日,がんじつ,Dia de año nuevo
+mdiccionary,N3,Dias festivos de Japon,成人の日,せいじんのひ,Dia de los nuevos adultos
+mdiccionary,N3,Dias festivos de Japon,建国記念日,けんこくきねんび,Conmemoración de la fundación del país
+mdiccionary,N3,Dias festivos de Japon,春分の日,しゅんぶんのひ,Dia del equinoccio de primavera
+mdiccionary,N3,Dias festivos de Japon,みどりの日,みどりのひ,Dia de la naturaleza
+mdiccionary,N3,Dias festivos de Japon,憲法記念日,けんぽうきねんび,Conmemoración de la constitución
+mdiccionary,N3,Dias festivos de Japon,子供の日,こどものひ,Dia de los niños
+mdiccionary,N3,Dias festivos de Japon,海の日,うみのひ,Dia del mar
+mdiccionary,N3,Dias festivos de Japon,敬老の日,けいろうのひ,Dia de respeto a los ancianos
+mdiccionary,N3,Dias festivos de Japon,秋分の日,しゅうぶんのひ,Dia del equinoccio de otoño
+mdiccionary,N3,Dias festivos de Japon,体育の日,たいいくのひ,Dia del deporte
+mdiccionary,N3,Dias festivos de Japon,文化の日,ぶんかのひ,Dia de la cultura
+mdiccionary,N3,Dias festivos de Japon,勤労感謝の日,きんろうかんしゃのひ,Dia de agradecimiento al trabajo
+mdiccionary,N3,Dias festivos de Japon,天皇誕生日,てんのうたんじょうび,Cumpleaños del emperador
+mdiccionary,N3,Particulas,とか,とか,Y
+mdiccionary,N3,Particulas,として,として,"Como, en función, en calidad de"
+mdiccionary,N3,Particulas,としては,としては,"Para ser, es demasiado"
+mdiccionary,N3,Particulas,において,において,En
+mdiccionary,N3,Particulas,にかぎらず,にかぎらず,No solo
+mdiccionary,N3,Particulas,に関する,にかんする,"En lo que concierne, en relación con"
+mdiccionary,N3,Particulas,に代わって,にかわって,A cambio de
+mdiccionary,N3,Particulas,に比べると,にくらべると,"En comparación, comparado con"
+mdiccionary,N3,Particulas,にもかかわらず,にもかかわらず,A pesar de
+mdiccionary,N3,Particulas,に基づいて,にもとづいて,Basándose en
+mdiccionary,N3,Particulas,に従って,にしたがって,"En consecuencia, según, de acuerdo con"
+mdiccionary,N3,Particulas,にしては,にしては,Para ser
+mdiccionary,N3,Particulas,に対して,にたいして,"Respecto a, frente a, contra a"
+mdiccionary,N3,Particulas,にとって,にとって,Para
+mdiccionary,N3,Particulas,について,について,"Sobre, en relación con"
+mdiccionary,N3,Particulas,につれて,につれて,A medida que
+mdiccionary,N3,Particulas,には,には,Para
+mdiccionary,N3,Particulas,によって,によって,"Según, depende de"
+mdiccionary,N3,Particulas,までに,までに,"Para, antes de"
+mdiccionary,N3,Particulas,動詞＋だけで,どうし＋だけで,"Sólo con, sólo en, sólo para, con sólo que"
+mdiccionary,N3,Particulas,できるだけ＋副詞,できるだけ＋ふくし,Lo más... posible
+mdiccionary,N3,Particulas,名詞＋だけでなくて,めいし＋だけでなくて,No sólo... sino...
+mdiccionary,N3,Particulas,動詞＋だけでなくて,どうし＋だけでなくて,No sólo... sino
