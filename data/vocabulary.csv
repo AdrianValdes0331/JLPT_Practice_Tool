@@ -1,4 +1,4 @@
-﻿section,level,category,word,reading,meaning
+section,level,category,word,reading,meaning
 vocabulary,N3,Communication & documents,件名,けんめい,subject line; title
 vocabulary,N3,Communication & documents,伝言,でんごん,verbal message
 vocabulary,N3,Communication & documents,受信,じゅしん,reception; receiving
@@ -809,3 +809,1067 @@ vocabulary,N1,Abstract concepts,概念,がいねん,general idea; concept
 vocabulary,N1,Abstract concepts,把握,はあく,grasp; understanding
 vocabulary,N1,Abstract concepts,妥協,だきょう,compromise
 vocabulary,N1,Abstract concepts,錯覚,さっかく,illusion; misperception
+vocabulary,N5,Time & calendar,先月,せんげつ,last month
+vocabulary,N5,Time & calendar,お先にしつれいします。,おさきにしつれいします。,"Sorry, but I'll be leaving now."
+vocabulary,N5,Education & work,生徒,せいと,student
+vocabulary,N5,Other,生活,せいかつ,life
+vocabulary,N5,Time & calendar,たん生日,たんじょうび,birthday
+vocabulary,N5,Education & work,学生,がくせい,student (university or college)
+vocabulary,N5,People & family,日本人,にほんじん,Japanese person
+vocabulary,N5,People & family,外国人,がいこくじん,foreigner
+vocabulary,N5,People & family,人,ひと,person
+vocabulary,N5,People & family,大人,おとな,adult
+vocabulary,N5,Places & travel,外国,がいこく,foreign country
+vocabulary,N5,Places & travel,国,くに,country
+vocabulary,N5,People & family,男の人,おとこのひと,man
+vocabulary,N5,People & family,男の子,おとこのこ,boy
+vocabulary,N5,People & family,女の人,おんなのひと,woman
+vocabulary,N5,People & family,女の子,おんなのこ,girl
+vocabulary,N5,People & family,子ども,こども,"child, children"
+vocabulary,N5,People & family,父,ちち,father
+vocabulary,N5,People & family,お父さん,おとうさん,father (polite)
+vocabulary,N5,People & family,母,はは,mother
+vocabulary,N5,People & family,お母さん,おかあさん,mother (polite)
+vocabulary,N5,Descriptions & states,有名な,ゆうめいな,famous
+vocabulary,N5,People & family,名前,なまえ,name
+vocabulary,N5,People & family,田中さん,たなかさん,Mr./Mrs. Tanaka
+vocabulary,N5,People & family,山田さん,やまださん,Mr./Mrs. Yamada
+vocabulary,N5,Places & travel,ふじ山,ふじさん,Mt Fuji
+vocabulary,N5,Places & travel,山,やま,mountain
+vocabulary,N5,Education & work,日本語,にほんご,Japanese
+vocabulary,N5,Education & work,英語,えいご,English
+vocabulary,N5,Education & work,本,ほん,book
+vocabulary,N5,Descriptions & states,〜本,〜ほん,"counter for long, thin items"
+vocabulary,N5,Places & travel,日本,にほん,Japan
+vocabulary,N5,Communication & technology,こちらこそ。,こちらこそ。,Nice to meet you too.
+vocabulary,N5,Home & objects,時計,とけい,watch
+vocabulary,N5,Amount & frequency,半分,はんぶん,half
+vocabulary,N5,Time & calendar,時間,じかん,"hour, time"
+vocabulary,N5,Time & calendar,午後,ごご,afternoon
+vocabulary,N5,Time & calendar,午前,ごぜん,morning (a.m)
+vocabulary,N5,Time & calendar,前,まえ,"in front, before"
+vocabulary,N5,Time & calendar,後で,あとで,"later, after"
+vocabulary,N5,Places & travel,後ろ,うしろ,"behind, back"
+vocabulary,N5,Time & calendar,今月,こんげつ,this month
+vocabulary,N5,Time & calendar,今週,こんしゅう,this week
+vocabulary,N5,Time & calendar,今,いま,now
+vocabulary,N5,Time & calendar,今日,きょう,today
+vocabulary,N5,Time & calendar,今年,ことし,this year
+vocabulary,N5,Time & calendar,今朝,けさ,this morning
+vocabulary,N5,Time & calendar,先週,せんしゅう,last week
+vocabulary,N5,Time & calendar,来週,らいしゅう,next week
+vocabulary,N5,Time & calendar,去年,きょねん,last year
+vocabulary,N5,Time & calendar,来年,らいねん,next year
+vocabulary,N5,Time & calendar,半年,はんとし,half a year
+vocabulary,N5,Time & calendar,毎年,まいとし,every year
+vocabulary,N5,Time & calendar,毎日,まいにち,every day
+vocabulary,N5,Time & calendar,毎月,まいつき,every month
+vocabulary,N5,Descriptions & states,少し,すこし,a little
+vocabulary,N5,People & family,少ない,すくない,"few, a little, not many"
+vocabulary,N5,People & family,多い,おおい,"many, a lot"
+vocabulary,N5,Education & work,小学校,しょうがっこう,primary school
+vocabulary,N5,Descriptions & states,小さい,ちいさい,small
+vocabulary,N5,Education & work,大学,だいがく,university
+vocabulary,N5,Descriptions & states,大変な,たいへんな,terrible
+vocabulary,N5,Descriptions & states,大切な,たいせつな,"precious, important"
+vocabulary,N5,Descriptions & states,大きい,おおきい,big
+vocabulary,N5,Descriptions & states,安全,あんぜん,safe
+vocabulary,N5,Descriptions & states,安心する,あんしんする,to feel relieved
+vocabulary,N5,Descriptions & states,安い,やすい,cheap
+vocabulary,N5,Education & work,高校,こうこう,senior high school
+vocabulary,N5,Education & work,高い,たかい,"expensive, high"
+vocabulary,N5,Education & work,新聞,しんぶん,newspaper
+vocabulary,N5,Descriptions & states,新しい,あたらしい,new
+vocabulary,N5,Descriptions & states,古い,ふるい,old
+vocabulary,N5,Body & health,早い,はやい,"early, fast"
+vocabulary,N5,Descriptions & states,おそい,おそい,late
+vocabulary,N5,Education & work,社長,しゃちょう,president
+vocabulary,N5,Descriptions & states,長い,ながい,long
+vocabulary,N5,Descriptions & states,みじかい,みじかい,short
+vocabulary,N5,Descriptions & states,円,えん,"yen, round"
+vocabulary,N5,Education & work,校長,こうちょう,school principal
+vocabulary,N5,Education & work,会社,かいしゃ,company
+vocabulary,N5,Education & work,社員,しゃいん,employee
+vocabulary,N5,Education & work,中学校,ちゅうがっこう,junior high school
+vocabulary,N5,Time & calendar,一日中,いちにちじゅう,all day
+vocabulary,N5,Places & travel,中,なか,inside
+vocabulary,N5,Places & travel,外,そと,outside
+vocabulary,N5,Communication & technology,聞く,きく,to listen
+vocabulary,N5,Communication & technology,聞こえる,きこえる,to hear
+vocabulary,N5,Places & travel,駅,えき,station
+vocabulary,N5,Body & health,口,くち,mouth
+vocabulary,N5,Actions & routines,出る,でる,to leave
+vocabulary,N5,Actions & routines,出かける,でかける,to go out
+vocabulary,N5,Actions & routines,出す,だす,to put out
+vocabulary,N5,Actions & routines,入る,はいる,to enter
+vocabulary,N5,Places & travel,入口,いりくち,entrance
+vocabulary,N5,Places & travel,出口,でぐち,exit
+vocabulary,N5,Actions & routines,入れる,いれる,"to put in, to insert"
+vocabulary,N5,Places & travel,東京,とうきょう,Tokyo
+vocabulary,N5,Places & travel,東,ひがし,east
+vocabulary,N5,Places & travel,東口,ひがしぐち,east exit
+vocabulary,N5,Places & travel,西洋,せいよう,the west
+vocabulary,N5,Places & travel,西,にし,west
+vocabulary,N5,Places & travel,西口,にしぐち,west exit
+vocabulary,N5,Places & travel,南,みなみ,south
+vocabulary,N5,Places & travel,南口,みなみぐち,south exit
+vocabulary,N5,Places & travel,北海道,ほっかいどう,Hokkaido
+vocabulary,N5,Places & travel,北,きた,north
+vocabulary,N5,Places & travel,北口,きたぐち,north exit
+vocabulary,N5,Descriptions & states,上手な,じょうずな,"good at, skillful"
+vocabulary,N5,Places & travel,上,うえ,up
+vocabulary,N5,Home & objects,上着,うわぎ,jacket
+vocabulary,N5,Places & travel,地下鉄,ちかてつ,subway
+vocabulary,N5,Places & travel,下,した,"below, under"
+vocabulary,N5,Descriptions & states,下手な,へたな,"bad at, unskillful"
+vocabulary,N5,Places & travel,左,ひだり,left
+vocabulary,N5,Places & travel,右,みぎ,right
+vocabulary,N5,Actions & routines,休む,やすむ,to rest
+vocabulary,N5,Time & calendar,休み,やすみ,"day off, holiday"
+vocabulary,N5,Time & calendar,昼休み,ひるやすみ,lunch break
+vocabulary,N5,Places & travel,見学,けんがく,field trip
+vocabulary,N5,Leisure & hobbies,見物,けんぶつ,sight seeing
+vocabulary,N5,Actions & routines,見る,みる,"to see, to look"
+vocabulary,N5,Actions & routines,見える,みえる,to be visible
+vocabulary,N5,Actions & routines,見せる,みせる,to show
+vocabulary,N5,Communication & technology,言う,いう,to say
+vocabulary,N5,Education & work,言葉,ことば,word
+vocabulary,N5,Education & work,銀行,ぎんこう,bank
+vocabulary,N5,Places & travel,旅行,りょこう,trip
+vocabulary,N5,Actions & routines,行く,いく,to go
+vocabulary,N5,Education & work,辞書,じしょ,dictionary
+vocabulary,N5,Communication & technology,書く,かく,to write
+vocabulary,N5,Communication & technology,読む,よむ,to read
+vocabulary,N5,Actions & routines,買う,かう,to buy
+vocabulary,N5,Places & travel,買い物,かいもの,shopping
+vocabulary,N5,Actions & routines,来る,くる,to come
+vocabulary,N5,Actions & routines,立つ,たつ,to stand
+vocabulary,N5,Food & dining,食事,しょくじ,meal
+vocabulary,N5,Food & dining,食堂,しょくどう,cafeteria
+vocabulary,N5,Food & dining,食料品,しょくりょうひん,food (esp. staple food)
+vocabulary,N5,Food & dining,食べ物,たべもの,food
+vocabulary,N5,Food & dining,飲み物,のみもの,drinks
+vocabulary,N5,Communication & technology,会話,かいわ,conversation
+vocabulary,N5,Communication & technology,会う,あう,to meet
+vocabulary,N5,Places & travel,電車,でんしゃ,train
+vocabulary,N5,Home & objects,電気,でんき,electricity
+vocabulary,N5,Communication & technology,電話,でんわ,telephone
+vocabulary,N5,Communication & technology,話す,はなす,"to talk, to speak"
+vocabulary,N5,Communication & technology,話,はなし,"talk, discussion, story"
+vocabulary,N5,Places & travel,自動車,じどうしゃ,automobile
+vocabulary,N5,Places & travel,自転車,じてんしゃ,bicycle
+vocabulary,N5,Places & travel,車,くるま,car
+vocabulary,N5,Education & work,ノート,ノート,notebook
+vocabulary,N5,Communication & technology,パソコン,パソコン,PC
+vocabulary,N5,Communication & technology,リモコン,リモコン,remote control
+vocabulary,N5,Home & objects,エアコン,エアコン,air conditioner
+vocabulary,N5,Communication & technology,スマホ,スマホ,smartphone
+vocabulary,N5,Home & objects,花びん,かびん,flower vase
+vocabulary,N5,Nature & weather,花,はな,flower
+vocabulary,N5,Leisure & hobbies,花見,はなみ,cherry-blossom viewing
+vocabulary,N5,Nature & weather,花火,はなび,fireworks
+vocabulary,N5,Nature & weather,天気,てんき,weather
+vocabulary,N5,Body & health,病気,びょうき,illness
+vocabulary,N5,Body & health,元気,げんき,"healthy, lively"
+vocabulary,N5,Body & health,耳,みみ,ear
+vocabulary,N5,Body & health,手,て,hand
+vocabulary,N5,Home & objects,お手洗い,おてあらい,lavatory
+vocabulary,N5,Body & health,足,あし,"foot, leg"
+vocabulary,N5,Actions & routines,足りる,たりる,"to be enough, to be sufficient"
+vocabulary,N5,Actions & routines,足す,たす,to add
+vocabulary,N5,Body & health,目,め,eye
+vocabulary,N5,Body & health,力,ちから,"strength, power"
+vocabulary,N5,People & family,力もち,ちからもち,powerful person
+vocabulary,N5,Nature & weather,川,かわ,river
+vocabulary,N5,Food & dining,牛肉,ぎゅうにく,beef
+vocabulary,N5,Food & dining,牛乳,ぎゅうにゅう,milk
+vocabulary,N5,Nature & weather,牛,うし,cow
+vocabulary,N5,Food & dining,魚,さかな,fish
+vocabulary,N5,Places & travel,魚や,さかなや,fish shop
+vocabulary,N5,Places & travel,喫茶店,きっさてん,coffee shop
+vocabulary,N5,Places & travel,店,みせ,shop
+vocabulary,N5,Places & travel,道,みち,"road, street"
+vocabulary,N5,Places & travel,門,もん,gate
+vocabulary,N5,Education & work,専門,せんもん,special field
+vocabulary,N5,Nature & weather,雨,あめ,rain
+vocabulary,N5,Nature & weather,空気,くうき,air
+vocabulary,N5,Places & travel,空港,くうこう,airport
+vocabulary,N5,Nature & weather,空,そら,sky
+vocabulary,N5,Nature & weather,白,しろ,white
+vocabulary,N5,Food & dining,あまい,あまい,sweet
+vocabulary,N5,Food & dining,からい,からい,"spicy, salty"
+vocabulary,N5,Food & dining,さとう,さとう,sugar
+vocabulary,N5,Food & dining,にがい,にがい,bitter
+vocabulary,N5,Body & health,くすり,くすり,medicine
+vocabulary,N5,Descriptions & states,おもい,おもい,heavy
+vocabulary,N5,Descriptions & states,かるい,かるい,light (weight)
+vocabulary,N5,Home & objects,かばん,かばん,bag
+vocabulary,N5,Home & objects,にもつ,にもつ,luggage
+vocabulary,N5,Descriptions & states,あつい,あつい,hot
+vocabulary,N5,Descriptions & states,つめたい,つめたい,cold (to the touch)
+vocabulary,N5,Food & dining,おちゃ,おちゃ,tea (esp. green)
+vocabulary,N5,Descriptions & states,さむい,さむい,cold
+vocabulary,N5,Descriptions & states,あたたかい,あたたかい,warm
+vocabulary,N5,Descriptions & states,すずしい,すずしい,cool (temperature)
+vocabulary,N5,Descriptions & states,おもしろい,おもしろい,interesting
+vocabulary,N5,Descriptions & states,つまらない,つまらない,boring
+vocabulary,N5,Descriptions & states,せまい,せまい,narrow
+vocabulary,N5,Descriptions & states,ひろい,ひろい,"wide, large, spacious"
+vocabulary,N5,Home & objects,へや,へや,room
+vocabulary,N5,Descriptions & states,とおい,とおい,far
+vocabulary,N5,Descriptions & states,ちかい,ちかい,close
+vocabulary,N5,Descriptions & states,やさしい,やさしい,"easy, gentle"
+vocabulary,N5,Descriptions & states,むずかしい,むずかしい,difficult
+vocabulary,N5,Education & work,しけん,しけん,exam
+vocabulary,N5,Descriptions & states,いそがしい,いそがしい,busy
+vocabulary,N5,Descriptions & states,ひまな,ひまな,"free, leisurely"
+vocabulary,N5,Home & objects,きらいな,きらいな,"hate, dislike"
+vocabulary,N5,Descriptions & states,好きな,すきな,"favourite, like"
+vocabulary,N5,Actions & routines,住む,すむ,to live
+vocabulary,N5,Education & work,つとめる,つとめる,to work for
+vocabulary,N5,Actions & routines,作る,つくる,to make
+vocabulary,N5,Actions & routines,うる,うる,to sell
+vocabulary,N5,Time & calendar,しる,しる,to know
+vocabulary,N5,Actions & routines,けっこんする,けっこんする,to marry
+vocabulary,N5,Food & dining,りょうり,りょうり,cooking
+vocabulary,N5,Actions & routines,たばこをすう,たばこをすう,to smoke
+vocabulary,N5,Places & travel,おきる,おきる,to get up
+vocabulary,N5,Home & objects,ねる,ねる,"to sleep, to go to bed"
+vocabulary,N5,Actions & routines,かえる,かえる,"to return, to go home"
+vocabulary,N5,Places & travel,おく,おく,"to put, to place"
+vocabulary,N5,Home & objects,かぎ,かぎ,key
+vocabulary,N5,Home & objects,机,つくえ,desk
+vocabulary,N5,Leisure & hobbies,あそぶ,あそぶ,to play
+vocabulary,N5,Actions & routines,シャワーをあびる,シャワーをあびる,to take a shower
+vocabulary,N5,Actions & routines,つかう,つかう,to use
+vocabulary,N5,Food & dining,パン,パン,bread
+vocabulary,N5,Food & dining,ジュース,ジュース,juice
+vocabulary,N5,Food & dining,スプーン,スプーン,spoon
+vocabulary,N5,Education & work,ペン,ペン,pen
+vocabulary,N5,Education & work,はたらく,はたらく,to work at/in
+vocabulary,N5,Time & calendar,かかる,かかる,"to take time, to cost"
+vocabulary,N5,Education & work,あける,あける,to open
+vocabulary,N5,Descriptions & states,しめる,しめる,"to shut, to close"
+vocabulary,N5,Home & objects,ドア,ドア,door
+vocabulary,N5,Home & objects,まど,まど,window
+vocabulary,N5,Actions & routines,つける,つける,to turn on
+vocabulary,N5,Actions & routines,けす,けす,"to turn off, to erase, to extinguish"
+vocabulary,N5,Home & objects,ガス,ガス,gas
+vocabulary,N5,Communication & technology,かける,かける,"to put on (e.g. glasses), to lock, to telephone"
+vocabulary,N5,Home & objects,めがね,めがね,glasses
+vocabulary,N5,Education & work,あく,あく,to open (esp. by itself)
+vocabulary,N5,Descriptions & states,しまる,しまる,to close (esp. by itself)
+vocabulary,N5,Actions & routines,いそぐ,いそぐ,"to hurry, to rush"
+vocabulary,N5,Body & health,のどがかわく,のどがかわく,to get thirsty
+vocabulary,N5,Body & health,おなかがすく,おなかがすく,to get hungry
+vocabulary,N5,Actions & routines,かわく,かわく,to dry
+vocabulary,N5,Home & objects,シャツ,シャツ,shirt
+vocabulary,N5,Actions & routines,すく,すく,to empty
+vocabulary,N5,Amount & frequency,いつも,いつも,always
+vocabulary,N5,Amount & frequency,たいてい,たいてい,usually
+vocabulary,N5,Time & calendar,時々,ときどき,sometimes
+vocabulary,N5,Amount & frequency,あまり,あまり,not very
+vocabulary,N5,Amount & frequency,ぜんぜん,ぜんぜん,not at all
+vocabulary,N5,Amount & frequency,よく,よく,"often, well"
+vocabulary,N5,Amount & frequency,とても,とても,very
+vocabulary,N5,Descriptions & states,すてきな,すてきな,nice
+vocabulary,N5,Amount & frequency,だいたい,だいたい,mostly
+vocabulary,N5,Amount & frequency,もっと,もっと,more
+vocabulary,N5,Actions & routines,おわる,おわる,to finish
+vocabulary,N5,Education & work,べんきょうする,べんきょうする,to study
+vocabulary,N5,Amount & frequency,もう,もう,already
+vocabulary,N5,Amount & frequency,まだ,まだ,not yet
+vocabulary,N5,Amount & frequency,もう〜,もう〜,... more
+vocabulary,N5,Amount & frequency,ゆっくり,ゆっくり,slowly
+vocabulary,N5,Amount & frequency,たくさん,たくさん,a lot
+vocabulary,N5,Actions & routines,まつ,まつ,to wait
+vocabulary,N5,People & family,そふ,そふ,grandfather
+vocabulary,N5,People & family,そぼ,そぼ,grandmother
+vocabulary,N5,People & family,りょうしん,りょうしん,parents
+vocabulary,N5,People & family,きょうだい,きょうだい,siblings
+vocabulary,N5,People & family,あに,あに,older brother
+vocabulary,N5,People & family,あね,あね,older sister
+vocabulary,N5,People & family,おとうと,おとうと,younger brother
+vocabulary,N5,People & family,いもうと,いもうと,younger sister
+vocabulary,N5,People & family,おじ,おじ,uncle
+vocabulary,N5,People & family,おば,おば,aunt
+vocabulary,N5,People & family,むすこ,むすこ,son
+vocabulary,N5,People & family,むすめ,むすめ,daughter
+vocabulary,N5,People & family,まご,まご,grandchild
+vocabulary,N5,People & family,つま、かない,つま、かない,wife
+vocabulary,N5,People & family,おっと、しゅじん,おっと、しゅじん,husband
+vocabulary,N5,People & family,おじいさん,おじいさん,grandfather (polite)
+vocabulary,N5,People & family,おばあさん,おばあさん,grandmother (polite)
+vocabulary,N5,People & family,ごりょうしん,ごりょうしん,parents (polite)
+vocabulary,N5,People & family,ごきょうだい,ごきょうだい,siblings (polite)
+vocabulary,N5,People & family,おにいさん,おにいさん,older brother (polite)
+vocabulary,N5,People & family,おねえさん,おねえさん,older sister (polite)
+vocabulary,N5,People & family,おとうとさん,おとうとさん,younger brother (polite)
+vocabulary,N5,People & family,いもうとさん,いもうとさん,younger sister (polite)
+vocabulary,N5,People & family,おじさん,おじさん,uncle (polite)
+vocabulary,N5,People & family,おばさん,おばさん,aunt (polite)
+vocabulary,N5,People & family,むすこさん,むすこさん,son (polite)
+vocabulary,N5,People & family,むすめさん,むすめさん,daughter (polite)
+vocabulary,N5,People & family,おまごさん,おまごさん,grandchild (polite)
+vocabulary,N5,People & family,おくさん,おくさん,wife (polite)
+vocabulary,N5,People & family,ごしゅじん,ごしゅじん,husband (polite)
+vocabulary,N5,People & family,おい,おい,nephew
+vocabulary,N5,People & family,めい,めい,niece
+vocabulary,N5,People & family,いとこ,いとこ,cousin
+vocabulary,N5,Descriptions & states,おいくつ,おいくつ,how old (polite)
+vocabulary,N5,People & family,きせつ,きせつ,season
+vocabulary,N5,Nature & weather,春,はる,spring
+vocabulary,N5,Nature & weather,夏,なつ,summer
+vocabulary,N5,Nature & weather,秋,あき,autumn
+vocabulary,N5,Nature & weather,冬,ふゆ,winter
+vocabulary,N5,Nature & weather,色,いろ,colour
+vocabulary,N5,Nature & weather,赤,あか,red
+vocabulary,N5,Nature & weather,青,あお,blue
+vocabulary,N5,Nature & weather,きいろ,きいろ,yellow
+vocabulary,N5,Nature & weather,くろ,くろ,black
+vocabulary,N5,Nature & weather,みどり,みどり,green
+vocabulary,N5,Nature & weather,ちゃいろ,ちゃいろ,brown
+vocabulary,N5,Nature & weather,ピンク,ピンク,pink
+vocabulary,N5,Places & travel,ところ,ところ,place
+vocabulary,N5,Places & travel,こうえん,こうえん,park
+vocabulary,N5,Places & travel,どうぶつえん,どうぶつえん,zoo
+vocabulary,N5,Places & travel,うみ,うみ,sea
+vocabulary,N5,Places & travel,ゆうえんち,ゆうえんち,amusement park
+vocabulary,N5,Leisure & hobbies,スポーツ,スポーツ,sports
+vocabulary,N5,Leisure & hobbies,やきゅう,やきゅう,baseball
+vocabulary,N5,Leisure & hobbies,バスケットボール,バスケットボール,basketball
+vocabulary,N5,Leisure & hobbies,テニス,テニス,tennis
+vocabulary,N5,Leisure & hobbies,すいえい,すいえい,swimming
+vocabulary,N5,Leisure & hobbies,サッカー,サッカー,soccer
+vocabulary,N5,Leisure & hobbies,音楽,おんがく,music
+vocabulary,N5,Leisure & hobbies,クラシック,クラシック,classic
+vocabulary,N5,Leisure & hobbies,ジャズ,ジャズ,jazz
+vocabulary,N5,Leisure & hobbies,ロック,ロック,rock (music)
+vocabulary,N5,Leisure & hobbies,ポップ,ポップ,pop (music)
+vocabulary,N5,Food & dining,くだもの,くだもの,fruit
+vocabulary,N5,Food & dining,りんご,りんご,apple
+vocabulary,N5,Food & dining,みかん,みかん,tangerine
+vocabulary,N5,Food & dining,いちご,いちご,strawberry
+vocabulary,N5,Food & dining,ぶどう,ぶどう,grape
+vocabulary,N5,Places & travel,のりもの,のりもの,vehicle
+vocabulary,N5,Places & travel,オートバイ,オートバイ,motorcycle
+vocabulary,N5,Places & travel,ひ行き,ひこうき,airplane
+vocabulary,N5,Places & travel,ふね,ふね,ship
+vocabulary,N5,Body & health,晴れ,はれ,"sunny, clear weather"
+vocabulary,N5,Nature & weather,曇り,くもり,cloudy
+vocabulary,N5,Time & calendar,雪,ゆき,snow
+vocabulary,N5,Nature & weather,台風,たいふう,typhoon
+vocabulary,N5,Food & dining,しょっき,しょっき,tableware
+vocabulary,N5,Food & dining,ちゃわん,ちゃわん,rice bowl
+vocabulary,N5,Food & dining,お皿,おさら,plate
+vocabulary,N5,Food & dining,おはし,おはし,chopsticks
+vocabulary,N5,Places & travel,カップ,カップ,cup
+vocabulary,N5,Food & dining,コップ,コップ,glass (i.e. to drink out of)
+vocabulary,N5,Home & objects,かぐ,かぐ,furniture
+vocabulary,N5,Home & objects,ベッド,ベッド,bed
+vocabulary,N5,Home & objects,いす,いす,chair
+vocabulary,N5,Education & work,本棚,ほんだな,bookshelf
+vocabulary,N5,Home & objects,テレビ,テレビ,television
+vocabulary,N5,Home & objects,れいぞうこ,れいぞうこ,refrigerator
+vocabulary,N5,Home & objects,電子レンジ,でんしれんじ,microwave oven
+vocabulary,N5,Body & health,かお,かお,face
+vocabulary,N5,Body & health,あたま,あたま,head
+vocabulary,N5,Body & health,くび,くび,neck
+vocabulary,N5,Body & health,体,からだ,body
+vocabulary,N5,Body & health,体のぶぶん,からだのぶぶん,body parts
+vocabulary,N5,Home & objects,ふく,ふく,clothing
+vocabulary,N5,Body & health,ネクタイ,ネクタイ,neck tie
+vocabulary,N5,Home & objects,ポケット,ポケット,pocket
+vocabulary,N5,Home & objects,ベルト,ベルト,belt
+vocabulary,N5,Home & objects,ズボン,ズボン,trousers
+vocabulary,N5,Body & health,はな,はな,nose
+vocabulary,N5,Body & health,は,は,teeth
+vocabulary,N5,Home & objects,ぼうし,ぼうし,hat
+vocabulary,N5,Places & travel,スカーフ,スカーフ,scarf
+vocabulary,N5,Home & objects,セーター,セーター,sweater
+vocabulary,N5,Home & objects,くつした,くつした,socks
+vocabulary,N5,Home & objects,くつ,くつ,shoes
+vocabulary,N4,Descriptions & states,低い,ひくい,low
+vocabulary,N4,Descriptions & states,短い,みじかい,short
+vocabulary,N4,Places & travel,近所,きんじょ,neighborhood
+vocabulary,N4,Descriptions & states,近い,ちかい,near
+vocabulary,N4,Places & travel,遠足,えんそく,excursion
+vocabulary,N4,Actions & routines,遠慮する,えんりょする,"hesitate, decline from doing something"
+vocabulary,N4,Descriptions & states,遠い,とおい,distant
+vocabulary,N4,Education & work,勉強する,べんきょうする,study
+vocabulary,N4,Descriptions & states,暗い,くらい,dark
+vocabulary,N4,Education & work,説明,せつめい,explanation
+vocabulary,N4,Descriptions & states,明るい,あかるい,bright
+vocabulary,N4,Time & calendar,明けましておめでとうございます,あけましておめでとうございます,Happy New Year!
+vocabulary,N4,Descriptions & states,悪い,わるい,bad
+vocabulary,N4,Descriptions & states,便利な,べんりな,convenient
+vocabulary,N4,Descriptions & states,同じ,おなじ,same
+vocabulary,N4,Descriptions & states,１回、２回...何回,いっかい、にかい...なんかい,"once, twice...how many times"
+vocabulary,N4,Actions & routines,回る,まわる,turn
+vocabulary,N4,Time & calendar,晩,ばん,night
+vocabulary,N4,Time & calendar,今晩,こんばん,tonight
+vocabulary,N4,Time & calendar,毎晩,まいばん,every night
+vocabulary,N4,Actions & routines,進む,すすむ,proceed
+vocabulary,N4,Actions & routines,進める,すすめる,advance
+vocabulary,N4,Actions & routines,集まる,あつまる,gather
+vocabulary,N4,Actions & routines,集める,あつめる,collect
+vocabulary,N4,Education & work,文,ぶん,sentence
+vocabulary,N4,Education & work,文章,ぶんしょう,"text, sentences"
+vocabulary,N4,Education & work,作文,さくぶん,composition; essay
+vocabulary,N4,Actions & routines,作る,つくる,create
+vocabulary,N4,Places & travel,大使館,たいしかん,embassy
+vocabulary,N4,Home & objects,使う,つかう,use
+vocabulary,N4,Places & travel,郵便局,ゆうびんきょく,post office
+vocabulary,N4,People & family,妹,いもうと,younger sister
+vocabulary,N4,People & family,弟,おとうと,younger brother
+vocabulary,N4,Nature & weather,赤,あか,red
+vocabulary,N4,People & family,赤ちゃん,あかちゃん,baby
+vocabulary,N4,Nature & weather,赤い,あかい,red
+vocabulary,N4,Nature & weather,黒い,くろい,black
+vocabulary,N4,Places & travel,交通,こうつう,traffic
+vocabulary,N4,Descriptions & states,普通,ふつう,"ordinary, normal"
+vocabulary,N4,Places & travel,通る,とおる,pass through
+vocabulary,N4,Places & travel,通り,とおり,street
+vocabulary,N4,Actions & routines,通う,かよう,attend
+vocabulary,N4,Time & calendar,降る,ふる,"fall (rain, snow)"
+vocabulary,N4,Places & travel,降りる,おりる,get off (un vehículo)
+vocabulary,N4,Places & travel,乗る,のる,get on
+vocabulary,N4,Food & dining,食料品,しょくりょうひん,"food, groceries"
+vocabulary,N4,Home & objects,品物,しなもの,goods
+vocabulary,N4,Actions & routines,着る,きる,wear
+vocabulary,N4,Places & travel,着く,つく,arrive
+vocabulary,N4,Nature & weather,動物,どうぶつ,animal
+vocabulary,N4,Home & objects,荷物,にもつ,luggage
+vocabulary,N4,Home & objects,物,もの,"thing, stuff"
+vocabulary,N4,Food & dining,食べ物,たべもの,food
+vocabulary,N4,Home & objects,建物,たてもの,building
+vocabulary,N4,Amount & frequency,二階建て,にかいだて,two-storied
+vocabulary,N4,Time & calendar,夜,よる,night
+vocabulary,N4,Nature & weather,台風,たいふう,typhoon
+vocabulary,N4,Body & health,風邪,かぜ,cold (illness)
+vocabulary,N4,Home & objects,台所,だいどころ,kitchen
+vocabulary,N4,Home & objects,１台、２台、３台...,いちだい、にだい、さんだい...,counter for machines...
+vocabulary,N4,Food & dining,朝食 (=朝ご飯),ちょうしょく (=あさごはん),breakfast
+vocabulary,N4,Time & calendar,今朝,けさ,this morning
+vocabulary,N4,Food & dining,昼食 (=昼ご飯),ちゅうしょく (=ひるごはん),lunch
+vocabulary,N4,Time & calendar,昼,ひる,daytime
+vocabulary,N4,Time & calendar,春,はる,spring
+vocabulary,N4,Time & calendar,春休み,はるやすみ,spring break
+vocabulary,N4,Time & calendar,夏,なつ,summer
+vocabulary,N4,Time & calendar,夏休み,なつやすみ,summer break
+vocabulary,N4,Time & calendar,秋,あき,fall
+vocabulary,N4,Time & calendar,冬,ふゆ,winter
+vocabulary,N4,Time & calendar,冬休み,ふゆやすみ,winter break
+vocabulary,N4,Places & travel,京都,きょうと,Kyoto
+vocabulary,N4,Places & travel,東京,とうきょう,Tokyo
+vocabulary,N4,Education & work,東京都,とうきょうと,Tokyo prefecture
+vocabulary,N4,Places & travel,都道府県,とどうふけん,the 47 prefectures of Japan
+vocabulary,N4,Education & work,県,けん,prefecture
+vocabulary,N4,Education & work,青森県,あおもりけん,Aomori Prefecture
+vocabulary,N4,People & family,市民,しみん,citizens
+vocabulary,N4,Places & travel,~町,~ちょう,~town
+vocabulary,N4,Places & travel,町,まち,town
+vocabulary,N4,People & family,医者,いしゃ,doctor
+vocabulary,N4,Body & health,医学,いがく,medical science
+vocabulary,N4,People & family,学者,がくしゃ,scholar
+vocabulary,N4,People & family,歯医者,はいしゃ,dentist
+vocabulary,N4,Places & travel,店員,てんいん,store clerk
+vocabulary,N4,Places & travel,駅員,えきいん,station staff
+vocabulary,N4,Education & work,会社員,かいしゃいん,company worker
+vocabulary,N4,Education & work,銀行員,ぎんこういん,bank clerk
+vocabulary,N4,People & family,国民,こくみん,nationals
+vocabulary,N4,People & family,歌手,かしゅ,singer
+vocabulary,N4,Leisure & hobbies,歌,うた,song
+vocabulary,N4,Leisure & hobbies,歌う,うたう,to sing
+vocabulary,N4,Places & travel,運転,うんてん,"driving, operation"
+vocabulary,N4,People & family,運転手,うんてんしゅ,driver
+vocabulary,N4,Places & travel,自転車,じてんしゃ,bicycle
+vocabulary,N4,Actions & routines,説明する,せつめいする,explain
+vocabulary,N4,Education & work,小説,しょうせつ,novel
+vocabulary,N4,People & family,小説家,しょうせつか,novelist
+vocabulary,N4,People & family,家族,かぞく,family
+vocabulary,N4,Other,家庭,かてい,home
+vocabulary,N4,Places & travel,家,いえ,house
+vocabulary,N4,Education & work,旅館,りょかん,Japanese inn
+vocabulary,N4,Places & travel,美術館,びじゅつかん,museum
+vocabulary,N4,Descriptions & states,有名な,ゆうめいな,famous
+vocabulary,N4,Time & calendar,去年,きょねん,last year
+vocabulary,N4,People & family,主人,しゅじん,"master, husband"
+vocabulary,N4,Communication & technology,写真,しゃしん,photograph
+vocabulary,N4,Places & travel,真ん中,まんなか,"middle, center"
+vocabulary,N4,Food & dining,夕飯,ゆうはん,"supper, dinner"
+vocabulary,N4,Food & dining,ご飯,ごはん,cooked rice
+vocabulary,N4,Food & dining,朝ご飯・昼ご飯・晩ご飯,あさごはん・ひるごはん・ばんごはん,breakfast / lunch / supper
+vocabulary,N4,Descriptions & states,両方,りょうほう,both
+vocabulary,N4,People & family,あの方,あのかた,that person (polite)
+vocabulary,N4,Descriptions & states,~方,~かた,way to ~
+vocabulary,N4,Nature & weather,犬,いぬ,dog
+vocabulary,N4,Descriptions & states,太い,ふとい,fat
+vocabulary,N4,Actions & routines,思う,おもう,think
+vocabulary,N4,Actions & routines,思い出す,おもいだす,recall
+vocabulary,N4,Actions & routines,知る,しる,know
+vocabulary,N4,Communication & technology,知らせる,しらせる,"tell, inform"
+vocabulary,N4,Education & work,和室,わしつ,Japanese-style room
+vocabulary,N4,Education & work,和菓子,わがし,Japanese sweets
+vocabulary,N4,Descriptions & states,平和,へいわ,"peace, harmony"
+vocabulary,N4,Nature & weather,青い,あおい,blue
+vocabulary,N4,Nature & weather,光,ひかり,light
+vocabulary,N4,Nature & weather,光る,ひかる,shine
+vocabulary,N4,Home & objects,電池,でんち,battery
+vocabulary,N4,Places & travel,池,いけ,lake
+vocabulary,N4,Descriptions & states,別の,べつの,"another, separate"
+vocabulary,N4,Descriptions & states,特別な,とくべつな,special
+vocabulary,N4,Leisure & hobbies,映画,えいが,movie
+vocabulary,N4,Leisure & hobbies,映画館,えいがかん,movie theater
+vocabulary,N4,Places & travel,地図,ちず,map
+vocabulary,N4,Education & work,図書館,としょかん,library
+vocabulary,N4,Food & dining,食事,しょくじ,meal
+vocabulary,N4,Education & work,用事,ようじ,business; affair
+vocabulary,N4,Education & work,仕事,しごと,work
+vocabulary,N4,Descriptions & states,仕方,しかた,way of doing
+vocabulary,N4,Other,用意,ようい,preparation
+vocabulary,N4,Home & objects,利用する,りようする,use
+vocabulary,N4,Education & work,地理,ちり,geography
+vocabulary,N4,Nature & weather,地震,じしん,earthquake
+vocabulary,N4,Places & travel,地下鉄,ちかてつ,subway
+vocabulary,N4,Food & dining,料理,りょうり,cooking
+vocabulary,N4,Descriptions & states,理由,りゆう,reason
+vocabulary,N4,Home & objects,洗濯する,せんたくする,do the laundry
+vocabulary,N4,Home & objects,洗う,あらう,wash
+vocabulary,N4,Body & health,お手洗い,おてあらい,"bathroom, toilet"
+vocabulary,N4,Leisure & hobbies,野球,やきゅう,baseball
+vocabulary,N4,Food & dining,(お)酒,(お)さけ,alcoholic drink / sake (rice wine)
+vocabulary,N4,Food & dining,肉,にく,meat
+vocabulary,N4,Food & dining,牛肉,ぎゅうにく,beef
+vocabulary,N4,Food & dining,鳥肉,とりにく,chicken
+vocabulary,N4,Food & dining,豚肉,ぶたにく,pork
+vocabulary,N4,Communication & technology,意味,いみ,meaning
+vocabulary,N4,Leisure & hobbies,趣味,しゅみ,hobby
+vocabulary,N4,Leisure & hobbies,興味,きょうみ,interest
+vocabulary,N4,Places & travel,以上,いじょう,~ and up
+vocabulary,N4,Places & travel,バス代,ばすだい,bus fare
+vocabulary,N4,Amount & frequency,番号,ばんごう,number
+vocabulary,N4,Home & objects,交番,こうばん,police box
+vocabulary,N4,Time & calendar,一度,いちど,"once, one time"
+vocabulary,N4,Time & calendar,今度,こんど,this (next) time
+vocabulary,N4,Other,支度する,したくする,preparar
+vocabulary,N4,Descriptions & states,安全な,あんぜんな,safe
+vocabulary,N4,Home & objects,服,ふく,clothes
+vocabulary,N4,Education & work,和服 (=着物),わふく (=きもの),Japanese clothes (=kimono)
+vocabulary,N4,Education & work,研究する,けんきゅうする,research
+vocabulary,N4,Education & work,研究室,けんきゅうしつ,laboratory
+vocabulary,N4,Education & work,研究生,けんきゅうせい,research student
+vocabulary,N4,Places & travel,住所,じゅうしょ,address
+vocabulary,N4,Actions & routines,住む,すむ,live
+vocabulary,N4,Actions & routines,注意する,ちゅういする,pay attention
+vocabulary,N4,Food & dining,注文する,ちゅうもんする,order
+vocabulary,N4,Other,教室,きょうしつ,classroom
+vocabulary,N4,Education & work,教育,きょういく,education
+vocabulary,N4,Education & work,発音,はつおん,pronunciation
+vocabulary,N4,Actions & routines,出発する,しゅっぱつする,leave
+vocabulary,N4,Communication & technology,音,おと,sound
+vocabulary,N4,Education & work,工業,こうぎょう,industry
+vocabulary,N4,Education & work,工事,こうじ,construction
+vocabulary,N4,Education & work,授業,じゅぎょう,class
+vocabulary,N4,Education & work,卒業,そつぎょう,graduation
+vocabulary,N4,Descriptions & states,寒い,さむい,cold
+vocabulary,N4,Descriptions & states,暑い,あつい,hot
+vocabulary,N4,Descriptions & states,蒸し暑い,むしあつい,hot and humid
+vocabulary,N4,Descriptions & states,重い,おもい,heavy
+vocabulary,N4,Nature & weather,軽い,かるい,light
+vocabulary,N4,Descriptions & states,広い,ひろい,large
+vocabulary,N4,Body & health,元気な,げんきな,"fine, healthy"
+vocabulary,N4,Body & health,病気,びょうき,sickness
+vocabulary,N4,Places & travel,起きる,おきる,get up
+vocabulary,N4,Places & travel,起こす,おこす,wake (someone) up
+vocabulary,N4,Home & objects,寝る,ねる,"go to bed, sleep"
+vocabulary,N4,Actions & routines,寝坊,ねぼう,oversleep
+vocabulary,N4,Actions & routines,始まる,はじまる,"begin, start"
+vocabulary,N4,Actions & routines,始める,はじめる,start
+vocabulary,N4,Actions & routines,終わる,おわる,end
+vocabulary,N4,Descriptions & states,太る,ふとる,become fat
+vocabulary,N4,Education & work,区,く,ward
+vocabulary,N4,Leisure & hobbies,水族館,すいぞくかん,aquarium
+vocabulary,N4,Nature & weather,青,あお,blue
+vocabulary,N4,Places & travel,別れる,わかれる,split up
+vocabulary,N4,Actions & routines,取る,とる,take
+vocabulary,N4,Other,取り替える,とりかえる,"exchange, replace"
+vocabulary,N4,Home & objects,押す,おす,push
+vocabulary,N4,Home & objects,押し入れ,おしいれ,closet
+vocabulary,N4,Home & objects,引く,ひく,pull
+vocabulary,N4,Home & objects,引き出し,ひきだし,drawer
+vocabulary,N4,Actions & routines,開ける,あける,open (something)(ej. puerta)
+vocabulary,N4,Descriptions & states,閉まる,しまる,(something) close(s)
+vocabulary,N4,Descriptions & states,閉める,しめる,close (something)
+vocabulary,N4,Actions & routines,中止する,ちゅうしする,"stop, cancel"
+vocabulary,N4,Home & objects,使用中止,しようちゅうし,out of service
+vocabulary,N4,Actions & routines,止まる,とまる,stop (intransitivo)
+vocabulary,N4,Actions & routines,止める,とめる,stop
+vocabulary,N4,Descriptions & states,好きな,すきな,"like, favorite"
+vocabulary,N4,Descriptions & states,大好きな,だいすきな,precious
+vocabulary,N4,Nature & weather,黄色,きいろ,yellow
+vocabulary,N4,Nature & weather,黄色い,きいろい,yellow
+vocabulary,N4,Nature & weather,色,いろ,color
+vocabulary,N4,Nature & weather,茶色,ちゃいろ,brown
+vocabulary,N4,Nature & weather,黒,くろ,black
+vocabulary,N4,Body & health,首,くび,neck
+vocabulary,N4,Body & health,顔,かお,face
+vocabulary,N4,Actions & routines,以下,いか,and lower
+vocabulary,N4,Places & travel,室内,しつない,the inside of a room
+vocabulary,N4,Places & travel,内側,うちがわ,inside
+vocabulary,N4,Other,代わりに,かわりに,instead of
+vocabulary,N4,Home & objects,102号室,102ごうしつ,room number 102
+vocabulary,N4,Amount & frequency,1番、2番...,いちばん、にばん...,"number one, number two..."
+vocabulary,N4,Places & travel,3番線,さんばんせん,platform three
+vocabulary,N4,Descriptions & states,全然〜ない,ぜんぜん〜ない,it is not ~ at all
+vocabulary,N4,Places & travel,西洋,せいよう,"the West, western"
+vocabulary,N4,Home & objects,売る,うる,sell
+vocabulary,N4,Other,売り場,うりば,sales floor
+vocabulary,N4,Home & objects,買う,かう,buy
+vocabulary,N4,Home & objects,借りる,かりる,borrow
+vocabulary,N4,Home & objects,貸す,かす,lend
+vocabulary,N4,Actions & routines,練習する,れんしゅうする,practice
+vocabulary,N4,Actions & routines,予習する,よしゅうする,prepare for a lesson
+vocabulary,N4,Actions & routines,復習する,ふくしゅうする,review
+vocabulary,N4,Other,習慣,しゅうかん,habit
+vocabulary,N4,Actions & routines,習う,ならう,learn
+vocabulary,N4,Actions & routines,教える,おしえる,teach
+vocabulary,N4,Actions & routines,座る,すわる,sit down
+vocabulary,N4,Actions & routines,立つ,たつ,stand
+vocabulary,N4,Places & travel,乗り物,のりもの,vehicle
+vocabulary,N4,Actions & routines,乗り換える,のりかえる,"transfer, change"
+vocabulary,N4,Actions & routines,死ぬ,しぬ,die
+vocabulary,N4,Actions & routines,生きる,いきる,live
+vocabulary,N4,Other,不便な,ふべんな,inconvenient
+vocabulary,N4,Body & health,体,からだ,body
+vocabulary,N4,Education & work,働く,はたらく,work
+vocabulary,N4,Body & health,薬,くすり,medicine
+vocabulary,N4,People & family,奥さん,おくさん,wife
+vocabulary,N4,Time & calendar,正月,しょうがつ,the New Year
+vocabulary,N4,Descriptions & states,正しい,ただしい,correct
+vocabulary,N4,Places & travel,急行,きゅうこう,express
+vocabulary,N4,Other,急に,きゅうに,suddenly
+vocabulary,N4,Other,急ぐ,いそぐ,"prisa, darse prisa, apresurarse"
+vocabulary,N4,Education & work,試験,しけん,test
+vocabulary,N4,Actions & routines,経験する,けいけんする,experience
+vocabulary,N4,Actions & routines,考える,かんがえる,think
+vocabulary,N4,Descriptions & states,安心する,あんしんする,feel relieved
+vocabulary,N4,Body & health,心配する,しんぱいする,worry
+vocabulary,N4,Body & health,心,こころ,heart; mind
+vocabulary,N4,Communication & technology,声,こえ,voice
+vocabulary,N4,Descriptions & states,悲しい,かなしい,sad
+vocabulary,N4,Descriptions & states,寂しい,さびしい,lonely
+vocabulary,N4,Actions & routines,恥ずかしい,はずかしい,feel ashamed of
+vocabulary,N4,Body & health,気持ち悪い,きもちわるい,"feel disgusting, feel sick"
+vocabulary,N4,Actions & routines,仕方がない,しかたがない,cannot help
+vocabulary,N4,Descriptions & states,残念な,ざんねんな,regrettable
+vocabulary,N4,Descriptions & states,いやな,いやな,"displeasing, disgusting"
+vocabulary,N4,Descriptions & states,驚く,おどろく,be surprised
+vocabulary,N4,Education & work,英語,えいご,English
+vocabulary,N4,Food & dining,お茶,おちゃ,tea
+vocabulary,N4,Food & dining,紅茶,こうちゃ,black tea
+vocabulary,N4,Places & travel,喫茶店,きっさてん,"coffee shop, café"
+vocabulary,N4,Communication & technology,答える,こたえる,to answer
+vocabulary,N4,Communication & technology,答え,こたえ,answer
+vocabulary,N4,Home & objects,紙,かみ,paper
+vocabulary,N4,Communication & technology,手紙,てがみ,letter
+vocabulary,N4,Other,私,わたし,I
+vocabulary,N4,Communication & technology,放送,ほうそう,broadcast
+vocabulary,N4,Communication & technology,送る,おくる,send
+vocabulary,N4,Nature & weather,鳥,とり,bird
+vocabulary,N4,Nature & weather,小鳥,ことり,little bird
+vocabulary,N4,Education & work,銀行,ぎんこう,bank
+vocabulary,N4,Food & dining,食堂,しょくどう,cafeteria
+vocabulary,N4,Other,講堂,こうどう,auditorium
+vocabulary,N4,Body & health,病院,びょういん,hospital
+vocabulary,N4,Body & health,入院する,にゅういんする,be hospitalized
+vocabulary,N4,Education & work,大学院,だいがくいん,graduate school
+vocabulary,N4,Actions & routines,歩く,あるく,walk
+vocabulary,N4,Actions & routines,走る,はしる,run
+vocabulary,N4,Places & travel,海岸,かいがん,"beach, shore"
+vocabulary,N4,Places & travel,海,うみ,ocean
+vocabulary,N4,Places & travel,帰る,かえる,return
+vocabulary,N4,Actions & routines,合格する,ごうかくする,pass
+vocabulary,N4,Descriptions & states,都合がいい,つごうがいい,convenient
+vocabulary,N4,Actions & routines,合う,あう,come together
+vocabulary,N4,Time & calendar,間に合う,まにあう,make in time
+vocabulary,N4,Education & work,漢字,かんじ,kanji
+vocabulary,N4,Education & work,字,じ,character
+vocabulary,N4,Education & work,文字,もじ,"letter, character"
+vocabulary,N4,Descriptions & states,親切な,しんせつな,"kind, gentle"
+vocabulary,N4,People & family,両親,りょうしん,parents
+vocabulary,N4,Home & objects,切る,きる,cut
+vocabulary,N4,Home & objects,切れる,きれる,able to cut
+vocabulary,N4,Communication & technology,切手,きって,stamp
+vocabulary,N4,Places & travel,切符,きっぷ,ticket
+vocabulary,N4,Leisure & hobbies,音楽,おんがく,music
+vocabulary,N4,Leisure & hobbies,楽しい,たのしい,fun
+vocabulary,N4,People & family,自分,じぶん,self
+vocabulary,N4,Descriptions & states,自動,じどう,automatic
+vocabulary,N4,Descriptions & states,自由,じゆう,freedom
+vocabulary,N4,Other,工場,こうじょう,factory
+vocabulary,N4,Places & travel,駐車場,ちゅうしゃじょう,parking lot
+vocabulary,N4,Places & travel,場所,ばしょ,place
+vocabulary,N4,Home & objects,会議室,かいぎしつ,conference room
+vocabulary,N4,Home & objects,持つ,もつ,hold
+vocabulary,N4,Body & health,気持ち,きもち,feelings
+vocabulary,N4,People & family,お金持ち,おかねもち,the rich
+vocabulary,N4,Actions & routines,招待する,しょうたいする,invite
+vocabulary,N4,Actions & routines,待つ,まつ,wait
+vocabulary,N4,Places & travel,特急,とっきゅう,limited express
+vocabulary,N4,Descriptions & states,特に,とくに,particularly
+vocabulary,N4,Places & travel,林,はやし,woods
+vocabulary,N4,Places & travel,村,むら,village
+vocabulary,N4,Places & travel,森,もり,forest
+vocabulary,N4,Other,何曜日,なんようび,what day
+vocabulary,N4,Descriptions & states,問題,もんだい,problem
+vocabulary,N4,Other,宿題,しゅくだい,homework
+vocabulary,N4,Time & calendar,日・月・火・水・木・金・土,にち・げつ・か・すい・もく・きん・ど,days of the week
+vocabulary,N4,Places & travel,屋上,おくじょう,rooftop
+vocabulary,N4,People & family,姉,あね,older sister
+vocabulary,N4,People & family,お姉さん,おねえさん,older sister; miss
+vocabulary,N4,People & family,兄弟,きょうだい,siblings
+vocabulary,N4,People & family,兄,あに,older brother
+vocabulary,N4,People & family,お兄さん,おにいさん,older brother; mister
+vocabulary,N4,Places & travel,世界中,せかいじゅう,around the world
+vocabulary,N4,Actions & routines,案内する,あんないする,guide
+vocabulary,N4,Other,お祝い,おいわい,celebration
+vocabulary,N4,Body & health,お見舞い,おみまい,visiting someone who is sick
+vocabulary,N4,Actions & routines,生まれる,うまれる,be born
+vocabulary,N4,Actions & routines,亡くなる,なくなる,"die, pass away"
+vocabulary,N4,Education & work,勤める,つとめる,work for ...
+vocabulary,N4,Places & travel,引っ越す,ひっこす,move
+vocabulary,N4,Places & travel,届く,とどく,"arrive, reach"
+vocabulary,N4,Descriptions & states,二十歳,はたち,twenty years old
+vocabulary,N4,Other,お礼,おれい,"gratitude, thanks"
+vocabulary,N4,Descriptions & states,関係,かんけい,relation
+vocabulary,N4,Descriptions & states,丁寧な,ていねいな,polite
+vocabulary,N4,Other,どうやって,どうやって,"how, in what way"
+vocabulary,N4,Home & objects,洗剤,せんざい,detergent
+vocabulary,N4,Places & travel,動く,うごく,move
+vocabulary,N4,Home & objects,きかいが動く,きかいがうごく,a machine works
+vocabulary,N4,Home & objects,きかいが止まる,きかいがとまる,a machine stops
+vocabulary,N4,Actions & routines,消える,きえる,"disappear, be extinguished"
+vocabulary,N4,Actions & routines,電気が消える,でんきがきえる,the lights go out
+vocabulary,N4,Other,火が消える,ひがきえる,a flame goes out
+vocabulary,N4,Actions & routines,字が消える,じがきえる,characters disappear
+vocabulary,N4,Home & objects,消す,けす,"turn off, put out, erase"
+vocabulary,N4,Nature & weather,電気を消す,でんきをけす,turn off a light
+vocabulary,N4,Home & objects,火を消す,ひをけす,put out a fire
+vocabulary,N4,Other,字を消す,じをけす,erase words
+vocabulary,N4,Actions & routines,開く,ひらく,open
+vocabulary,N4,Places & travel,道路,どうろ,"road, street"
+vocabulary,N4,Places & travel,どうろをわたる,どうろをわたる,cross a street
+vocabulary,N4,Places & travel,渡る,わたる,cross
+vocabulary,N4,Places & travel,はしをわたる,はしをわたる,cross a bridge
+vocabulary,N4,Other,危険な=危ない,きけんな (=あぶない),dangerous (opuesto a seguro)
+vocabulary,N4,Other,安全に,あんぜんに,safely
+vocabulary,N4,Places & travel,自動車 (＝車),じどうしゃ (＝くるま),automatic / car
+vocabulary,N4,Home & objects,自動販売機,じどうはんばいき,vending machine
+vocabulary,N4,Home & objects,自動ドア,じどうどあ,automatic door
+vocabulary,N4,Actions & routines,間違える,まちがえる,"make a mistake, be wrong"
+vocabulary,N4,Places & travel,残る,のこる,"remain, be left over (intransitivo)"
+vocabulary,N4,Food & dining,食べ物がのこる,たべものがのこる,food remains
+vocabulary,N4,Actions & routines,残す,のこす,leave (something) over (transitivo)
+vocabulary,N4,Food & dining,食べ物をのこす,たべものをのこす,leave food over
+vocabulary,N4,Places & travel,余る,あまる,"be in excess, be left over"
+vocabulary,N4,Time & calendar,時間があまる,じかんがあまる,to have time to spare
+vocabulary,N4,Descriptions & states,足りる,たりる,"be sufficient, be enough"
+vocabulary,N4,Descriptions & states,足りない,たりない,not enough
+vocabulary,N4,Communication & technology,チェックする,チェックする,check
+vocabulary,N4,Education & work,調べる,しらべる,"look up, research"
+vocabulary,N4,Actions & routines,質問する,しつもんする,ask
+vocabulary,N4,Descriptions & states,役に立つ,やくにたつ,useful
+vocabulary,N4,Actions & routines,写,うつす,copy
+vocabulary,N4,People & family,友だちのノートを写す,ともだちのノートをうつす,copy a friend's notes
+vocabulary,N4,Home & objects,貼る,はる,"stick, paste"
+vocabulary,N4,Communication & technology,切手/シール/ポスターをはる,きって/シール/ポスターをはる,stick a stamp/sticker/poster
+vocabulary,N4,Food & dining,塗る,ぬる,"spread, butter, color"
+vocabulary,N4,Food & dining,バターをぬる,バターをぬる,spread butter
+vocabulary,N4,Nature & weather,色をぬる,いろをぬる,to color
+vocabulary,N4,Descriptions & states,できる,できる,"be finished, be ready"
+vocabulary,N4,Food & dining,ごはんができた。,ごはんができた。,Dinner has been prepared.
+vocabulary,N4,Education & work,テストができた。,テストができた。,I did well on my test.
+vocabulary,N4,Places & travel,新しい店ができた。,あたらしいみせができた。,A new store has been opened.
+vocabulary,N4,Leisure & hobbies,飛ぶ,とぶ,fly
+vocabulary,N4,Nature & weather,空をとぶ,そらをとぶ,fly through the air
+vocabulary,N4,Leisure & hobbies,跳ぶ,とぶ,jump
+vocabulary,N4,Leisure & hobbies,なわとび,なわとび,jump rope / skipping rope
+vocabulary,N4,Places & travel,積もる,つもる,"pile up, accumulate"
+vocabulary,N4,Nature & weather,ゆきがつもる,ゆきがつもる,snow accumulates
+vocabulary,N4,Home & objects,建てる,たてる,"build, erect (transitivo)"
+vocabulary,N4,Places & travel,家を建てる,いえをたてる,build a house
+vocabulary,N4,Places & travel,家が建つ,いえがたつ,a house is built (intransitivo)
+vocabulary,N4,Food & dining,沸く,わく,boil (intransitivo)
+vocabulary,N4,Food & dining,おゆがわく,おゆがわく,water comes to a boil
+vocabulary,N4,Food & dining,沸かす,わかす,to boil (something) (transitivo)
+vocabulary,N4,Food & dining,おゆをわかす,おゆをわかす,to boil water
+vocabulary,N4,Actions & routines,払う,はらう,pay
+vocabulary,N4,Actions & routines,やちんをはらう,やちんをはらう,pay rent
+vocabulary,N4,Actions & routines,メモする,メモする,take a note
+vocabulary,N4,Amount & frequency,値段,ねだん,price
+vocabulary,N4,Other,クリーニング屋,クリーニングや,the cleaners
+vocabulary,N4,Places & travel,酒屋,さかや,liquor store
+vocabulary,N4,Food & dining,お酒,(お)さけ,"① alcohol, ② sake (rice wine)"
+vocabulary,N4,Amount & frequency,グラム,グラム,gram
+vocabulary,N4,Amount & frequency,センチ,センチ,centimeter
+vocabulary,N4,Amount & frequency,メートル,メートル,meter
+vocabulary,N4,Amount & frequency,キロ,キロ,"kilogram, kilometer"
+vocabulary,N4,Descriptions & states,重い → 重さ,おもい → おもさ,heavy → weight
+vocabulary,N4,Descriptions & states,広い → 広さ,ひろい → ひろさ,wide → width
+vocabulary,N4,Descriptions & states,長い → 長さ,ながい → ながさ,long → length
+vocabulary,N4,Descriptions & states,高い → 高さ,たかい → たかさ,high → height
+vocabulary,N4,Descriptions & states,大きい → 大きさ,おおきい → おおきさ,big → size
+vocabulary,N4,Descriptions & states,太い → 太さ,ふとい → ふとさ,thick → thickness
+vocabulary,N4,Actions & routines,落とす,おとす,drop (transitivo)
+vocabulary,N4,Home & objects,さいふをおとす,さいふをおとす,drop a wallet
+vocabulary,N4,Time & calendar,落ちる,おちる,"fall, drop (intransitivo)"
+vocabulary,N4,Home & objects,さいふがおちる,さいふがおちる,a wallet falls
+vocabulary,N4,Education & work,試験におちる,しけんにおちる,fail a test
+vocabulary,N4,Actions & routines,壊す,こわす,break (transitivo)
+vocabulary,N4,Communication & technology,スマホをこわす,スマホをこわす,break a smartphone
+vocabulary,N4,Descriptions & states,壊れる,こわれる,be broken (intransitivo)
+vocabulary,N4,Communication & technology,スマホがこわれる,スマホがこわれる,a smartphone is broken
+vocabulary,N4,Actions & routines,無くす,なくす,lose (transitivo)
+vocabulary,N4,Actions & routines,パスポートをなくす,パスポートをなくす,lose a passport
+vocabulary,N4,Actions & routines,無くなる,なくなる,"disappear, be lost (intransitivo)"
+vocabulary,N4,Other,パスポートがなくなる,パスポートがなくなる,a passport is lost
+vocabulary,N4,Other,見つける,みつける,find (transitivo)
+vocabulary,N4,Education & work,仕事を見つける,しごとをみつける,find a job
+vocabulary,N4,Actions & routines,見つかる,みつかる,be found (intransitivo)
+vocabulary,N4,Other,なくした物が見つかる,なくしたものがみつかる,a lost item is found
+vocabulary,N4,Places & travel,拾う,ひろう,pick up
+vocabulary,N4,Places & travel,おちている物をひろう,おちているものをひろう,pick up something that has fallen
+vocabulary,N4,Other,探す,さがす,"search for, look for (un objeto)"
+vocabulary,N4,Education & work,(仕事やほしい物を)さがす,(しごとやほしいものを)さがす,search for (a job or something you want)
+vocabulary,N4,Other,捜す,さがす,look for (una persona o algo perdido)
+vocabulary,N4,People & family,(なくした物や人を)さがす,(なくしたものやひとを)さがす,look for (a lost item or person)
+vocabulary,N4,Descriptions & states,大切な,たいせつな,"important, valuable, precious"
+vocabulary,N4,Home & objects,大切な物,たいせつなもの,a precious thing
+vocabulary,N4,Actions & routines,大切にする,たいせつにする,take good care of / to treasure
+vocabulary,N4,Other,たいへん！,たいへん！,"Oh no!, There's trouble!"
+vocabulary,N4,Other,いけない！,いけない！,This won't do!/Oops!
+vocabulary,N4,Other,どうしよう！,どうしよう！,What should I do?
+vocabulary,N4,Other,あ、あった！,あ、あった！,"Ah, here it is!/Found it!"
+vocabulary,N4,Other,よかったね！,よかったね！,Thank goodness!/Good for you!
+vocabulary,N4,Other,予定,よてい,"schedule, plan"
+vocabulary,N4,Other,よていがある/ない,よていがある/ない,have / not have plans
+vocabulary,N4,Descriptions & states,都合がいい ↔ 都合が悪い,つごうがいい ↔ つごうがわるい,be convenient ↔ be inconvenient
+vocabulary,N4,Other,場合,ばあい,case
+vocabulary,N4,Other,…場合は,…ばあいは,"...in the case, if..."
+vocabulary,N4,Actions & routines,予約する,よやくする,reserve
+vocabulary,N4,Places & travel,ホテルをよやくする,ホテルをよやくする,reserve a hotel
+vocabulary,N4,Places & travel,新しい住所を知らせる,あたらしいじゅうしょをしらせる,inform of a new address
+vocabulary,N4,Leisure & hobbies,楽しむ,たのしむ,enjoy
+vocabulary,N4,Places & travel,日本の生活を楽しむ,にほんのせいかつをたのしむ,enjoy life in Japan
+vocabulary,N4,Actions & routines,楽しみにする,たのしみにする,look forward to
+vocabulary,N4,Actions & routines,過ぎる,すぎる,pass
+vocabulary,N4,Actions & routines,12時をすぎる,じゅうにじをすぎる,pass twelve o'clock
+vocabulary,N4,Places & travel,車が止まる,くるまがとまる,the car stops
+vocabulary,N4,Actions & routines,泊まる,とまる,stay over
+vocabulary,N4,Places & travel,ホテルにとまる,ホテルにとまる,stay at a hotel
+vocabulary,N4,Communication & technology,待ち合わせる,まちあわせる,make an appointment and meet there
+vocabulary,N4,Communication & technology,やくそくをして、そこで会う,やくそくをして、そこで会う,Make a promise and meet there
+vocabulary,N4,People & family,友だちと駅で待ち合わせて…,ともだちとえきでまちあわせて…,I'm going to meet with a friend at the station...
+vocabulary,N4,Other,計画,けいかく,plan
+vocabulary,N4,Actions & routines,計画を立てる,けいかくをたてる,make a plan
+vocabulary,N4,Other,準備,じゅんび,preparation
+vocabulary,N4,Descriptions & states,形,かたち,shape
+vocabulary,N4,Actions & routines,色やかたちをくらべる,いろやかたちをくらべる,compare colors or shapes
+vocabulary,N4,Other,今とむかし,いまとむかし,present and past
+vocabulary,N4,Actions & routines,並べる,ならべる,"arrange, put side by side"
+vocabulary,N4,Actions & routines,いすをならべる,いすをならべる,arrange chairs
+vocabulary,N4,Actions & routines,比べる,くらべる,compare
+vocabulary,N4,Nature & weather,育てる,そだてる,"raise, grow (transitivo)"
+vocabulary,N4,Nature & weather,木をそだてる,きをそだてる,grow a tree
+vocabulary,N4,Nature & weather,木が育つ,きがそだつ,a tree grows (intransitivo)
+vocabulary,N4,Nature & weather,植える,うえる,plant
+vocabulary,N4,Nature & weather,木をうえる,きをうえる,plant a tree
+vocabulary,N4,Home & objects,飾る,かざる,decorate
+vocabulary,N4,Other,花をかざる,はなをかざる,display flowers
+vocabulary,N4,Places & travel,移す,うつす,move
+vocabulary,N4,Places & travel,いすをとなりの部屋にうつす,いすをとなりのへやにうつす,move a chair into the next room
+vocabulary,N4,Other,丸,まる,circle
+vocabulary,N4,Descriptions & states,丸い,まるい,round
+vocabulary,N4,Descriptions & states,四角,しかく,square
+vocabulary,N4,Descriptions & states,四角い,しかくい,square
+vocabulary,N4,Descriptions & states,三角,さんかく,triangle
+vocabulary,N4,Other,三角の,さんかくの,triangular
+vocabulary,N4,Other,部長,ぶちょう,"director, manager"
+vocabulary,N4,Descriptions & states,全部,ぜんぶ,"all, everything"
+vocabulary,N4,Education & work,学部,がくぶ,school department
+vocabulary,N4,Home & objects,部屋,へや,room
+vocabulary,N4,Education & work,本屋,ほんや,book store
+vocabulary,N4,Places & travel,花屋,はなや,flower shop
+vocabulary,N4,Education & work,産業,さんぎょう,industry
+vocabulary,N4,Places & travel,お土産,おみやげ,souvenir
+vocabulary,N4,Places & travel,世界,せかい,world
+vocabulary,N4,Actions & routines,世話をする,せわをする,take care of
+vocabulary,N4,Descriptions & states,若い),わかい,young
+vocabulary,N4,People & family,年を取った,としをとった,old person (opuesto a joven)
+vocabulary,N4,Actions & routines,やせる,やせる,"lose weight, become thinner"
+vocabulary,N4,People & family,やせている人,やせているひと,a thin person
+vocabulary,N4,Descriptions & states,長い,ながい,long
+vocabulary,N4,People & family,かみが長い人,かみがながいひと,a person with long hair
+vocabulary,N4,Actions & routines,かける,かける,"to wear (en la cara, como gafas)"
+vocabulary,N4,Home & objects,めがねをかける,めがねをかける,wear glasses
+vocabulary,N4,Actions & routines,かぶる,かぶる,"to wear (en la cabeza, como un sombrero)"
+vocabulary,N4,Home & objects,ぼうしをかぶる,ぼうしをかぶる,wear a hat
+vocabulary,N4,Home & objects,さす,さす,hold (an umbrella)
+vocabulary,N4,Home & objects,かさをさす,かさをさす,hold an umbrella
+vocabulary,N4,Descriptions & states,真面目な,まじめな,"serious, diligent, honest"
+vocabulary,N4,Descriptions & states,似る,にる,"look like, resemble"
+vocabulary,N4,People & family,わたしは母ににている。,わたしはははににている。,I look like my mother.
+vocabulary,N4,Leisure & hobbies,カラオケで歌う。,カラオケでうたう。,sing at karaoke.
+vocabulary,N4,Leisure & hobbies,踊る,おどる,dance
+vocabulary,N4,Leisure & hobbies,歌いながらおどる。,うたいながらおどる。,dance while singing.
+vocabulary,N4,Places & travel,公園を走る。,こうえんをはしる。,run in the park.
+vocabulary,N4,Food & dining,食事中(=食べている),しょくじちゅう(=たべている),during a meal (= eating)
+vocabulary,N4,Education & work,仕事中(=仕事している),しごとちゅう(=しごとしている),in the middle of work (= working)
+vocabulary,N4,Places & travel,勉強中(=勉強している),べんきょうちゅう(=べんきょうしている),in the middle of studying (= studying)
+vocabulary,N4,Home & objects,使用中(=使っている),しようちゅう(=つかっている),in use (= being used)
+vocabulary,N4,Descriptions & states,濃い,こい,"thick, dark, strong (para líquidos, colores)"
+vocabulary,N4,Nature & weather,こいコーヒー / こい色,こいコーヒー / こいいろ,strong coffee / dark color
+vocabulary,N4,Descriptions & states,薄い,うすい,thin (para objetos planos)
+vocabulary,N4,Nature & weather,うすいコーヒー / うすい色,うすいコーヒー / うすいいろ,weak coffee / light color
+vocabulary,N4,Descriptions & states,厚い,あつい,thick (para objetos planos)
+vocabulary,N4,Home & objects,あつい紙,あついかみ,thick paper
+vocabulary,N4,Home & objects,うすい紙,うすいかみ,thin paper
+vocabulary,N4,Food & dining,暑い日 / 熱いお茶,あついひ / あついおちゃ,"hot day / hot tea (暑い para el clima, 熱い para objetos)"
+vocabulary,N4,Descriptions & states,浅い,あさい,shallow
+vocabulary,N4,Places & travel,あさい川,あさいかわ,shallow river
+vocabulary,N4,Descriptions & states,深い,ふかい,deep
+vocabulary,N4,Places & travel,ふかい川,ふかいかわ,deep river
+vocabulary,N4,Descriptions & states,細い,ほそい,"thin, slender"
+vocabulary,N4,Education & work,ほそいペン,ほそいペン,thin pen
+vocabulary,N4,Education & work,太いペン / 太いうで,ふといペン / ふというで,thick pen / big arm
+vocabulary,N4,Descriptions & states,弱い,よわい,weak
+vocabulary,N4,Descriptions & states,強い,つよい,strong
+vocabulary,N4,Descriptions & states,かたい,かたい,hard
+vocabulary,N4,Descriptions & states,やわらかい,やわらかい,soft
+vocabulary,N4,Descriptions & states,厳しい,きびしい,"harsh, strict"
+vocabulary,N4,Descriptions & states,優しい,やさしい,"gentle, kind"
+vocabulary,N4,Descriptions & states,うるさい,うるさい,"loud, noisy"
+vocabulary,N4,Descriptions & states,にぎやかな,にぎやかな,"lively, busy, bustling"
+vocabulary,N4,Education & work,にぎやかな通り / クラス,にぎやかなとおり / クラス,busy street / lively class
+vocabulary,N4,Descriptions & states,静かな,しずかな,quiet
+vocabulary,N4,Descriptions & states,まずい,まずい,"bad taste, disgusting"
+vocabulary,N4,Descriptions & states,おいしい,おいしい,delicious
+vocabulary,N4,Nature & weather,涼しい,すずしい,cool (weather)
+vocabulary,N4,Descriptions & states,珍しい,めずらしい,"rare, unusual"
+vocabulary,N4,Actions & routines,下がる,さがる,go down (intransitivo)
+vocabulary,N4,Amount & frequency,ねだんが下がる,ねだんがさがる,the price goes down
+vocabulary,N4,Places & travel,上がる,あがる,go up (intransitivo)
+vocabulary,N4,Places & travel,ねだんが上がる,ねだんがあがる,the price goes up
+vocabulary,N4,Actions & routines,下げる,さげる,lower (transitivo)
+vocabulary,N4,Amount & frequency,ねだんを下げる,ねだんをさげる,to lower the price
+vocabulary,N4,Actions & routines,上げる,あげる,raise (transitivo)
+vocabulary,N4,Places & travel,下りる,おりる,"go down, get off (escaleras, tren)"
+vocabulary,N4,Actions & routines,かいだんを下りる,かいだんをおりる,go down the stairs
+vocabulary,N4,Places & travel,上る/登る,のぼる,"go up, climb"
+vocabulary,N4,Places & travel,山に登る,やまにのぼる,climb a mountain
+vocabulary,N4,Places & travel,電車を降りる,でんしゃをおりる,get off the train
+vocabulary,N4,Places & travel,電車に乗る,でんしゃにのる,get on the train
+vocabulary,N4,Actions & routines,減る,へる,decrease (intransitivo)
+vocabulary,N4,Actions & routines,増える,ふえる,increase (intransitivo)
+vocabulary,N4,Home & objects,出す,だす,put out
+vocabulary,N4,Actions & routines,AからBを出す,AからBをだす,put B out of A
+vocabulary,N4,Home & objects,入れる,いれる,enter
+vocabulary,N4,Actions & routines,AにBを入れる,AにBをいれる,put B in A
+vocabulary,N4,Descriptions & states,遅れる,おくれる,be late
+vocabulary,N4,Places & travel,電車がおくれる,でんしゃがおくれる,the train is late
+vocabulary,N4,Education & work,じゅぎょうにおくれる,じゅぎょうにおくれる,be late for class
+vocabulary,N4,Time & calendar,電車に間に合う,でんしゃにまにあう,be on time for the train
+vocabulary,N4,Descriptions & states,だめな,だめな,"bad, not good"
+vocabulary,N4,Places & travel,大丈夫な,だいじょうぶな,"all right, okay"
+vocabulary,N4,Amount & frequency,初めは,はじめは,"at first, in the beginning"
+vocabulary,N4,Time & calendar,初めて,はじめて,for the first time
+vocabulary,N4,Amount & frequency,始めに…つぎに,はじめに…つぎに,"first..., next..."
+vocabulary,N4,Actions & routines,いいと思います。,いいとおもいます。,I think it's good.
+vocabulary,N4,Actions & routines,よく考えましょう。,よくかんがえましょう。,Let's think it over carefully.
+vocabulary,N4,Actions & routines,覚える,おぼえる,"memorize, remember (saber algo)"
+vocabulary,N4,Descriptions & states,新しいことばをおぼえます。,あたらしいことばをおぼえます。,memorize new words.
+vocabulary,N4,Actions & routines,おぼえている,おぼえている,remember / to know
+vocabulary,N4,Places & travel,国を思い出す,くにをおもいだす,recall one's country
+vocabulary,N4,Actions & routines,…が 回る,まわる,"turn, revolve (intransitivo)"
+vocabulary,N4,Actions & routines,…を 回す,…を まわす,turn (something) (transitivo)
+vocabulary,N4,Actions & routines,…が 曲がる,まがる,"turn, curve, bend (intransitivo)"
+vocabulary,N4,Actions & routines,…を 曲げる,…を まげる,bend (something) (transitivo)
+vocabulary,N4,Places & travel,まっすぐ行って、右にまがってください。,まっすぐいって、みぎにまがってください。,Go straight and turn right.
+vocabulary,N4,Actions & routines,触る,さわる,touch
+vocabulary,N4,Actions & routines,なる,なる,become
+vocabulary,N4,Places & travel,…が 並ぶ,ならぶ,line up (intransitivo)
+vocabulary,N4,Places & travel,…を 並べる,…を ならべる,to line (something) up (transitivo)
+vocabulary,N4,Actions & routines,…に 慣れる,なれる,get used to...
+vocabulary,N4,Places & travel,日本の生活になれる,にほんのせいかつになれる,get used to life in Japan
+vocabulary,N4,Body & health,病気をする/になる,びょうきをする/になる,get sick
+vocabulary,N4,Body & health,けがをする,けがをする,get injured
+vocabulary,N4,Descriptions & states,無理な,むりな,impossible
+vocabulary,N4,Actions & routines,むりをする,むりをする,"do something too much, overdo it"
+vocabulary,N4,Actions & routines,やめる,やめる,"stop, quit"
+vocabulary,N4,Home & objects,着がえる,きがえる,change clothes
+vocabulary,N4,Actions & routines,はきかえる,はきかえる,change shoes/pants/skirts
+vocabulary,N4,Actions & routines,入れ替える,いれかえる,"change, replace"
+vocabulary,N4,People & family,連れて行く,つれていく,take a person
+vocabulary,N4,Home & objects,持って行く,もっていく,take a thing
+vocabulary,N4,People & family,迎えに行く,むかえにいく,pick up a person
+vocabulary,N4,People & family,送りに行く,おくりにいく,see a person off
+vocabulary,N4,Food & dining,(お)弁当,(お)べんとう,lunch box
+vocabulary,N4,Places & travel,日本へ行く ↔ 日本へ来る,にほんへいく ↔ にほんへくる,go to Japan ↔ come to Japan
+vocabulary,N4,Food & dining,おべんとうを持って行く,おべんとうをもっていく,take a lunch box
+vocabulary,N4,People & family,家族をつれて行く,かぞくをつれていく,take family (with you)
+vocabulary,N4,Places & travel,目が覚める,めがさめる,wake up
+vocabulary,N4,Actions & routines,シャワーを浴びる,シャワーをあびる,take a shower
+vocabulary,N4,Home & objects,磨く,みがく,"polish, brush"
+vocabulary,N4,Home & objects,くつ、まどガラスをみがく,くつ、まどガラスをみがく,polish shoes/windows
+vocabulary,N4,Body & health,はをみがく,はをみがく,brush teeth
+vocabulary,N4,Actions & routines,やる,やる,"① do (=する), ② give (=あげる, a plantas/animales)"
+vocabulary,N4,Actions & routines,しゅくだいをやる,しゅくだいをやる,do homework
+vocabulary,N4,Actions & routines,ネコにえさをやる,ネコにえさをやる,feed the cat
+vocabulary,N4,Other,花に水をやる,はなにみずやる,regar las flores
+vocabulary,N4,People & family,人をおこす,ひとをおこす,wake a person up
+vocabulary,N4,Places & travel,片付ける,かたづける,"clean up, tidy up"
+vocabulary,N4,Places & travel,部屋をかたづける,へやをかたづける,tidy up a room
+vocabulary,N4,Home & objects,アイロンをかける,アイロンをかける,iron
+vocabulary,N4,Home & objects,シャツにアイロンをかける,シャツにアイロンをかける,iron a shirt
+vocabulary,N4,Home & objects,捨てる,すてる,throw away
+vocabulary,N4,Home & objects,ごみをすてる,ごみをすてる,throw away trash
+vocabulary,N4,Actions & routines,出かける,でかける,"leave for, go out"
+vocabulary,N4,Other,支度 (=用意/準備),したく (=ようい/じゅんび),preparation
+vocabulary,N4,Descriptions & states,出かけるしたくをする,でかけるしたくをする,get ready to go out
+vocabulary,N4,Home & objects,かぎをかける,かぎをかける,lock
+vocabulary,N4,Home & objects,掃除する → 掃除機,そうじする → そうじき,to clean → vacuum cleaner
+vocabulary,N4,Home & objects,洗濯する→ 洗濯機,せんたくする → せんたくき,to do laundry → washing machine
+vocabulary,N4,Descriptions & states,うれしい,うれしい,"happy, glad"
+vocabulary,N4,Descriptions & states,つまらない,つまらない,boring
+vocabulary,N4,Descriptions & states,おもしろい,おもしろい,interesting
+vocabulary,N4,Descriptions & states,がっかりする,がっかりする,be disappointed
+vocabulary,N4,Descriptions & states,びっくりする,びっくりする,be surprised
+vocabulary,N4,Body & health,におい,におい,"olor, smell"
+vocabulary,N4,Other,いじめる,いじめる,bully
+vocabulary,N4,Descriptions & states,きっと,きっと,"surely, probably (seguramente, probablemente)"
+vocabulary,N4,Time & calendar,やっと,やっと,"at last, finally"
+vocabulary,N4,Amount & frequency,ずっと,ずっと,"para siempre, forever"
+vocabulary,N4,Time & calendar,さっき,さっき,"a short while ago, hace poco"
+vocabulary,N4,Time & calendar,もうすぐ,もうすぐ,"soon, shortly, before long"
+vocabulary,N4,Other,必ず,かならず,"absolutely, certainly"
+vocabulary,N4,Amount & frequency,たいてい,たいてい,"mostly, usually"
+vocabulary,N4,Descriptions & states,ずいぶん,ずいぶん,"pretty, quite"
+vocabulary,N4,Time & calendar,やっぱり,やっぱり,"just as I thought, after all"
+vocabulary,N4,Other,honorífico: ご覧になる (ごらんになる),見る (みる),"ver, mirar"
+vocabulary,N4,Other,honorífico: おっしゃる,言う (いう),decir
+vocabulary,N4,Other,honorífico: 召し上がる (めしあがる),食べる (たべる),comer
+vocabulary,N4,Actions & routines,お待ちする,おまちする,esperar
+vocabulary,N4,Actions & routines,参る,まいる,"ir, venir"
+vocabulary,N4,Actions & routines,申す,もうす,decir
+vocabulary,N4,Actions & routines,伺う,うかがう,"preguntar, escuchar, visitar"
+vocabulary,N4,Actions & routines,拝見する,はいけんする,"ver, mirar (cuando uno mismo mira algo)"
+vocabulary,N4,Actions & routines,頂く,いただく,"recibir, comer"
+vocabulary,N4,Leisure & hobbies,弾く,ひく,play
+vocabulary,N4,Body & health,吹く,ふく,blow
+vocabulary,N4,Body & health,拭く,ふく,wipe
+vocabulary,N4,Body & health,掃く,はく,sweep
+vocabulary,N4,Body & health,吐く,はく,vomit
+vocabulary,N4,Actions & routines,履く,はく,put on
+vocabulary,N4,Body & health,空く,すく,"1. get hungry 2. get empty, not crowded"
+vocabulary,N4,Descriptions & states,込む / 混む,こむ / こむ,be crowded
