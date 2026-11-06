@@ -6,12 +6,14 @@
     { id: "kanji", label: "Kanji" },
     { id: "random", label: "Random" },
     { id: "mdiccionary", label: "M.Diccionary" },
+    { id: "favorites", label: "Favorites" },
   ];
   // Standalone sections are never part of the Random mix.
   const STANDALONE = ["mdiccionary"];
   const LEVELS = ["N5", "N4", "N3", "N2", "N1"];
   const sectionLabel = (id) => SECTIONS.find((s) => s.id === id).label;
   const STORE_KEY = "jlpt-progress-v2";
+  const FAVORITES_KEY = "jlpt-favorites-v1";
   const SIZES = [10, 20, 30, 50];
   const OPTION_COUNT = 6;
 
@@ -20,6 +22,14 @@
   // ---------- persistence ----------
   // words: { [entry.key]: { seen, missed } }; entry.key = "section|word|reading"
   const state = load();
+  const favorites = loadFavorites();
+  function loadFavorites() {
+    try {
+      const keys = JSON.parse(localStorage.getItem(FAVORITES_KEY));
+      if (Array.isArray(keys)) return new Set(keys.filter((key) => typeof key === "string"));
+    } catch {}
+    return new Set();
+  }
   function load() {
     const base = { size: 20, section: "vocabulary", level: "all", words: {} };
     try {
@@ -58,13 +68,37 @@
   };
   const firstMeaning = (w) => w.meaning.split(";")[0].trim().toLowerCase();
 
+  function favoriteButton(word, onChange) {
+    const button = h("button", {
+      class: "chip favorite-btn",
+      onclick: () => {
+        if (favorites.has(word.key)) favorites.delete(word.key);
+        else favorites.add(word.key);
+        localStorage.setItem(FAVORITES_KEY, JSON.stringify([...favorites]));
+        render();
+        onChange?.();
+      },
+    }, lucide.createElement(lucide.icons.Star, { width: 22, height: 22, "aria-hidden": "true" }));
+    function render() {
+      const active = favorites.has(word.key);
+      const label = `${active ? "Remove from" : "Add to"} favorites: ${word.word}`;
+      button.classList.toggle("is-favorite", active);
+      button.setAttribute("aria-pressed", String(active));
+      button.setAttribute("aria-label", label);
+      button.setAttribute("title", label);
+    }
+    render();
+    return button;
+  }
+
   let keyHandler = null;
   document.addEventListener("keydown", (e) => keyHandler && keyHandler(e));
 
   // ---------- pools ----------
   // spec = { section: vocabulary|grammar|kanji|random, level: "all"|N5..N1, category: "all"|"review"|<name> }
   const inScope = (e, spec) =>
-    (spec.section === "random" ? !STANDALONE.includes(e.section) : e.section === spec.section) &&
+    (spec.section === "favorites" ? favorites.has(e.key) :
+      spec.section === "random" ? !STANDALONE.includes(e.section) : e.section === spec.section) &&
     e.tags.some(
       (t) =>
         (spec.level === "all" || t.level === spec.level) &&
@@ -152,9 +186,9 @@
   function home() {
     keyHandler = null;
     const section = state.section;
-    const sectionEntries = ENTRIES.filter((e) => (section === "random" ? !STANDALONE.includes(e.section) : e.section === section));
+    const sectionEntries = ENTRIES.filter((e) => inScope(e, { section, level: "all", category: "all" }));
     const levels = LEVELS.filter((l) => sectionEntries.some((e) => e.tags.some((t) => t.level === l)));
-    const level = levels.includes(state.level) ? state.level : "all";
+    const level = section !== "favorites" && levels.includes(state.level) ? state.level : "all";
     const base = { section, level };
 
     const chip = (label, active, onclick) => h("button", { class: "chip" + (active ? " active" : ""), onclick }, label);
@@ -185,7 +219,7 @@
     const seenTotal = allPool.filter((w) => rec(w.key).seen).length;
 
     const categories = [];
-    if (section !== "random") {
+    if (section !== "random" && section !== "favorites") {
       for (const e of sectionEntries) {
         for (const t of e.tags) {
           if ((level === "all" || t.level === level) && !categories.includes(t.category)) categories.push(t.category);
@@ -201,7 +235,7 @@
             missedTotal ? card({ ...base, category: "review" }, "Review missed") : null),
           categories.length ? [h("h2", {}, "Categories"), h("div", { class: "grid" }, categories.map((c) => card({ ...base, category: c }, c)))] : null,
         ]
-      : h("div", { class: "sub" }, `No entries yet. Add rows to data/${section}.csv and restart the app.`);
+      : h("div", { class: "sub" }, section === "favorites" ? "No favorites yet." : `No entries yet. Add rows to data/${section}.csv and restart the app.`);
 
     mount(h("div", { class: "wrap" },
       h("div", { class: "topbar" },
@@ -211,9 +245,19 @@
         h("div", { class: "sizes" }, h("span", { class: "sub", style: "margin:0 6px 0 0" }, "Set size"), sizeButtons, custom)),
       h("div", { class: "filters" },
         h("div", { class: "sizes" }, SECTIONS.map((s) => chip(s.label, section === s.id, () => update({ section: s.id })))),
-        h("div", { class: "sizes" }, chip("All levels", level === "all", () => update({ level: "all" })),
-          levels.map((l) => chip(l, level === l, () => update({ level: l }))))),
+        section !== "favorites" ? h("div", { class: "sizes" }, chip("All levels", level === "all", () => update({ level: "all" })),
+          levels.map((l) => chip(l, level === l, () => update({ level: l })))) : null),
       body,
+      section === "favorites" && sectionEntries.length ? [
+        h("h2", {}, "Saved words"),
+        h("div", { class: "favorite-list" }, sectionEntries.map((word) =>
+          h("div", { class: "favorite-row" },
+            h("div", { class: "favorite-word" }, h("span", { class: "k" }, word.word),
+              h("span", { class: "r" }, word.reading),
+              h("span", { class: "sub" }, sectionLabel(word.section))),
+            h("div", { class: "favorite-meaning" }, word.meaning),
+            favoriteButton(word, home)))),
+      ] : null,
       h("h2", {}, ""),
       h("button", { class: "link", onclick: resetProgress }, "Reset progress")));
   }
@@ -233,7 +277,7 @@
 
   function start(spec) {
     const pool = poolFor(spec);
-    if (!pool.length) return;
+    if (!pool.length) return home();
     const words = pickWords(pool, state.size);
     save();
     question({
@@ -329,6 +373,7 @@
     }
 
     keyHandler = (e) => {
+      if (e.target.closest?.(".favorite-btn") && (e.key === "Enter" || e.key === " ")) return;
       if (e.key >= "1" && e.key <= String(OPTION_COUNT)) choose(Number(e.key) - 1);
       else if (e.key === "Enter" || e.key === " ") {
         e.preventDefault();
@@ -339,7 +384,9 @@
 
     const stepLabel = (s.step === 1 ? "Step 1 · Reading" : "Step 2 · Meaning") + ` · ${sectionLabel(word.section)}`;
     const body = h("div", { class: "glass card" },
-      h("div", { class: "step" }, stepLabel, item.retry ? h("span", { class: "badge-review" }, "REVIEW") : null),
+      h("div", { class: "question-tools" },
+        h("div", { class: "step" }, stepLabel, item.retry ? h("span", { class: "badge-review" }, "REVIEW") : null),
+        favoriteButton(word)),
       h("div", { class: "kanji" }, word.word),
       s.step === 2 && needsReading(word) ? h("div", { class: "reading" }, word.reading) : null,
       h("div", { class: "prompt" }, s.step === 1 ? "Select the correct reading" : "Select the correct English meaning"),
@@ -353,6 +400,7 @@
 
   function results(s) {
     keyHandler = (e) => {
+      if (e.target.closest?.(".favorite-btn") && (e.key === "Enter" || e.key === " ")) return;
       if (e.key === "Enter") start(s.spec);
       else if (e.key === "Escape") home();
     };
@@ -372,7 +420,7 @@
           ? h("div", { class: "missed" },
               h("h2", {}, "Missed"),
               missed.map((w) =>
-                h("div", { class: "row" }, h("span", { class: "k" }, w.word), h("span", { class: "r" }, w.reading), h("span", { class: "m" }, w.meaning))))
+                h("div", { class: "row" }, h("span", { class: "k" }, w.word), h("span", { class: "r" }, w.reading), h("span", { class: "m" }, w.meaning), favoriteButton(w))))
           : null,
         h("div", { class: "actions" },
           h("button", { class: "btn ghost", onclick: home }, "Back"),

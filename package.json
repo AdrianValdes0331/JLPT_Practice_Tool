@@ -25,5 +25,8 @@
     "win": {
       "icon": "Icons/icon.ico"
     }
+  },
+  "dependencies": {
+    "lucide": "^1.70.0"
   }
 }

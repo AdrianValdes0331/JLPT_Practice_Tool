@@ -9,6 +9,8 @@ If the word has no kanji (it equals its reading, katakana counted as hiragana), 
 
 Progress is saved locally. Items don't repeat until the pool is exhausted, and missed items are re-asked at the end of the set and mixed into later sets until answered cleanly.
 
+Use the star on a quiz item or missed result to add or remove a favorite. **Favorites** is one saved list across all sections and levels, including M.Diccionary. It shows your saved words with removal controls and supports the usual set sizes, scoring, and missed-item review. Changes update the list immediately; a set already in progress keeps its original items. Favorites persist across restarts and are not erased by Reset progress.
+
 ## Run
 
 ```
