@@ -132,7 +132,7 @@ mdiccionary,N3,Verbos,つける,つける,Encender
 mdiccionary,N3,Verbos,出る,でる,Salir
 mdiccionary,N3,Verbos,寝る,ねる,Dormir /acostarse
 mdiccionary,N3,Verbos,始める,はじめる,Empezar
-mdiccionary,N3,Verbos,見る,みる,Mirar/ver
+mdiccionary,N3,Verbos,見る,みる,Mirar/Ver
 mdiccionary,N3,Verbos,忘れる,わすれる,Olvidar
 mdiccionary,N3,Verbos,する,する,Hacer
 mdiccionary,N3,Verbos,来る,くる,Venir
@@ -212,7 +212,6 @@ mdiccionary,N3,Verbos,ほこりをはらう,ほこりをはらう,Quitar el polv
 mdiccionary,N3,Verbos,連絡する,れんらくする,Ponerse en contacto con~
 mdiccionary,N3,Verbos,いじめる,いじめる,Maltratar
 mdiccionary,N3,Verbos,うそをつく,うそをつく,Mentir
-mdiccionary,N3,Verbos,遅れる,おくれる,Llegar con retraso
 mdiccionary,N3,Verbos,折る,おる,"Romper, doblar"
 mdiccionary,N3,Verbos,カンニングする,かんにんぐする,Copiar en un examen
 mdiccionary,N3,Verbos,消える,きえる,"Apagarse, borrarse"
@@ -225,7 +224,6 @@ mdiccionary,N3,Verbos,押す,おす,"Apretar, pulsar, empujar"
 mdiccionary,N3,Verbos,落ちる,おちる,Desteñirse
 mdiccionary,N3,Verbos,込む,こむ,"Llenarse, estar lleno"
 mdiccionary,N3,Verbos,咲く,さく,Florecer (flores)
-mdiccionary,N3,Verbos,就職する,しゅうしょくする,Entrar a trabajar en...
 mdiccionary,N3,Verbos,たす,たす,Sumar
 mdiccionary,N3,Verbos,縮む,ちじむ,Encoger
 mdiccionary,N3,Verbos,登る,のぼる,Subir
@@ -236,7 +234,6 @@ mdiccionary,N3,Verbos,痩せる,やせる,Adelgazar
 mdiccionary,N3,Verbos,酔っ払う,よっぱらう,Emborracharse
 mdiccionary,N3,Verbos,渡る,わたる,Cruzar
 mdiccionary,N3,Verbos,汗をかく,あせをかく,Sudar
-mdiccionary,N3,Verbos,編む,あむ,Hacer punto
 mdiccionary,N3,Verbos,あんないする,あんないする,"Guiar, conducir a"
 mdiccionary,N3,Verbos,馬に乗る,うまにのる,Montar a caballo
 mdiccionary,N3,Verbos,外食する,がいしょくする,Comer fuera
@@ -260,7 +257,7 @@ mdiccionary,N3,Verbos,残る,のこる,Quedarse
 mdiccionary,N3,Verbos,バイオリンをひく,ばいおりんをひく,Tocar el violin
 mdiccionary,N3,Verbos,沸騰する,ふっとうする,Hervir
 mdiccionary,N3,Verbos,ぶらんこに乗る,ぶらんこにのる,Columpiarse
-mdiccionary,N3,Verbos,予約する,よやくする,Verbo
+mdiccionary,N3,Verbos,予約する,よやくする,Reservar
 mdiccionary,N3,Verbos,別れる,わかれる,Separarse
 mdiccionary,N3,Verbos,遊びに行く,あそびにいく,Ir a visitar
 mdiccionary,N3,Verbos,謝る,あやまる,Disculparse
@@ -351,7 +348,6 @@ mdiccionary,N3,Verbos,炒める,いためる,"Sofreir, saltear"
 mdiccionary,N3,Verbos,おろす,おろす,Rallar
 mdiccionary,N3,Verbos,かくはんする,かくはんする,"Batir (Huevos, crema)"
 mdiccionary,N3,Verbos,刻む,きざむ,"Trocear, picar"
-mdiccionary,N3,Verbos,つける,つける,Macerar
 mdiccionary,N3,Verbos,とく,とく,Diluir
 mdiccionary,N3,Verbos,熱する,ねっする,Calentar (La cazuela)
 mdiccionary,N3,Verbos,残す,のこす,"Dejar, guardar"
@@ -366,7 +362,6 @@ mdiccionary,N3,Verbos,転勤する,てんきんする,Ser trasladado a un sitio
 mdiccionary,N3,Verbos,発展する,はってんする,"Desarrollarse, crecer"
 mdiccionary,N3,Verbos,離れる,はなれる,"Separarse, alejarse de"
 mdiccionary,N3,Verbos,甘やかす,あまやかす,Mimar
-mdiccionary,N3,Verbos,噛む,かむ,"Morder, mascar"
 mdiccionary,N3,Verbos,好まれる,このまれる,"Ser querido, apreciado"
 mdiccionary,N3,Verbos,こぼす,こぼす,Verter
 mdiccionary,N3,Verbos,尊敬する,そんけいする,Respetar
@@ -461,7 +456,7 @@ mdiccionary,N3,Verbos,剃る,そる,Afeitar
 mdiccionary,N3,Verbos,潰す,つぶす,"Aplastar, romper"
 mdiccionary,N3,Verbos,努力する,どりょくする,Hacer un esfuerzo
 mdiccionary,N3,Verbos,住む,すむ,"Vivir, habitar"
-mdiccionary,N3,Verbos,貼る,はる,"Pegar, post"
+mdiccionary,N3,Verbos,貼る,はる,"Pegar, postear"
 mdiccionary,N3,Verbos,調査する,ちょうさする,"Investigar, examinar, inspecionar"
 mdiccionary,N3,Verbos,代わる,かわる,Substituir
 mdiccionary,N3,Verbos,用意する,よういする,Preparar
@@ -474,7 +469,6 @@ mdiccionary,N3,Verbos,追加する,ついかする,Añadir
 mdiccionary,N3,Verbos,戻る,もどる,Regresar
 mdiccionary,N3,Verbos,暮らす,くらす,"Vivir, llevar una vida"
 mdiccionary,N3,Verbos,走る,はしる,Correr
-mdiccionary,N3,Verbos,貼る,はる,"Pegar, postear"
 mdiccionary,N3,Verbos,絶える,たえる,Cesar
 mdiccionary,N3,Verbos,着陸する,ちゃくりくする,Aterrisar
 mdiccionary,N3,Verbos,実現する,じつげんする,"Implementar, poner en efecto"
@@ -496,7 +490,6 @@ mdiccionary,N3,Verbos,尋ねる,たずねる,Preguntar
 mdiccionary,N3,Verbos,伺う,うかがう,"Preguntar sobre, escuchar"
 mdiccionary,N3,Verbos,撃つ,うつ,Disparar
 mdiccionary,N3,Verbos,誕生する,たんじょうする,Nacer
-mdiccionary,N3,Verbos,残す,のこす,"Dejar, pasar a la siguiente generación"
 mdiccionary,N3,Verbos,戦う,たたかう,"Pelear, luchar"
 mdiccionary,N3,Verbos,殺す,ころす,Matar
 mdiccionary,N3,Verbos,間違う,まちがう,Cometer un error
@@ -836,7 +829,7 @@ mdiccionary,N3,Genero de Musica,バラード,ばらーど,Balada
 mdiccionary,N3,Genero de Musica,フラメンコ,ふらめんこ,Flamenco
 mdiccionary,N3,Genero de Musica,ポップミュージック,ぽっぷみゅーじっく,Musica pop
 mdiccionary,N3,Genero de Musica,ボレロ,ぼれろ,Bolero
-mdiccionary,N3,Genero de Musica,ロジック,ろじっく,Rock
+mdiccionary,N3,Genero de Musica,ロック,ろっく,Rock
 mdiccionary,N3,Genero de Musica,音楽家,おんがくか,Musico
 mdiccionary,N3,Genero de Musica,バンド,ばんど,Conjunto musical
 mdiccionary,N3,Profesiones,アーティスト,あーてぃすと,Artista

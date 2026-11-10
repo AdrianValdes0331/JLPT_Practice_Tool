@@ -60,7 +60,7 @@ Notes:
 - If the same item has two different meanings, the first one wins (the build prints a warning).
 - The build fails with the file and line number on an invalid section, level, empty category, or missing field.
 - `grammar.csv` and `kanji.csv` currently hold only a few starter samples; verify and extend them.
-- `mdiccionary.csv` is the standalone **M.Diccionary** section: Miguel Palencia's dictionary, transcribed from the page images in `M.Palencia Diccionario/`. Meanings are in Spanish, the level is `N3` for now, and categories are the image subfolders. It is never included in Random. Remaining work is listed in `Pending.md`.
+- `mdiccionary.csv` is the standalone **M.Diccionary** section: Miguel Palencia's dictionary, transcribed from the page images in `M.Palencia Diccionario/`. Meanings are in Spanish, the level is `N3` for now, and categories are the image subfolders. It is never included in Random.
 - `vocabulary.csv` holds the N3 list plus a few sample rows each for N5, N4, N2 and N1 (at the end of the file); replace or extend them.
 
 ### Example sentences (optional)

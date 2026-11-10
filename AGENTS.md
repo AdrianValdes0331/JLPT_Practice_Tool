@@ -24,7 +24,7 @@ Entry: `{ key: "section|word|reading", section, word, reading, meaning, tags: [{
 
 ## Conventions
 - Adding a section: add its id to `SECTIONS` in `renderer/app.js` and to `SECTIONS` in `tools/build_data.js`, and document it in README.md.
-- `mdiccionary` (M.Diccionary) is standalone: listed in `STANDALONE` in `renderer/app.js`, so Random excludes it. Its meanings are Spanish and are kept verbatim. Unfinished work is tracked in `Pending.md`.
+- `mdiccionary` (M.Diccionary) is standalone: listed in `STANDALONE` in `renderer/app.js`, so Random excludes it. Its meanings are Spanish and are kept verbatim.
 - Adding levels or columns: update `tools/build_data.js` validation, `README.md` and this file together.
 - Changing the stored progress shape: bump `STORE_KEY` and migrate or accept a reset.
 - Keep comments short and only for non-obvious intent. Don't add markdown docs beyond README.md and this file unless asked.
