@@ -2,6 +2,14 @@
 
 Read [README.md](README.md) first: it documents running the app and the CSV data format (the source of truth for content).
 
+For Android work, read and maintain [ANDROID_PLAN.md](ANDROID_PLAN.md), including checklist status, issues, verification, and session handoffs.
+
+## Privacy and project boundaries
+- Restrict searches, file inspection, and file changes to this project. Ask the user before accessing files or data outside the project; running required development tools is allowed, but do not inspect their unrelated files or configuration.
+- Do not use, copy, expose, or share company, personal, confidential, or otherwise sensitive information in code, data, documentation, examples, logs, responses, commits, or external services. This applies even to information found inside the project.
+- Avoid recording machine-specific absolute paths and identifying details in project files; use relative paths and fictional, non-sensitive examples.
+- If potentially sensitive information appears, stop handling it, do not repeat it, and notify the user without exposing its contents. Ask for guidance if access or use is uncertain.
+
 ## Architecture
 - Electron app, no frontend framework, no bundler. Plain JS/CSS in `renderer/`.
 - `main.js`: window only (`contextIsolation` on, `nodeIntegration` off, sandboxed). No preload/IPC; keep it that way unless a feature needs it.

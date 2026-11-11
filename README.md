@@ -11,6 +11,8 @@ Progress is saved locally. Items don't repeat until the pool is exhausted, and m
 
 Use the star on a quiz item or missed result to add or remove a favorite. **Favorites** is one saved list across all sections and levels, including M.Diccionary. It shows your saved words with removal controls and supports the usual set sizes, scoring, and missed-item review. Changes update the list immediately; a set already in progress keeps its original items. Favorites persist across restarts and are not erased by Reset progress.
 
+Android prototype planning and session handoffs are tracked in [ANDROID_PLAN.md](ANDROID_PLAN.md).
+
 ## Run
 
 ```
