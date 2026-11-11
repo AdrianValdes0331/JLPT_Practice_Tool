@@ -1,0 +1,9 @@
+{
+  "appId": "com.local.jlptpractice",
+  "appName": "JLPT Practice Tool",
+  "webDir": "dist/mobile",
+  "server": {
+    "hostname": "localhost",
+    "androidScheme": "https"
+  }
+}

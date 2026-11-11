@@ -27,6 +27,96 @@ The window/taskbar icon comes from `Icons/icon.ico`, generated from `Icons/Desig
 
 If `npm install` fails with "unable to get local issuer certificate" (corporate proxy), run it with `$env:NODE_OPTIONS="--use-system-ca"` and, if Electron's binary did not download, `node node_modules/electron/install.js`.
 
+## Android prototype
+
+The Android wrapper uses Capacitor 8.6.0 and the same quiz code and CSV content
+as desktop. The existing Electron commands above are unchanged.
+
+### Setup
+
+- Node.js 22 or newer and `npm install`.
+- [Android Studio](https://developer.android.com/studio) 2025.2.1 or newer.
+- In Android Studio's SDK Manager, install Android SDK Platform 36, Build-Tools
+  35.0.0 (used by the generated Android Gradle Plugin configuration),
+  Platform-Tools, and Android SDK Command-line Tools (latest).
+- Use JDK 21 through 24 and configure `JAVA_HOME` for command-line builds.
+  The checked-in Gradle 8.14.3 wrapper does not support JDK 25. Newer Android
+  Studio releases may bundle JDK 25: select a compatible JDK in Settings >
+  Build, Execution, Deployment > Build Tools > Gradle rather than assuming
+  the bundled JDK will work. See the [Gradle compatibility matrix](https://docs.gradle.org/8.14.3/userguide/compatibility.html).
+- Let Android Studio configure the SDK location when opening the `android`
+  project, or set `ANDROID_HOME` to your SDK installation for command-line
+  builds. Local machine paths belong in the ignored `android/local.properties`,
+  not tracked configuration.
+- To run the app, connect a USB-debugging-enabled Android device or configure
+  an emulator through Android Studio's Device Manager. The app targets API 36
+  and supports Android 7.0 (API 24) or newer with a current Android System
+  WebView. Review SDK license prompts yourself during installation.
+
+The first native build downloads Gradle and Android dependencies. Only the
+installed quiz is intended to work offline; initial development setup needs
+internet access.
+
+For a standard SDK installation, these PowerShell settings apply only to the
+current terminal. The dedicated Gradle cache avoids unrelated user-level Gradle
+configuration and keeps cache paths short and outside synced source folders:
+
+```powershell
+$env:ANDROID_HOME = Join-Path $env:LOCALAPPDATA 'Android\Sdk'
+$env:GRADLE_USER_HOME = Join-Path $env:LOCALAPPDATA 'JLPTPracticeTool\gradle'
+```
+
+If Java downloads fail because the required certificate is in Windows' trust
+store rather than Java's, use the system trust store for this terminal:
+
+```powershell
+$env:JAVA_TOOL_OPTIONS = '-Djavax.net.ssl.trustStoreType=Windows-ROOT -Djavax.net.ssl.trustStore=NONE'
+```
+
+This keeps TLS verification enabled; do not disable certificate checks.
+
+### Build and test (Windows)
+
+```
+npm run build-mobile    # rebuild data and stage self-contained web assets
+npm run test:mobile     # verify staging, local asset references, desktop preservation
+npm run android:sync    # rebuild assets and copy them into the Android project
+npm run android:open    # open the native Android project in Android Studio
+npm run android:build   # sync, then assemble a debug APK using Gradle
+npm run android:run     # sync, then select an emulator/device to build and launch
+```
+
+The debug APK is written to
+`android/app/build/outputs/apk/debug/app-debug.apk`. Debug builds are for local
+development; stable signed APK distribution and upgrade testing are still
+pending in [ANDROID_PLAN.md](ANDROID_PLAN.md).
+
+`tools/build_mobile.js` stages only the required web assets in `dist/mobile`.
+It adjusts the Lucide path and adds a phone viewport to the generated HTML;
+the desktop HTML, quiz logic, and CSS are not modified. `android:sync` copies
+these assets into the native project. Never edit either generated asset copy.
+Capacitor is a development dependency so it is not added to the Electron
+runtime dependency tree. No remote website or update server is configured.
+
+The prototype application ID is `com.local.jlptpractice`; the WebView origin is
+`https://localhost`. Keep both stable across updates to preserve the app's
+storage location. The update plan is to share a new APK that users install over
+the previous version, not to push automatic updates. Signing, version
+increments, and data retention must be verified before distributing releases.
+
+For the project-specific `JLPT_API_36` emulator created during prototype setup,
+also set these in the project-root terminal before running `android:run`:
+
+```powershell
+$env:ANDROID_AVD_HOME = Join-Path $PWD 'dist\android-avd'
+$env:ANDROID_USER_HOME = Join-Path $PWD 'dist\android-user'
+```
+
+These are ignored, generated test-device files, not source. If they are removed
+or on another machine, create an emulator using Device Manager (or
+`avdmanager`) instead. No personal phone or Google account is required for the
+AOSP test image.
+
 ## Setting up on a new device
 
 Install Node.js (LTS), then in the project folder run `npm install` and `npm start`. Don't copy `node_modules/` from another machine: Electron downloads a platform-specific binary, and copied files get flagged by Windows. Repeating `npm install` rarely fixes an Electron error; check these in order:

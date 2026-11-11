@@ -6,9 +6,18 @@
   "scripts": {
     "build-data": "node tools/build_data.js",
     "start": "npm run build-data && electron .",
-    "dist": "npm run build-data && electron-builder --win portable"
+    "dist": "npm run build-data && electron-builder --win portable",
+    "build-mobile": "npm run build-data && node tools/build_mobile.js",
+    "android:sync": "npm run build-mobile && cap sync android",
+    "android:build": "npm run android:sync && cd android && gradlew.bat --no-daemon assembleDebug",
+    "android:open": "cap open android",
+    "android:run": "npm run android:sync && cap run android",
+    "test:mobile": "node --test tools/build_mobile.test.js"
   },
   "devDependencies": {
+    "@capacitor/android": "8.6.0",
+    "@capacitor/cli": "8.6.0",
+    "@capacitor/core": "8.6.0",
     "electron": "^33.0.0",
     "electron-builder": "^25.1.8",
     "kuroshiro": "^1.2.1",
