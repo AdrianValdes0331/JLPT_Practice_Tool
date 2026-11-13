@@ -7,7 +7,9 @@ Electron desktop quiz for JLPT study. Pick a section (Vocabulary, Grammar, Kanji
 
 If the word has no kanji (it equals its reading, katakana counted as hiragana), step 1 is skipped.
 
-Progress is saved locally. Items don't repeat until the pool is exhausted, and missed items are re-asked at the end of the set and mixed into later sets until answered cleanly.
+Progress is saved locally after pressing **Next** on an item's meaning step, even if you quit before finishing the set or close the app. An unfinished item (including a meaning answer awaiting Next) does not count as studied; the next set draws from the remaining items rather than resuming the abandoned question.
+
+Studied totals are cumulative: practicing a completed category never resets its completion. Practice rounds are tracked separately and persist across restarts, so items don't repeat until the selected pool is exhausted. Missed items are the exception: they are re-asked at the end of the set and mixed into later sets until answered cleanly. **Reset progress** is the only action that clears studied totals and practice rounds; it still asks for confirmation. Existing saved progress is migrated automatically, preserving the studied and missed flags still present in storage.
 
 Use the star on a quiz item or missed result to add or remove a favorite. **Favorites** is one saved list across all sections and levels, including M.Diccionary. It shows your saved words with removal controls and supports the usual set sizes, scoring, and missed-item review. Changes update the list immediately; a set already in progress keeps its original items. Favorites persist across restarts and are not erased by Reset progress.
 

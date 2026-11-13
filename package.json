@@ -12,7 +12,8 @@
     "android:build": "npm run android:sync && cd android && gradlew.bat --no-daemon assembleDebug",
     "android:open": "cap open android",
     "android:run": "npm run android:sync && cap run android",
-    "test:mobile": "node --test tools/build_mobile.test.js"
+    "test:mobile": "node --test tools/build_mobile.test.js",
+    "test:progress": "node --test tools/progress.test.js"
   },
   "devDependencies": {
     "@capacitor/android": "8.6.0",

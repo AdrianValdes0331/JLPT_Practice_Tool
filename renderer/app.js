@@ -12,7 +12,8 @@
   const STANDALONE = ["mdiccionary"];
   const LEVELS = ["N5", "N4", "N3", "N2", "N1"];
   const sectionLabel = (id) => SECTIONS.find((s) => s.id === id).label;
-  const STORE_KEY = "jlpt-progress-v2";
+  const STORE_KEY = "jlpt-progress-v3";
+  const LEGACY_STORE_KEY = "jlpt-progress-v2";
   const FAVORITES_KEY = "jlpt-favorites-v1";
   const SIZES = [10, 20, 30, 50];
   const OPTION_COUNT = 6;
@@ -20,7 +21,7 @@
   const app = document.getElementById("app");
 
   // ---------- persistence ----------
-  // words: { [entry.key]: { seen, missed } }; entry.key = "section|word|reading"
+  // seen is cumulative; roundSeen only tracks the current practice round.
   const state = load();
   const favorites = loadFavorites();
   function loadFavorites() {
@@ -32,14 +33,29 @@
   }
   function load() {
     const base = { size: 20, section: "vocabulary", level: "all", words: {} };
+    let s;
+    let migrating;
     try {
-      const s = JSON.parse(localStorage.getItem(STORE_KEY));
-      if (s && s.words) return { ...base, ...s };
-    } catch {}
-    return base;
+      const current = localStorage.getItem(STORE_KEY);
+      migrating = current === null;
+      s = JSON.parse(migrating ? localStorage.getItem(LEGACY_STORE_KEY) : current);
+      if (!s) return base;
+      if (!s.words || typeof s.words !== "object" || Array.isArray(s.words)) {
+        throw new Error("Invalid saved progress");
+      }
+    } catch (error) {
+      console.error("Could not load saved progress", error);
+      return base;
+    }
+    const loaded = { ...base, ...s };
+    if (migrating) {
+      for (const r of Object.values(loaded.words)) r.roundSeen = !!r.seen;
+      localStorage.setItem(STORE_KEY, JSON.stringify(loaded));
+    }
+    return loaded;
   }
   const save = () => localStorage.setItem(STORE_KEY, JSON.stringify(state));
-  const rec = (key) => (state.words[key] ??= { seen: false, missed: false });
+  const rec = (key) => (state.words[key] ??= { seen: false, missed: false, roundSeen: false });
 
   // ---------- helpers ----------
   function h(tag, props, ...kids) {
@@ -112,25 +128,17 @@
 
   function pickWords(pool, size) {
     size = Math.min(size, pool.length);
+    let unseen = pool.filter((w) => !rec(w.key).roundSeen);
+    if (!unseen.length) {
+      for (const w of pool) rec(w.key).roundSeen = false;
+      unseen = pool;
+    }
     // Near the end of a round, cap the set to the items not yet seen instead of topping up.
-    const remaining = pool.filter((w) => !rec(w.key).seen).length;
-    if (remaining > 0) size = Math.min(size, remaining);
+    size = Math.min(size, unseen.length);
     const missed = shuffle(pool.filter((w) => rec(w.key).missed)).slice(0, Math.ceil(size / 2));
     const chosen = new Set(missed.map((w) => w.key));
     const need = size - missed.length;
-
-    let unseen = pool.filter((w) => !chosen.has(w.key) && !rec(w.key).seen);
-    // Only start a new round once nothing is left unseen, so progress never drops mid-round.
-    if (!unseen.length && need > 0) {
-      for (const w of pool) rec(w.key).seen = false;
-      unseen = pool.filter((w) => !chosen.has(w.key));
-    }
-    let picked = shuffle(unseen).slice(0, need);
-    if (picked.length < need) {
-      // Only reachable when missed words took slots from unseen ones; top up with seen words.
-      const taken = new Set([...chosen, ...picked.map((w) => w.key)]);
-      picked = picked.concat(shuffle(pool.filter((w) => !taken.has(w.key))).slice(0, need - picked.length));
-    }
+    const picked = shuffle(unseen.filter((w) => !chosen.has(w.key))).slice(0, need);
     return shuffle([...missed, ...picked]);
   }
 
@@ -358,6 +366,7 @@
       }
       const r = rec(word.key);
       r.seen = true;
+      r.roundSeen = true;
       if (item.failed) {
         r.missed = true;
         if (!item.retry) s.queue.push({ word, retry: true, failed: false });
